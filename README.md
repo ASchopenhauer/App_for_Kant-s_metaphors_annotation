@@ -32,6 +32,8 @@ The application provides the following functionalities:
 - Toggle visibility of content tokens that are not candidates for the annotation
 - Add unselected semantic tokens to the candidate token in order to annotate them: This is useful for what can be considered false negatives.
 
+**Note:** In our work, a candidate tokens is a semantic token that has either been detected through our computational process or that has been added by the annotator when they judge the token should be annotated for its metaphoricity. We say “candidate tokens”, as a token can be relevant in many ways, despite not necessarily being metaphorical. Every semantic token can be added to the candidates tokens.
+
 ## 2. Token-level annotation interface
 
 - Toggle visibility of all candidate tokens vs tokens that were not deemed as lexically irrelevant
