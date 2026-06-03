@@ -22,4 +22,43 @@ Donwload a JSON file from the `pilot` directory, either from `Templates` or `Rev
 
 Then load that file in the streamlit app [here](https://appforkant-smetaphorsannotation-4zfixsg2qy6zshxmds3vbc.streamlit.app/).
 
+# Main functionalities
+
+The application provides the following functionalities:
+
+## 1. Paragraph-level annotation interface
+
+- Display the original German text with highlighted semantic tokens
+- Toggle visibility of content tokens that are not candidates for the annotation
+- Add unselected semantic tokens to the candidate token in order to annotate them: This is useful for what can be considered false negatives.
+
+## 2. Token-level annotation interface
+
+- Toggle visibility of all candidate tokens vs tokens that were not deemed as lexically irrelevant
+
+### Metaphor annotation
+- Annotate tokens with
+  - lexical relevance
+  - contextual shift
+  - contribution to a "textual image"
+  - metaphorical status
+- Attach free-text comments to each decision
+
+### Metadata
+
+- Linguistic validation support
+  - spaCy-based POS and lemma verification
+  - manual correction fields
+  - syntactic group visualization
+ 
+- Lexical resource exploration
+  - German Wiktionary API lookup
+  - DWDS lexical database checks
+
+- Translation and alignment evaluation
+  - Evaluation of sentence alignment between German and French translations
+  - Optional correction of misaligned sentences
+  - Display of token-level translation
+
+
 
