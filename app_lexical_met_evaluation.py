@@ -655,10 +655,48 @@ if uploaded_file:
 
     ### SAVE ###
 
+    # Ne marche que si un seul download bouton
+
+    st.markdown("""
+    <style>
+    div[data-testid="stDownloadButton"] button {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 9999;
+        width: auto;
+
+        border: none;
+        padding: 12px 18px;
+        border-radius: 12px;
+
+        font-weight: 600;
+        font-size: 14px;
+
+        box-shadow: 0 8px 20px rgba(79, 70, 229, 0.35);
+        cursor: pointer;
+
+        transition: all 0.2s ease-in-out;
+    }
+
+    /* hover */
+    div[data-testid="stDownloadButton"] button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 12px 25px rgba(79, 70, 229, 0.45);
+    }
+
+    /* click */
+    div[data-testid="stDownloadButton"] button:active {
+        transform: translateY(0px) scale(0.98);
+        box-shadow: 0 6px 15px rgba(79, 70, 229, 0.3);
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
     st.download_button(
         label="Save this paragraph",
         data=json.dumps(st.session_state.data, indent=2, ensure_ascii=False),
-        file_name=f"{st.session_state.data["paragraph_id"]}.json",
+        file_name=f"{st.session_state.data['paragraph_id']}.json",
         mime="application/json"
     )
 
