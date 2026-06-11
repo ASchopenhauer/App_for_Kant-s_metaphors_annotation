@@ -1,5 +1,6 @@
 import streamlit as st
 # import streamlit_shadcn_ui as ui
+import uuid # 2026-06-11
 import json
 import os
 
@@ -15,7 +16,7 @@ def select_options(token, i, key, message):
         message,
         ["null", "true", "false"],
         index=0 if token.get(key) is None else (1 if token[key] else 2),
-        key=f"{key}_{i}"
+        key=f"{key}_{i}_{st.session_state.data_id}"
     )
 
     if token[key] == "null":
@@ -28,7 +29,7 @@ def write_comment(token, i, key, message):
     token[key] = st.text_area(
         message,
         value=token.get(key, ""),
-        key=f"{key}_{i}"
+        key=f"{key}_{i}_{st.session_state.data_id}"
     )
 
     if token[key] == "":
@@ -40,14 +41,14 @@ def write_gold(token, i, key, message, long: bool = False):
         token[key] = st.text_area(
             message,
             value=token.get(key, ""),
-            key=f"{key}_{i}"
+            key=f"{key}_{i}_{st.session_state.data_id}"
         )        
 
     else:
         token[key] = st.text_input(
             message,
             value=token.get(key, ""),
-            key=f"{key}_{i}"
+            key=f"{key}_{i}_{st.session_state.data_id}"
         )
 
     if token[key] == "":
@@ -60,7 +61,7 @@ def select_level_options(token, i, key, message, help): # 2026-05-29 (13h43)
         message,
         ["null"] + level_options,
         index=0 if token.get(key) is None else (level_options.index(token[key]) + 1),
-        key=f"{key}_{i}",
+        key=f"{key}_{i}_{st.session_state.data_id}",
         help=help
     )
 
@@ -73,7 +74,7 @@ def select_quality_options(token, i, key, message): # 2026-05-31 (03h29)
         message,
         ["null"] + level_options,
         index=0 if token.get(key) is None else (level_options.index(token[key]) + 1),
-        key=f"{key}_{i}",
+        key=f"{key}_{i}_{st.session_state.data_id}",
         # help=help
     )
 
@@ -293,7 +294,27 @@ def get_dwds_hist_corpora_occurrences(word: str) -> int:
 
     return 0
 
+# def load_json(): # 2026-06-11 (11h21) : Pour pouvoir charger de nouveaux fichiers
+#     uploaded_file = st.session_state.uploaded_file
+#     st.session_state.data = json.load(uploaded_file)
+#     st.session_state.token_page = 0
 
+def load_json():
+
+    uploaded_file = st.session_state.uploaded_file
+
+    # Suppression de toutes les clés SAUF celles des widgets système
+    # for key in list(st.session_state.keys()):
+
+    #     if key == "uploaded_file":
+    #         continue
+
+    #     del st.session_state[key]
+
+    st.session_state.data = json.load(uploaded_file)
+    st.session_state.data_id = str(uuid.uuid4())
+    st.session_state.token_page = 0
+    st.session_state.show_non_candidates = False
 
 
 PAGE_SIZE = 10 # TODO En fonction de l’écran ? Ou alors en faire un choix utilisateur ? J’améliorerai plus tard, pour moi même, 10 c’est bien avec mon écran.
@@ -301,19 +322,19 @@ PAGE_SIZE = 10 # TODO En fonction de l’écran ? Ou alors en faire un choix uti
 st.set_page_config(layout="wide")
 
 ### LOAD DATA ###
-uploaded_file = st.file_uploader("Upload JSON file", type=["json"])
+uploaded_file = st.file_uploader("Upload JSON file", type=["json"], key="uploaded_file", on_change=load_json) # 2026-06-11 (11h21) : modification
 
 if uploaded_file:
     # data = json.load(uploaded_file)
 
-    if "data" not in st.session_state: # 2026-05-30 (16h02) : HYPER important !
-        st.session_state.data = json.load(uploaded_file)
+    # if "data" not in st.session_state: # 2026-05-30 (16h02) : HYPER important !
+    #     st.session_state.data = json.load(uploaded_file)
 
-    if "token_page" not in st.session_state:
-        st.session_state.token_page = 0
+    # if "token_page" not in st.session_state:
+    #     st.session_state.token_page = 0
 
-    if "show_non_candidates" not in st.session_state:
-        st.session_state.show_non_candidates = False
+    # if "show_non_candidates" not in st.session_state:
+    #     st.session_state.show_non_candidates = False
 
     non_candidate_yet = [token for idx, token in st.session_state.data["semantic_tokens"].items() if idx not in st.session_state.data["candidate_tokens"]]
 
@@ -404,7 +425,7 @@ if uploaded_file:
 
             for token in page_tokens:
 
-                if st.button(f"{token['text']} ({token['token_index']})", key=f"add_{token['token_index']}"):
+                if st.button(f"{token['text']} ({token['token_index']})", key=f"add_{token['token_index']}_{st.session_state.data_id}"):
 
                     token_annotation = { # À adapter si je change ma structure de template !
                         "token_index": token["token_index"], 
@@ -485,13 +506,13 @@ if uploaded_file:
 
             c1, c2, c3 = st.columns([2, 1.5, 1.5]) # Je teste diverses proportions
 
-            key = f"mode_{idx}"
+            key = f"mode_{idx}_{st.session_state.data_id}"
             if key not in st.session_state:
                 st.session_state[key] = True
 
             with c1:
                 st.write(f"**{token["text"]}**")
-                if st.button("Switch view", key=f"btn_{idx}"):
+                if st.button("Switch view", key=f"btn_{idx}_{st.session_state.data_id}"):
                     st.session_state[key] = not st.session_state[key]
 
                 if st.session_state[key]: # sentence. Échanger si je veux un autre par défaut !
@@ -563,7 +584,7 @@ if uploaded_file:
                 
                 else:
 
-                    if st.button("Show lemma translation", key=f"lemma_{idx}"): # Seulement si utile
+                    if st.button("Show lemma translation", key=f"lemma_{idx}_{st.session_state.data_id}"): # Seulement si utile
 
                         # TODO sauvegarder la traduction ! Et aussi champ gold… Et pourquoi pas wikisource translation ?
                         lemme_translation = translate_lemme(token["spacy_lemma"])
@@ -573,7 +594,7 @@ if uploaded_file:
                             token["lemma_google_translation"] = lemme_translation
 
                     # TODO Solution temporaire pas satisfaisante.
-                    wikisource_translation_of_token = st.text_input("Wikisource translation of token", value="", key=f"wiki_{idx}")
+                    wikisource_translation_of_token = st.text_input("Wikisource translation of token", value="", key=f"wiki_{idx}_{st.session_state.data_id}")
                     if wikisource_translation_of_token:
                         token["token_wikisource_translation"] = wikisource_translation_of_token
                         # st.rerun()
@@ -587,10 +608,10 @@ if uploaded_file:
 
                 # if st.button("Search in lexical resources", key=f"lexical_search_{idx}"): # 2026-06-01 (11h29)
                 # TODO à améliorer…
-                with st.form(key=f"lex_form_{idx}"):
+                with st.form(key=f"lex_form_{idx}_{st.session_state.data_id}"):
 
-                    to_search = st.text_input("Form to search in lexical resources", value=token["spacy_lemma"], key=f"lexical_search_{idx}")
-                    submitted = st.form_submit_button("Search in lexical resources", key=f"search_btn_{idx}")
+                    to_search = st.text_input("Form to search in lexical resources", value=token["spacy_lemma"], key=f"lexical_search_{idx}_{st.session_state.data_id}")
+                    submitted = st.form_submit_button("Search in lexical resources", key=f"search_btn_{idx}_{st.session_state.data_id}")
 
                 if submitted and to_search:
                     
@@ -630,7 +651,7 @@ if uploaded_file:
                     token_annotation["detection_comment"] = st.text_area(
                         "Why is the token not detected?",
                         value=token_annotation.get("detection_comment", ""),
-                        key=f"detection_comment_{idx}" 
+                        key=f"detection_comment_{idx}_{st.session_state.data_id}" 
                     )
 
                 # TODO ajouter gold si pas correct ! hehe !
