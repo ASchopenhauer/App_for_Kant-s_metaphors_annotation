@@ -210,7 +210,7 @@ def translate_lemme(lemme): # 2026-05-29 (14h23)
 
 ### Lexical search ###
 
-def word_is_in_wiktionary_de(word: str) -> bool:
+def word_is_in_wiktionary_de(word: str) -> bool | None:
     """
     Check if a web page exists in the german wiktionary
     """
@@ -226,24 +226,38 @@ def word_is_in_wiktionary_de(word: str) -> bool:
         "format": "json"
     }
 
-    r = requests.get(url, params=params, headers=headers, timeout=10)
-    r.raise_for_status()
+    try:
+        r = requests.get(url, params=params, headers=headers, timeout=10)
+        r.raise_for_status()
+        data = r.json()
 
-    data = r.json()
+    except requests.exceptions.RequestException as e:
+        st.warning(f"Wiktionary is unavailable for “{word}”: {e}")
+        return None
+
+    except ValueError:
+        st.warning(f"Wiktionary response invalid for “{word}”")
+        return None
 
     pages = data["query"]["pages"]
 
     return not any("missing" in page for page in pages.values())
 
-def word_is_in_dwds(word: str) -> bool:
+def word_is_in_dwds(word: str) -> bool | None:
     url = f"https://www.dwds.de/wb/{word}"
 
-    r = requests.get(
-        url,
-        allow_redirects=True,
-        timeout=10,
-        headers={"User-Agent": "Mozilla/5.0"}
-    )
+    try:
+        r = requests.get(
+            url,
+            allow_redirects=True,
+            timeout=10,
+            headers={"User-Agent": "Mozilla/5.0"}
+        )
+        r.raise_for_status()
+
+    except requests.exceptions.RequestException as e:
+        st.warning(f"DWDS unavailable for “{word}”: {e}")
+        return None
 
     html = r.text.lower()
 
@@ -255,13 +269,26 @@ def word_is_in_dwds(word: str) -> bool:
 
     return True
 
-def get_dwds_dwb_entries(word: str) -> int:
+def get_dwds_dwb_entries(word: str) -> int | None:
+    """
+    Get number of DWB entries.
+    Returns None if DWDS fails.
+    """
     url = f"https://www.dwds.de/wb/dwb/hits"
 
-    r = requests.get(url, params={"q": word}, timeout=10)
-    r.raise_for_status()
+    try:
+        r = requests.get(url, params={"q": word}, timeout=10)
+        r.raise_for_status()
 
-    data = r.json()
+        data = r.json()
+
+    except requests.exceptions.RequestException as e:
+        st.warning(f"DWB unavailable for “{word}”: {e}")
+        return None
+
+    except ValueError:
+        st.warning(f"DWB response invalid for “{word}”")
+        return None
 
     if isinstance(data, dict):
         return int(data.get("0", 0))
@@ -271,7 +298,11 @@ def get_dwds_dwb_entries(word: str) -> int:
 
     return 0
 
-def get_dwds_hist_corpora_occurrences(word: str) -> int:
+def get_dwds_hist_corpora_occurrences(word: str) -> int | None:
+    """
+    Get historical corpus occurrences.
+    Returns None if DWDS fails.
+    """
     url = f"https://www.dwds.de/r/hits"
 
     headers = {"User-Agent": "Mozilla/5.0 (Streamlit DWDS client)"}
@@ -281,10 +312,18 @@ def get_dwds_hist_corpora_occurrences(word: str) -> int:
         "q": word
     }
 
-    r = requests.get(url, params=params, headers=headers, timeout=10)
-    r.raise_for_status()
-
-    data = r.json()
+    try:
+        r = requests.get(url, params=params, headers=headers, timeout=10)
+        r.raise_for_status()
+        data = r.json()
+    
+    except requests.excepttions.HTTPError as e:
+        st.warning(f"DWDS sent an HTTP error ({e.response.status_code}) for “{word}”.")  # optionnel
+        return None
+    
+    except requests.exceptions.RequestException:
+        st.warning("DWDS is impossible to reach.")
+        return None
 
     if isinstance(data, dict):
         return int(data.get("0", 0))
