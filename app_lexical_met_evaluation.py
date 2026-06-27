@@ -85,13 +85,15 @@ def select_quality_options(token, i, key, message): # 2026-05-31 (03h29)
 def select_undetected_cause_options(token, token_annotation, i): # 2026-06-27 (16h22)
     key = "undetected_cause"
     message = "Why is the token not detected?"
-    level_options = ["lemmatisation", "themes_selection", "extraction_process_from_OCR", "not_in_lexical_resources"]
+    level_options = ["lemmatisation", "themes_selection", "extraction_process_from_OCR", "not_in_Niemann", "not_in_lexical_resources"]
 
     default_cause = None
     if token_annotation["spacy_lemma_is_correct"] == False:
         default_cause = "lemmatisation"
     elif token["themes"] not in ["No entry found.", ""] and not token["selected_themes"]:
         default_cause = "themes_selection"
+    elif token_annotation.get("ocr_check") and token_annotation["ocr_check"] == {}:
+        default_cause = "not_in_Niemann"
     
     selected = token_annotation.get(key) if token_annotation.get(key) is not None else default_cause
 
