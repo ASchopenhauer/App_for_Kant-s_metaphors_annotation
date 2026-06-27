@@ -771,7 +771,8 @@ if uploaded_file:
                 
                 if token_annotation["is_detected"] is False:
                     no_extracted_theme_for_token = token.get('themes', '') in ["No entry found.", ""]
-                    if no_extracted_theme_for_token: # 2026-06-27 (15h05)
+                    
+                    if no_extracted_theme_for_token or token["selected_themes"] == "": # 2026-06-27 (15h05)
                         # Il est alors pertinent de consulter le fichier ocr_lines_by_theme.json
 
                         if "ocr_check" not in token_annotation:
