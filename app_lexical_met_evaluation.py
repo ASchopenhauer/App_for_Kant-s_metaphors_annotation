@@ -708,7 +708,7 @@ if uploaded_file:
                         to_write = ""
                         for theme, lines in token_annotation["ocr_check"].items():
                             to_write += f"{theme}\n\t{', '.join(lines)}"
-                        to_write = to_write if to_write else f"No match found in the OCR files for {token['spacy_lemma']}"
+                        to_write = to_write if to_write else f"No match found in the OCR files for “{token['spacy_lemma']}”"
                         st.write(to_write)
                     
                     token_annotation["detection_comment"] = st.text_area(
