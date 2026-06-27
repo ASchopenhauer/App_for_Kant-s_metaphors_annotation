@@ -817,7 +817,8 @@ if uploaded_file:
                         token_annotation["gold_extracted_themes"] = st.multiselect(
                             "Gold extracted themes", 
                             options=st.session_state.all_themes,
-                            default=selected
+                            default=selected,
+                            key=f"gold_extracted_themes_{idx}_{st.session_state.data_id}",
                         )
                     
                     select_undetected_cause_options(token, token_annotation, idx) # 2026-06-27 (16h27)
