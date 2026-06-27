@@ -90,7 +90,7 @@ def select_undetected_cause_options(token, token_annotation, i): # 2026-06-27 (1
     default_cause = None
     if token_annotation["spacy_lemma_is_correct"] == False:
         default_cause = "lemmatisation"
-    elif token["themes"] not in ["No entry found.", ""] and token["selected_themes"] is None:
+    elif token["themes"] not in ["No entry found.", ""] and not token["selected_themes"]:
         default_cause = "themes_selection"
     
     selected = token_annotation.get(key) if token_annotation.get(key) is not None else default_cause
