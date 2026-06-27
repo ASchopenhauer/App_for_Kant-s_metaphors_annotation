@@ -748,9 +748,10 @@ if uploaded_file:
                                 to_write += f"**OCR Search for `{form}`:**\n\n"
                             elif results == {}:
                                 to_write += f"No match found in the OCR files for `{form}`.\n\n"
-                            for theme, lines in results.items():
-                                lines_to_write = [f"* `{line}`" for line in lines]
-                                to_write += f"**{theme}:**\n\n{'\n'.join(lines_to_write)}\n\n"
+                            else:
+                                for theme, lines in results.items():
+                                    lines_to_write = [f"* `{line}`" for line in lines]
+                                    to_write += f"**{theme}:**\n\n{'\n'.join(lines_to_write)}\n\n"
                         
                         #for theme, lines in token_annotation["ocr_check"].items():
                         #    lines_to_write = [f"* `{line}`" for line in lines]
