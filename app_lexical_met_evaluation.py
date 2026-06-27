@@ -413,6 +413,30 @@ if uploaded_file:
     if "themes_by_word" not in st.session_state: # 2026-06-27 (23h44)
         with open("themes_by_word.pkl", "rb") as f:
             st.session_state.themes_by_word = pickle.load(f)
+
+    if "all_themes" not in st.session_state: # 2026-06-28 (01h02)
+        st.session_state.all_themes = [
+            'Agriculture', 
+            'Alimentation', 
+            'Arts', 
+            'Botanique',
+            'Droit_Justice', 
+            'Histoire', 
+            'Homme_Santé_Médecine', 
+            'Information_Communication', 
+            'Lettres', 
+            'Monde', 
+            'Religion', 
+            'Sciences_exactes', 
+            'Sciences_humaines', 
+            'Sciences_politiques', 
+            'Sport', 
+            'Transport_Tourisme', 
+            'Urbanisme', 
+            'Vetement', 
+            'Vie_économique', 
+            'Zoologie',
+            'Zoologie_Botanique']
     
     # data = json.load(uploaded_file)
 
@@ -746,7 +770,8 @@ if uploaded_file:
 
                 
                 if token_annotation["is_detected"] is False:
-                    if token.get('themes', '') in ["No entry found.", ""]: # 2026-06-27 (15h05)
+                    no_extracted_theme_for_token = token.get('themes', '') in ["No entry found.", ""]
+                    if no_extracted_theme_for_token: # 2026-06-27 (15h05)
                         # Il est alors pertinent de consulter le fichier ocr_lines_by_theme.json
 
                         if "ocr_check" not in token_annotation:
@@ -780,6 +805,20 @@ if uploaded_file:
                                 token_annotation["ocr_check"][to_search] = search_string_in_ocr(to_search, st.session_state.ocr_lines_by_theme,)
                                 st.rerun()
 
+                    if no_extracted_theme_for_token or token_annotation["spacy_lemma_is_correct"] is False:
+
+                        default_themes = []
+                        if token_annotation["gold_lemma"]:
+                            default_themes.extend(token_annotation["themes_gold_lemma"])
+
+                        selected = token_annotation.get("gold_extracted_themes") if token_annotation.get("gold_extracted_themes") is not None else default_themes
+                        
+                        token_annotation["gold_extracted_themes"] = st.multiselect(
+                            "Gold extracted themes", 
+                            options=st.session_state.all_themes,
+                            default=selected
+                        )
+                    
                     select_undetected_cause_options(token, token_annotation, idx) # 2026-06-27 (16h27)
                     
                     token_annotation["detection_comment"] = st.text_area(
