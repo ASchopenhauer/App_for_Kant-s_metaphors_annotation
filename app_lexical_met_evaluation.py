@@ -743,9 +743,9 @@ if uploaded_file:
 
                         for form, results in token_annotation["ocr_check"].items():
                             if form != token["spacy_lemma"]:
-                                to_write += f"**OCR Search for `{form}`**\n\n"
-                            elif token_annotation["ocr_check"][token["spacy_lemma"]] == {}:
-                                to_write += f"No match found in the OCR files for `{token['spacy_lemma']}`\n\n"
+                                to_write += f"**OCR Search for `{form}`:**\n\n"
+                            elif results == {}:
+                                to_write += f"No match found in the OCR files for `{form}`.\n\n"
                             for theme, lines in token_annotation["ocr_check"].items():
                                 lines_to_write = [f"* `{line}`" for line in lines]
                                 to_write += f"**{theme}:**\n\n{'\n'.join(lines_to_write)}\n\n"
@@ -764,7 +764,7 @@ if uploaded_file:
 
                                 if st.button("Search", key=f"search_{idx}_{st.session_state.data_id}"):
                                     token_annotation["ocr_check"][to_search] = search_string_in_ocr(to_search, st.session_state.ocr_lines_by_theme,)
-                                    #st.rerun()
+                                    st.rerun()
 
                     select_undetected_cause_options(token, token_annotation, idx) # 2026-06-27 (16h27)
                     
