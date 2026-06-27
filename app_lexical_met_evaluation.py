@@ -707,8 +707,8 @@ if uploaded_file:
                         token_annotation["ocr_check"] = search_string_in_ocr(token["spacy_lemma"], st.session_state.ocr_lines_by_theme)
                         to_write = ""
                         for theme, lines in token_annotation["ocr_check"].items():
-                            lines_to_write = [f"“{line}”" for line in lines]
-                            to_write += f"**{theme}:**\n\n\t{', '.join(lines_to_write)}\n\n"
+                            lines_to_write = [f"* “{line}”" for line in lines]
+                            to_write += f"**{theme}:**\n\n{'\n'.join(lines_to_write)}\n\n"
                         to_write = to_write if to_write else f"No match found in the OCR files for “{token['spacy_lemma']}”"
                         st.markdown(to_write)
                     
