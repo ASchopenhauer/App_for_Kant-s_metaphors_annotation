@@ -737,15 +737,31 @@ if uploaded_file:
                 if token_annotation["is_detected"] is False:
                     if token.get('themes', '') in ["No entry found.", ""]: # 2026-06-27 (15h05)
                         # Il est alors pertinent de consulter le fichier ocr_lines_by_theme.json
-                        token_annotation["ocr_check"] = search_string_in_ocr(token["spacy_lemma"], st.session_state.ocr_lines_by_theme)
+                        token_annotation["ocr_check"] = {}
+                        token_annotation["ocr_check"][token["spacy_lemma"]] = search_string_in_ocr(token["spacy_lemma"], st.session_state.ocr_lines_by_theme)
                         to_write = ""
-                        for theme, lines in token_annotation["ocr_check"].items():
-                            lines_to_write = [f"* `{line}`" for line in lines]
-                            to_write += f"**{theme}:**\n\n{'\n'.join(lines_to_write)}\n\n"
-                        to_write = to_write if to_write else f"No match found in the OCR files for “{token['spacy_lemma']}”"
+
+                        for form, results in token_annotation["ocr_check"].items():
+                            if form != token["spacy_lemma"]:
+                                to_write += f"**OCR Search for `{form}`**\n\n"
+                            elif token_annotation["ocr_check"][token["spacy_lemma"]] == {}:
+                                to_write += f"No match found in the OCR files for `{token['spacy_lemma']}`"
+                            for theme, lines in token_annotation["ocr_check"].items():
+                                lines_to_write = [f"* `{line}`" for line in lines]
+                                to_write += f"**{theme}:**\n\n{'\n'.join(lines_to_write)}\n\n"
+                        
+                        #for theme, lines in token_annotation["ocr_check"].items():
+                        #    lines_to_write = [f"* `{line}`" for line in lines]
+                        #    to_write += f"**{theme}:**\n\n{'\n'.join(lines_to_write)}\n\n"
+                        
+                        #to_write = to_write if to_write else f"No match found in the OCR files for “{token['spacy_lemma']}”"
                         with st.container(border=True):
                             st.caption("OCR Search")
                             st.markdown(to_write)
+                            
+                            if token_annotation["ocr_check"][token["spacy_lemma"]] == {}:
+                                to_search = st.text_input("Form to search in the OCRized Niemann", key=f"ocr_search_{idx}_{st.session_state.data_id}")
+                                token_annotation["ocr_check"][to_search] = search_string_in_ocr(to_search, st.session_state.ocr_lines_by_theme)
 
                     select_undetected_cause_options(token, token_annotation, idx) # 2026-06-27 (16h27)
                     
