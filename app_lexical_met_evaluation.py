@@ -3,6 +3,7 @@ import streamlit as st
 import uuid # 2026-06-11
 import json
 import os
+from collections import defaultdict
 
 import requests
 from deep_translator import GoogleTranslator # 2026-05-29 (14h20) : On verra si c’est une bonne idée
@@ -333,6 +334,15 @@ def get_dwds_hist_corpora_occurrences(word: str) -> int | None:
 
     return 0
 
+### OCR Search ### # 2026-06-27 (15h14)
+def search_string_in_ocr(string, lines_by_theme):
+    results = defaultdict(list)
+    for theme, lines in lines_by_theme.items():
+        for line in lines:
+            if string in line:
+                results[theme].append(line)
+    return results
+
 # def load_json(): # 2026-06-11 (11h21) : Pour pouvoir charger de nouveaux fichiers
 #     uploaded_file = st.session_state.uploaded_file
 #     st.session_state.data = json.load(uploaded_file)
@@ -364,6 +374,11 @@ st.set_page_config(layout="wide")
 uploaded_file = st.file_uploader("Upload JSON file", type=["json"], key="uploaded_file", on_change=load_json) # 2026-06-11 (11h21) : modification
 
 if uploaded_file:
+
+    if "ocr_lines_by_theme" not in st.session_state: # new 2026-06-27 (14h57)
+        with open("ocr_lines_by_theme.json", "r", encoding="utf-8") as f:
+            st.session_state.ocr_lines_by_theme = json.load(f)
+    
     # data = json.load(uploaded_file)
 
     # if "data" not in st.session_state: # 2026-05-30 (16h02) : HYPER important !
@@ -687,6 +702,15 @@ if uploaded_file:
 
                 
                 if token_annotation["is_detected"] is False:
+                    if token.get('themes', '') in ["No entry found.", ""]: # 2026-06-27 (15h05)
+                        # Il est alors pertinent de consulter le fichier ocr_lines_by_theme.json
+                        token_annotation["ocr_check"] = search_string_in_ocr(token["spacy_lemma"])
+                        to_write = ""
+                        for theme, lines in token_annotation["ocr_check"].items():
+                            to_write += f"{theme}\n\t{', '.join(lines)}"
+                        to_write = to_write if to_write else f"No match found in the OCR files for {token['lemma']}"
+                        st.write(to_write)
+                    
                     token_annotation["detection_comment"] = st.text_area(
                         "Why is the token not detected?",
                         value=token_annotation.get("detection_comment", ""),
