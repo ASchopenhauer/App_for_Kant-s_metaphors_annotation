@@ -317,7 +317,7 @@ def get_dwds_hist_corpora_occurrences(word: str) -> int | None:
         r.raise_for_status()
         data = r.json()
     
-    except requests.excepttions.HTTPError as e:
+    except requests.exceptions.HTTPError as e:
         st.warning(f"DWDS sent an HTTP error ({e.response.status_code}) for “{word}”.")  # optionnel
         return None
     
