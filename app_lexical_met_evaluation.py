@@ -524,8 +524,11 @@ if uploaded_file:
             Click this button only after having checked all the semantic tokens and insured there is none that should be added anymore.
         """
         # En fait, pour dire qu’on a fini de revoir. Donc si j’en ai ajouté deux et après j’estime que c’est bon, je clique dessus.
-        if st.button("No more token to add"):
+        if st.session_state.data.get("no_more_token_to_add"): # 2026-06-27 (15h56)
+            st.info("No more token to add")
+        elif st.button("No more token to add"):
             st.session_state.data["no_more_token_to_add"] = True # Pour l’instant n’existe pas dans mes templates de base. Et je crois que c’est pas si grave…
+        
 
     st.divider()
 
