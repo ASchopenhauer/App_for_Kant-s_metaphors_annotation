@@ -745,7 +745,7 @@ if uploaded_file:
                             st.caption("OCR Search")
                             st.markdown(to_write)
 
-                    select_undetected_cause_options(token, token_annotation, i) # 2026-06-27 (16h27)
+                    select_undetected_cause_options(token, token_annotation, idx) # 2026-06-27 (16h27)
                     
                     token_annotation["detection_comment"] = st.text_area(
                         "Why is the token not detected?",
