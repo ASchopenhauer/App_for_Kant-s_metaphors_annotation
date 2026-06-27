@@ -2,6 +2,7 @@ import streamlit as st
 # import streamlit_shadcn_ui as ui
 import uuid # 2026-06-11
 import json
+import pickle
 import os
 from collections import defaultdict
 
@@ -408,6 +409,10 @@ if uploaded_file:
     if "ocr_lines_by_theme" not in st.session_state: # new 2026-06-27 (14h57)
         with open("ocr_lines_by_theme.json", "r", encoding="utf-8") as f:
             st.session_state.ocr_lines_by_theme = json.load(f)
+
+    if "themes_by_word" not in st.session_state: # 2026-06-27 (23h44)
+        with open("themes_by_word.pkl", "rb") as f:
+            st.session_state.themes_by_word = pickle.load(f)
     
     # data = json.load(uploaded_file)
 
@@ -692,6 +697,12 @@ if uploaded_file:
 
                 if token_annotation["spacy_lemma_is_correct"] is False:
                     write_gold(token_annotation, idx, "gold_lemma", "Gold lemma?")
+
+                if token_annotation["gold_lemma"]:
+                    if "themes_gold_lemma" not in token_annotation:
+                        token_annotation["themes_gold_lemma"] = st.session_state.themes_by_word[token_annotation["gold_lemma"]]
+                    to_write = "**Gold lemma themes:** " + ", ".join(token_annotation["themes_gold_lemma"])
+                    st.markdown(to_write)
 
                 # if st.button("Search in lexical resources", key=f"lexical_search_{idx}"): # 2026-06-01 (11h29)
                 # TODO à améliorer…
