@@ -82,6 +82,34 @@ def select_quality_options(token, i, key, message): # 2026-05-31 (03h29)
     if token[key] == "null":
         token[key] = None    
 
+def select_undetected_cause_options(token, token_annotation, i): # 2026-06-27 (16h22)
+    key = "undetected_cause"
+    message = "Why is the token not detected?"
+    level_options = ["lemmatisation", "themes_selection", "extraction_process_from_OCR", "not_in_lexical_resources"]
+
+    default_cause = None
+    if token_annotation["spacy_lemma_is_correct"] == False:
+        default_cause = "lemmatisation"
+    elif token["themes"] not in ["No entry found.", ""] and token["selected_themes"] is None:
+        default_cause = "themes_selection"
+    
+    selected = token_annotation.get(key) if token_annotation.get(key) is not None else default_cause
+
+    if selected in level_options:
+        index = level_options.index(selected) + 1
+    else:
+        index = 0
+    
+    token_annotation[key] = st.selectbox(
+        message,
+        ["null"] + level_options,
+        index=index,
+        key=f"{key}_{i}_{st.session_state.data_id}",
+        # help=help
+    )
+
+    if token_annotation[key] == "null":
+        token[key] = None 
 
 def write(text):
     st.markdown(
@@ -716,6 +744,8 @@ if uploaded_file:
                         with st.container(border=True):
                             st.caption("OCR Search")
                             st.markdown(to_write)
+
+                    select_undetected_cause_options(token, token_annotation, i) # 2026-06-27 (16h27)
                     
                     token_annotation["detection_comment"] = st.text_area(
                         "Why is the token not detected?",
