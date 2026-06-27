@@ -710,7 +710,9 @@ if uploaded_file:
                             lines_to_write = [f"* `{line}`" for line in lines]
                             to_write += f"**{theme}:**\n\n{'\n'.join(lines_to_write)}\n\n"
                         to_write = to_write if to_write else f"No match found in the OCR files for “{token['spacy_lemma']}”"
-                        st.markdown(to_write)
+                        with st.container(border=True):
+                            st.caption("OCR Search")
+                            st.markdown(to_write)
                     
                     token_annotation["detection_comment"] = st.text_area(
                         "Why is the token not detected?",
