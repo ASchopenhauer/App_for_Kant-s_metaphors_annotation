@@ -737,8 +737,10 @@ if uploaded_file:
                 if token_annotation["is_detected"] is False:
                     if token.get('themes', '') in ["No entry found.", ""]: # 2026-06-27 (15h05)
                         # Il est alors pertinent de consulter le fichier ocr_lines_by_theme.json
-                        token_annotation["ocr_check"] = {}
-                        token_annotation["ocr_check"][token["spacy_lemma"]] = search_string_in_ocr(token["spacy_lemma"], st.session_state.ocr_lines_by_theme)
+
+                        if "ocr_check" not in token_annotation:
+                            token_annotation["ocr_check"] = {}
+                            token_annotation["ocr_check"][token["spacy_lemma"]] = search_string_in_ocr(token["spacy_lemma"], st.session_state.ocr_lines_by_theme)
                         to_write = ""
 
                         for form, results in token_annotation["ocr_check"].items():
