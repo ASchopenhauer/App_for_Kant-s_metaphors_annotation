@@ -761,8 +761,10 @@ if uploaded_file:
                             
                             if token_annotation["ocr_check"][token["spacy_lemma"]] == {}:
                                 to_search = st.text_input("Form to search in the OCRized Niemann", key=f"ocr_search_{idx}_{st.session_state.data_id}")
-                                token_annotation["ocr_check"][to_search] = search_string_in_ocr(to_search, st.session_state.ocr_lines_by_theme)
-                                st.rerun()
+
+                                if st.button("Search", key=f"search_{idx}_{st.session_state.data_id}"):
+                                    token_annotation["ocr_check"][to_search] = search_string_in_ocr(to_search,st.session_state.ocr_lines_by_theme,)
+                                    st.rerun()
 
                     select_undetected_cause_options(token, token_annotation, idx) # 2026-06-27 (16h27)
                     
