@@ -111,6 +111,12 @@ def select_undetected_cause_options(token, token_annotation, i): # 2026-06-27 (1
     
     selected = token_annotation.get(key) if token_annotation.get(key) is not None else default_causes # TODO à revoir
 
+    # 2026-06-28 (18h39)
+    if selected is None or selected == []:
+        selected = default_causes
+    elif isinstance(selected, str):
+        selected = [selected]
+
     #if selected in level_options:
     #    index = level_options.index(selected) + 1
     #else:
