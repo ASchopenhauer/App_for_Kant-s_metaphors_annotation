@@ -95,6 +95,7 @@ def select_undetected_cause_options(token, token_annotation, i): # 2026-06-27 (1
         "OCR", 
         "not_in_Niemann", 
         "derived_form",
+        "compound",
         "not_in_lexical_resources"]
 
     #default_cause = None
