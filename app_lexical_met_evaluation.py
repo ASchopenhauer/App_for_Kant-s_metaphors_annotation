@@ -818,26 +818,22 @@ if uploaded_file:
                                 token_annotation["ocr_check"][to_search] = search_string_in_ocr(to_search, st.session_state.ocr_lines_by_theme,)
                                 st.rerun()
 
-                    # if no_extracted_theme_for_token or token_annotation["spacy_lemma_is_correct"] is False:
-
-                    ### In the end, would be usefull in more cases ###
-                    default_themes = []
-                    if token_annotation["gold_lemma"]:
-                        default_themes.extend(token_annotation["themes_gold_lemma"])
-                    elif token["themes"] not in ["", "No entry found."]:
-                        default_themes.extend(st.session_state.themes_by_word[token["spacy_lemma"]])
-
-                    #selected = token_annotation.get("gold_extracted_themes") if token_annotation.get("gold_extracted_themes") is not None else default_themes
-                    selected = token_annotation.get("gold_extracted_themes") if token_annotation.get("gold_extracted_themes") else default_themes
-                    
-                    token_annotation["gold_extracted_themes"] = sorted(st.multiselect(
-                        "Gold extracted themes", 
-                        options=st.session_state.all_themes,
-                        default=selected,
-                        key=f"gold_extracted_themes_{idx}_{st.session_state.data_id}",
-                    ))
-
-                    ### end ###
+                    if no_extracted_theme_for_token or token_annotation["spacy_lemma_is_correct"] is False:
+                        default_themes = []
+                        if token_annotation["gold_lemma"]:
+                            default_themes.extend(token_annotation["themes_gold_lemma"])
+                        elif token["themes"] not in ["", "No entry found."]:
+                            default_themes.extend(st.session_state.themes_by_word[token["spacy_lemma"]])
+    
+                        selected = token_annotation.get("gold_extracted_themes") if token_annotation.get("gold_extracted_themes") is not None else default_themes
+                        #selected = token_annotation.get("gold_extracted_themes") if token_annotation.get("gold_extracted_themes") else default_themes
+                        
+                        token_annotation["gold_extracted_themes"] = sorted(st.multiselect(
+                            "Gold extracted themes", 
+                            options=st.session_state.all_themes,
+                            default=selected,
+                            key=f"gold_extracted_themes_{idx}_{st.session_state.data_id}",
+                        ))
                     
                     select_undetected_cause_options(token, token_annotation, idx) # 2026-06-27 (16h27)
                     
