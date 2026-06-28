@@ -878,13 +878,13 @@ if uploaded_file:
 
     /* hover */
     div[data-testid="stDownloadButton"] button:hover {
-        transform: translateY(-2px);
+        transform: translateX(-50%) translateY(-2px);
         box-shadow: 0 12px 25px rgba(79, 70, 229, 0.45);
     }
 
     /* click */
     div[data-testid="stDownloadButton"] button:active {
-        transform: translateY(0px) scale(0.98);
+        transform: translateX(-50%) translateY(0) scale(0.98);
         box-shadow: 0 6px 15px rgba(79, 70, 229, 0.3);
     }
     </style>
