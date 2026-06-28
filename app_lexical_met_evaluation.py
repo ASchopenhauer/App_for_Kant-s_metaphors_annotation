@@ -90,6 +90,7 @@ def select_undetected_cause_options(token, token_annotation, i): # 2026-06-27 (1
         "lemmatisation", 
         "themes_selection", 
         "extraction_process_from_OCR",  
+        "in_compounds_in_Niemann",
         "only_in_expressions_in_Niemann", 
         "OCR", 
         "not_in_Niemann", 
