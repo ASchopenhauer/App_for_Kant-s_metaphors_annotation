@@ -814,20 +814,20 @@ if uploaded_file:
 
                         selected = token_annotation.get("gold_extracted_themes") if token_annotation.get("gold_extracted_themes") is not None else default_themes
                         
-                        token_annotation["gold_extracted_themes"] = st.multiselect(
+                        token_annotation["gold_extracted_themes"] = sorted(st.multiselect(
                             "Gold extracted themes", 
                             options=st.session_state.all_themes,
                             default=selected,
                             key=f"gold_extracted_themes_{idx}_{st.session_state.data_id}",
-                        )
+                        ))
                     
                     select_undetected_cause_options(token, token_annotation, idx) # 2026-06-27 (16h27)
                     
-                    token_annotation["detection_comment"] = sorted(st.text_area(
+                    token_annotation["detection_comment"] = st.text_area(
                         "Why is the token not detected?",
                         value=token_annotation.get("detection_comment", ""),
                         key=f"detection_comment_{idx}_{st.session_state.data_id}" 
-                    ))
+                    )
 
                 # TODO ajouter gold si pas correct ! hehe !
 
