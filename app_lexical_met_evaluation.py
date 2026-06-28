@@ -86,27 +86,37 @@ def select_quality_options(token, i, key, message): # 2026-05-31 (03h29)
 def select_undetected_cause_options(token, token_annotation, i): # 2026-06-27 (16h22)
     key = "undetected_cause"
     message = "Why is the token not detected?"
-    level_options = ["lemmatisation", "themes_selection", "extraction_process_from_OCR",  "only_in_expressions_in_Niemann", "OCR", "not_in_Niemann", "not_in_lexical_resources"]
+    level_options = [
+        "lemmatisation", 
+        "themes_selection", 
+        "extraction_process_from_OCR",  
+        "only_in_expressions_in_Niemann", 
+        "OCR", 
+        "not_in_Niemann", 
+        "not_in_lexical_resources"]
 
-    default_cause = None
+    #default_cause = None
+    default_causes = []
     if token_annotation["spacy_lemma_is_correct"] == False:
-        default_cause = "lemmatisation"
+        default_causes.append("lemmatisation")
+        #TODO Considérer les thèmes obtenus du gold lemma ! Si selected ou pas.
     elif token["themes"] not in ["No entry found.", ""] and not token["selected_themes"]:
-        default_cause = "themes_selection"
+        default_cause.append("themes_selection")
     elif token_annotation.get("ocr_check") and token_annotation["ocr_check"] == {}:
-        default_cause = "not_in_Niemann"
+        default_cause.append("not_in_Niemann")
+    #TODO Considérer les thèmes gold extracted ! Si selected ou pas.
     
-    selected = token_annotation.get(key) if token_annotation.get(key) is not None else default_cause
+    selected = token_annotation.get(key) if token_annotation.get(key) is not None else default_causes # TODO à revoir
 
-    if selected in level_options:
-        index = level_options.index(selected) + 1
-    else:
-        index = 0
+    #if selected in level_options:
+    #    index = level_options.index(selected) + 1
+    #else:
+    #    index = 0
     
-    token_annotation[key] = st.selectbox(
+    token_annotation[key] = st.multiselect(
         message,
-        ["null"] + level_options,
-        index=index,
+        options=level_options,
+        default=selected # 2026-06-28 (16h44)
         key=f"{key}_{i}_{st.session_state.data_id}",
         # help=help
     )
