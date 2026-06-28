@@ -101,9 +101,9 @@ def select_undetected_cause_options(token, token_annotation, i): # 2026-06-27 (1
         default_causes.append("lemmatisation")
         #TODO Considérer les thèmes obtenus du gold lemma ! Si selected ou pas.
     elif token["themes"] not in ["No entry found.", ""] and not token["selected_themes"]:
-        default_cause.append("themes_selection")
+        default_causes.append("themes_selection")
     elif token_annotation.get("ocr_check") and token_annotation["ocr_check"] == {}:
-        default_cause.append("not_in_Niemann")
+        default_causes.append("not_in_Niemann")
     #TODO Considérer les thèmes gold extracted ! Si selected ou pas.
     
     selected = token_annotation.get(key) if token_annotation.get(key) is not None else default_causes # TODO à revoir
