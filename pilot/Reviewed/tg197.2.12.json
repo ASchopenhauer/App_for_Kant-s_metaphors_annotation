@@ -4,7 +4,7 @@
   "structure_path": "Vorrede",
   "text": "Wenn es um die Bestimmung eines besonderen Vermögens der menschlichen Seele, nach seinen Quellen, Inhalte und Grenzen zu tun ist, so kann man zwar, nach der Natur des menschlichen Erkenntnisses, nicht anders als von den Teilen derselben, ihrer genauen und (so viel als nach der jetzigen Lage unserer schon erworbenen Elemente derselben möglich ist) vollständigen Darstellung anfangen. Aber es ist noch eine zweite Aufmerksamkeit, die mehr philosophisch und architektonisch ist; nämlich, die Idee des Ganzen richtig zu fassen, und aus derselben alle jene Teile in ihrer wechselseitigen Beziehung auf einander, vermittelst der Ableitung derselben von dem Begriffe jenes Ganzen, in einem reinen Vernunftvermögen ins Auge zu fassen. Diese Prüfung und Gewährleistung ist nur durch die innigste Bekanntschaft mit dem System möglich, und die, welche in Ansehung der ersteren Nachforschung verdrossen gewesen, also diese Bekanntschaft zu erwerben nicht der Mühe wert geachtet haben, gelangen nicht zur zweiten Stufe, nämlich der Übersicht, welche eine synthetische Wiederkehr zu demjenigen ist, was vorher analytisch gegeben worden, und es ist kein Wunder, wenn sie allerwärts Inkonsequenzen finden, obgleich die Lücken, die diese vermuten lassen, nicht im System selbst, sondern bloß in ihrem eigenen unzusammenhängenden Gedankengange anzutreffen sind.",
   "wikisource_translation": "Quand il s’agit d’étudier une faculté particulière de l’âme humaine pour en déterminer les sources, le Contenu et les limites, il est sans doute impossible, à cause de la nature même de la connaissance humaine, de ne pas commencer par les parties de cette faculté, et par une exposition de ces parties, exacte et (autant que cela est possible dans l’état actuel des éléments que l’on possède déjà) complète. Mais il y a encore une autre chose à faire, qui est plus philosophique et architectonique, c’est d’embrasser exactement l’idée du tout, et par là de considérer toutes ces parties dans les rapports qu’elles ont entre elles et avec la faculté rationnelle qui les comprend, en les dérivant de cette idée du tout. Or cette épreuve et cette garantie ne sont possibles que pour ceux qui possèdent la connaissance la plus intime du système ; ceux qui ont négligé la première recherche, et qui n’ont pas cru devoir se donner la peine d’acquérir cette connaissance, ne s’élèvent pas jusqu’à ce second degré, c’est-à-dire jusqu’à cette vue d’ensemble, qui est un retour synthétique sur ce qui a été donné d’abord analytiquement. Il n’est donc pas étonnant qu’ils trouvent partout des inconséquences, et les lacunes qu’ils signalent n’existent pas dans le système même, mais seulement dans leur méthode incohérente.",
-  "translation_is_correctly_aligned": "true",
+  "translation_is_correctly_aligned": true,
   "n_tokens": 222,
   "n_detected_tokens": 7,
   "page_number_of_paper_translation": null,
@@ -171,7 +171,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "16": {
       "token_index": 16,
@@ -226,7 +227,9 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "limites"
+      "token_wikisource_translation": "limites",
+      "de_sentence_eval": null,
+      "token_translation_comment": null
     },
     "20": {
       "token_index": 20,
@@ -550,7 +553,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "55": {
       "token_index": 55,
@@ -901,7 +905,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "81": {
       "token_index": 81,
@@ -1198,7 +1203,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": "good",
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "110": {
       "token_index": 110,
@@ -1333,7 +1339,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "121": {
       "token_index": 121,
@@ -1901,7 +1908,9 @@
       "status": "auto",
       "sentence_translation_eval": "good",
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "degré"
+      "token_wikisource_translation": "degré",
+      "de_sentence_eval": null,
+      "token_translation_comment": null
     },
     "168": {
       "token_index": 168,
@@ -1956,7 +1965,10 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "vue d'ensemble"
+      "token_wikisource_translation": "vue d'ensemble",
+      "de_sentence_eval": null,
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "174": {
       "token_index": 174,
@@ -2254,7 +2266,9 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "lacunes"
+      "token_wikisource_translation": "lacunes",
+      "de_sentence_eval": null,
+      "token_translation_comment": null
     },
     "204": {
       "token_index": 204,
@@ -2470,7 +2484,9 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "219": {
       "token_index": 219,
@@ -2652,7 +2668,17 @@
       "status": "added",
       "detection_comment": "",
       "metaphor_comment": null,
-      "lexical_relevance_comment": null
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "ocr_check": {
+        "architektonisch": {
+          "Arts": [
+            "architektonisch"
+          ]
+        }
+      }
     },
     "200": {
       "token_index": 200,
@@ -2672,7 +2698,24 @@
       "status": "added",
       "detection_comment": "",
       "metaphor_comment": null,
-      "lexical_relevance_comment": null
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "ocr_check": {
+        "Lücke": {
+          "Information_Communication": [
+            "die Lücke, n"
+          ],
+          "Sciences_humaines": [
+            "die Lücken aus-füllen",
+            "eine große Lücke reißen (in +A)"
+          ],
+          "Sport": [
+            "die Lücke, n"
+          ]
+        }
+      }
     },
     "218": {
       "token_index": 218,
@@ -2690,9 +2733,28 @@
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": "The metaphor is in the word construction, as it is a compound. It is lexicalized as it can be found in the lexik of the german language, and is used a lot.",
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "It is really surprising that this common term is not in the Niemann. Maybe it could be an error in OCR.",
       "metaphor_comment": "Compound metaphor",
-      "lexical_relevance_comment": "I would say rather no but I am not sure. Never come as surprising in our context."
+      "lexical_relevance_comment": "I would say rather no but I am not sure. Never come as surprising in our context.",
+      "ocr_check": {
+        "Gedankengang": {},
+        "Gedanken": {
+          "Lettres": [
+            "die Gedankeniyrik",
+            "die Gedankenlyrik",
+            "der Gedankenstrich, e",
+            "wollüstig (Gedanken)"
+          ],
+          "Sciences_humaines": [
+            "die Gedankenwelt"
+          ]
+        },
+        "dankeng": {}
+      },
+      "undetected_cause": [
+        "not_in_Niemann"
+      ],
+      "gold_extracted_themes": []
     },
     "170": {
       "token_index": 170,
@@ -2710,9 +2772,129 @@
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": "Also a lexical metaphor in french.",
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "To some extent not in the Niemann as its own noun. Couln't be extracted with our process, even with betterment",
       "metaphor_comment": null,
-      "lexical_relevance_comment": "Hard to tell, it seems rare that this word is used for its literal meaning, linked with the sense of vision"
+      "lexical_relevance_comment": "Hard to tell, it seems rare that this word is used for its literal meaning, linked with the sense of vision",
+      "ocr_check": {
+        "Übersicht": {
+          "Homme_Santé_Médecine": [
+            "die Übersichtigkeit"
+          ],
+          "Information_Communication": [
+            "eine Übersicht über die Ereignisse"
+          ]
+        },
+        "sicht": {
+          "Arts": [
+            "die Besichtigung, en ; besichtigen",
+            "die Vorder- ; die Seitenansicht, en",
+            "die Luftansicht, en",
+            "die Draufsicht, die Kamera von oben"
+          ],
+          "Droit_Justice": [
+            "die Einsichtnahme in",
+            "die richterliche Aufsicht,",
+            "die Polizeiaufsicht",
+            "die beabsichtigte schwere"
+          ],
+          "Homme_Santé_Médecine": [
+            "Gesicht",
+            "das Gesicht, er",
+            "die Gesichtszüge mpl",
+            "der Gesichtssinn",
+            "sichtbar ; unsichtbar",
+            "die Gesichtscreme, s",
+            "das Gesichtswasser, -",
+            "Gesicht",
+            "die Übersichtigkeit",
+            "fernsichtig/weitsichtig",
+            "die Kurzsichtigkeit ; kurzsichtig",
+            "nachtsichtig",
+            "die Alterssichtigkeit; alterssichtig",
+            "die Gleitsichtbrillengläser",
+            "die Mund-Kiefer-Gesichtsorthopädie |",
+            "die Mund-Kiefer-Gesichtsorthopädie"
+          ],
+          "Information_Communication": [
+            "eine Übersicht über die Ereignisse",
+            "das Gespräch von Angesicht zu",
+            "Angesicht",
+            "die Ansichtssendung, en",
+            "die Inhaltsübersicht, en",
+            "das Datensichtgerät, e"
+          ],
+          "Lettres": [
+            "rücksichtslos sein",
+            "das Gesicht, er",
+            "offensichtlich",
+            "das Gesicht, er"
+          ],
+          "Monde": [
+            "die sichtbare, unsichtbare",
+            "mit freiem/bloßemn Auge sichtbar"
+          ],
+          "Sciences_humaines": [
+            "die Ansicht, en",
+            "berücksichtigen (+A)",
+            "die Absicht, en ; absichtlich",
+            "beabsichtigen etw zu tun",
+            "die Nachsicht ; nachsichtig",
+            "rücksichtsvoll",
+            "rücksichtsios (gegen+A)",
+            "die Vorsicht ; vorsichtig",
+            "die Umsicht",
+            "umsichtig",
+            "die Unvorsichtigkeit ; unvorsichtig",
+            "der Optimismus, die Zuversicht",
+            "zuversichtlich, optimistisch",
+            "die Schul(aufsichts)behörde",
+            "die Aufsicht ; beaufsichtigen ır",
+            "die Aufsicht haben/führen",
+            "(Leiter der internen Schulaufsicht) (F)",
+            "streng ; nachsichtig",
+            "eine Ansichtssache, n",
+            "etw berücksichtigen",
+            "eine Stadt, ein Museum besichtigen"
+          ],
+          "Sciences_politiques": [
+            "die Truppen besichtigen",
+            "die Verwundeten sichten"
+          ],
+          "Transport_Tourisme": [
+            "eine übersichtliche Straße",
+            "vorsichtig, unvorsichtig",
+            "eine unübersichtliche Kurve",
+            "der Aussichtswagen",
+            "das Radarsichtgerät",
+            "gesichtet werden",
+            "eine Stadt besichtigen",
+            "die Aussicht"
+          ],
+          "Urbanisme": [
+            "die Bau(aufsichts)behörde, n (D)",
+            "die Bauaufsicht",
+            "Die Aussicht ist verbaut."
+          ],
+          "Vie_économique": [
+            "die (un)sichtbare Einfuhr",
+            "der Aufsichtsrat",
+            "die Klarsichtpackung",
+            "das Ansichtsmuster/",
+            "der Nachsichtwechsel |",
+            "die Berufsaussichten fp/",
+            "das Gewerbeaufsichtsamt"
+          ],
+          "Zoologie_Botanique": [
+            "Vorsicht, bissiger Hund !"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "in_compounds_in_Niemann",
+        "only_in_expressions_in_Niemann",
+        "not_in_Niemann"
+      ],
+      "gold_extracted_themes": []
     }
   },
   "no_more_token_to_add": true

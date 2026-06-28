@@ -67,7 +67,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "contrecoup",
       "token_wikisource_translation": "contraire",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "4": {
       "token_index": 4,
@@ -639,7 +640,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "conflit",
       "token_wikisource_translation": "contradiction",
-      "token_translation_comment": "The Google translation show that the term can be more concrete and from another conceptual domain."
+      "token_translation_comment": "The Google translation show that the term can be more concrete and from another conceptual domain.",
+      "undetected_cause": null
     },
     "61": {
       "token_index": 61,
@@ -1153,7 +1155,8 @@
           "dwds_historical_corpora_occurrences": 1304,
           "dwb_entries": 1
         }
-      }
+      },
+      "undetected_cause": null
     },
     "105": {
       "token_index": 105,
@@ -1548,7 +1551,8 @@
           "dwds_historical_corpora_occurrences": 2,
           "dwb_entries": 0
         }
-      }
+      },
+      "undetected_cause": null
     },
     "130": {
       "token_index": 130,
@@ -1660,7 +1664,16 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "impétueux",
       "token_wikisource_translation": "hardies",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null,
+      "lexical_search": {
+        "dreist": {
+          "is_in_wiktionary": true,
+          "is_in_dwds": true,
+          "dwds_historical_corpora_occurrences": null,
+          "dwb_entries": 1
+        }
+      }
     },
     "137": {
       "token_index": 137,
@@ -1718,7 +1731,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "céleste",
       "token_wikisource_translation": "céleste",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "144": {
       "token_index": 144,
@@ -1779,7 +1793,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "sourd",
       "token_wikisource_translation": "sourdes",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "147": {
       "token_index": 147,
@@ -1872,7 +1887,8 @@
           "dwds_historical_corpora_occurrences": 195,
           "dwb_entries": 1
         }
-      }
+      },
+      "undetected_cause": null
     },
     "156": {
       "token_index": 156,
@@ -1903,7 +1919,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "coût",
       "token_wikisource_translation": "coûte",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "158": {
       "token_index": 158,
@@ -2092,9 +2109,50 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": "Hard to tell",
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Surprising",
       "lexical_relevance_comment": "Domain of war?",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Widerstreit": {},
+        "widerstreit": {},
+        "streit": {
+          "Droit_Justice": [
+            "das streitige Verwaltungsverfahren",
+            "das streitige Verfahren",
+            "die streitende Partei",
+            "der Rechtsstreit, die Streitsache",
+            "der Rechtsstreit ist abgeschlossen."
+          ],
+          "Histoire": [
+            "der Investiturstreit (1075)",
+            "die streitbare Demokratie"
+          ],
+          "Sciences_humaines": [
+            "der Ehestreit, der Ehekrach (fam)",
+            "sich streiten, |, i, sich zanken",
+            "die Kunstreiterin, nen",
+            "sich zanken, sich streiten, i, i 2",
+            "streitsüchtig, zänkisch"
+          ],
+          "Sciences_politiques": [
+            "die Luftstreitkräfte fpl",
+            "die Seestreitkräfte fpl",
+            "die Seeluftstreitkräfte fol",
+            "die Atomstreitmacht, \"e",
+            "die französische Atomstreitmacht"
+          ],
+          "Sport": [
+            "einen Boxkampf bestreiten, i, i"
+          ],
+          "Urbanisme": [
+            "die Mietstreitigkeiten fp/"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "2": {
       "token_index": 2,
@@ -2114,7 +2172,15 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": "Hard to say",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Widerspiel": {},
+        "widerspiel": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "103": {
       "token_index": 103,
@@ -2132,9 +2198,59 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Probably too complexe. Note that we couln't find an entry for that precise lemma in lexica. We need to look for \"überschreien\" (not in Duden, not in DWDS). We can think that this word was constructed by Kant, which is normal for the german language. Also no occurrence with a search on Cosmas2 (IDS Mannheim).",
+      "detection_comment": "Derived from “überschreien”",
       "lexical_relevance_comment": null,
-      "metaphor_comment": "Probably. Or at least a symbol. And metaphorical in the context: several words are serving the same metaphor."
+      "metaphor_comment": "Probably. Or at least a symbol. And metaphorical in the context: several words are serving the same metaphor.",
+      "ocr_check": {
+        "unüberschreibar": {},
+        "überschreib": {},
+        "überschrei": {
+          "Information_Communication": [
+            "die Frist überschreiten"
+          ],
+          "Sciences_politiques": [
+            "überschreiten, i, i"
+          ],
+          "Transport_Tourisme": [
+            "die Geschwindigkeitsüberschreitung '",
+            "überschreiten, i, i",
+            "Lademaßüberschreitungen for"
+          ],
+          "Urbanisme": [
+            "überschreiten, |, i"
+          ],
+          "Vie_économique": [
+            "die Lieferfrist überschreiten, i, i",
+            "überschreiten, i, i",
+            "die Kreditüberschreitung"
+          ]
+        },
+        "überschreien": {},
+        "über~schreien": {},
+        "schreien": {
+          "Arts": [
+            "grell, schreiend"
+          ],
+          "Homme_Santé_Médecine": [
+            "sich heiser schreien, ie, ie |"
+          ],
+          "Sciences_humaines": [
+            "schreien, ie, ie ; der Schrei, e",
+            "laut schreien, brüllen"
+          ],
+          "Zoologie_Botanique": [
+            "schreien, ie, ie (Eule)",
+            "röhren/schreien ; das Röhren",
+            "schreien, ie, ie ‚iahen",
+            "schreien, ie, ie ‚iahen"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann",
+        "derived_form"
+      ]
     },
     "108": {
       "token_index": 108,
@@ -2154,7 +2270,100 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "themes_gold_lemma": [],
+      "ocr_check": {
+        "gemeinst": {},
+        "gemein": {
+          "Agriculture": [
+            "die Landgemeinde, n"
+          ],
+          "Droit_Justice": [
+            "der Allgemeinen"
+          ],
+          "Histoire": [
+            "die Sprachgemeinschaft, en",
+            "die Kulturgemeinschaft, en"
+          ],
+          "Homme_Santé_Médecine": [
+            "der gemeinsame Gallengang",
+            "‚die Allgemeinmedizin"
+          ],
+          "Information_Communication": [
+            "die allgemeine Information",
+            "die allgemeine Tagespresse",
+            "ARD (Arbeitsgemeinschaft der öffentlich-",
+            "rechtlichen Rundfunkgemeinschaften",
+            "das allgemeine Programm",
+            "allgemein verständlich machen",
+            "die Buchgemeinschaft, en/"
+          ],
+          "Lettres": [
+            "die Semiotik/die allgemeine",
+            "die Sprachgemeinschaft, en",
+            "die Sprachgemeinschaft, en"
+          ],
+          "Religion": [
+            "die Pfarrgemeinde, n (cath),",
+            "die Kirchengemeinde (prot)"
+          ],
+          "Sciences_exactes": [
+            "der gemeine Bruch",
+            "der gemeinsame Nenner",
+            "auf einen gemeinsamen Nenner",
+            "größter gemeinsamer Teiler",
+            "kleinstes gemeinsames Vielfaches",
+            "die allgemeine Relativitätstheorie",
+            "das allgemeine Gravitationsgesetz"
+          ],
+          "Sciences_humaines": [
+            "allgemein",
+            "die Verallgemeinerung, en",
+            "das Allgemeine (adj)",
+            "allgemeine Heiterkeit",
+            "das allgemeinbildende Schulwesen",
+            "die Allgemeinbildung",
+            "die allgemeine Schulpflicht",
+            "die Arbeitsgemeinschaft, en/AG, s",
+            "der Allgemeine Studentenausschuss",
+            "die Arbeitsgemeinschaft, en/",
+            "die Lebensgemeinschaft ”",
+            "die nichteheliche Lebensgemein-",
+            "die Gütergemeinschaft, en",
+            "die Zugewinngemeinschaft",
+            "die Errungenschaftsgemeinschaft",
+            "die Verallgemeinerung, en",
+            "die gemeinnützige Gesellschaft"
+          ],
+          "Sciences_politiques": [
+            "die allgemeinen Wahlen",
+            "das allgemeine Zoll- und",
+            "die gemeinsame Sozialpolitik",
+            "die gemeinsame Agrarpolitik (GAP)",
+            "innergemeinschaftlich",
+            "außergemeinschaftlich",
+            "die gemeinsame Währung",
+            "die allgemeine Wehrpflicht",
+            "als gemeiner Soldat dienen"
+          ],
+          "Transport_Tourisme": [
+            "die Fahrgemeinschaft"
+          ],
+          "Urbanisme": [
+            "de gemeinschaftliche Grenzmauer",
+            "die Wohngemeinschaft, en,"
+          ],
+          "Vie_économique": [
+            "Interessengemeinschaft",
+            "die Allgemeinen"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "lemmatisation",
+        "only_in_expressions_in_Niemann"
+      ]
     },
     "129": {
       "token_index": 129,
@@ -2174,7 +2383,19 @@
       "status": "added",
       "detection_comment": "No entry in lexica of the german language. Probably a kantian invention.",
       "lexical_relevance_comment": null,
-      "metaphor_comment": "Compound metaphor probably. Very pictoral. Not 100% sure."
+      "metaphor_comment": "Compound metaphor probably. Very pictoral. Not 100% sure.",
+      "ocr_check": {
+        "kopfverwirrend": {},
+        "Kopf verwirr": {},
+        "Kopfverwirr": {},
+        "kopfverwirr": {},
+        "verwirren": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_lexical_resources",
+        "not_in_Niemann"
+      ]
     },
     "155": {
       "token_index": 155,
@@ -2194,7 +2415,17 @@
       "status": "added",
       "detection_comment": "No entry in german lexica.",
       "lexical_relevance_comment": null,
-      "metaphor_comment": "Probably. Compound metaphor. And since it is a new word, although it doesn't seem much surprising, it is certainly deliberate and not so much lexicalized."
+      "metaphor_comment": "Probably. Compound metaphor. And since it is a new word, although it doesn't seem much surprising, it is certainly deliberate and not so much lexicalized.",
+      "ocr_check": {
+        "Kopfbrechen": {},
+        "Kopf brechen": {},
+        "kopfbrechen": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_lexical_resources",
+        "not_in_Niemann"
+      ]
     },
     "143": {
       "token_index": 143,
@@ -2212,9 +2443,23 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Not in the Niemann, but it is surprising. Maybe there was an error in the OCR / processing of the Niemann.",
+      "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "himmlisch": {
+          "Religion": [
+            "der Himmel ; himmlisch"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Religion"
+      ],
+      "undetected_cause": [
+        "extraction_process_from_OCR",
+        "themes_selection"
+      ]
     },
     "136": {
       "token_index": 136,
@@ -2234,7 +2479,21 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": "Probably a metonymie for the philosophical schools."
+      "metaphor_comment": "Probably a metonymie for the philosophical schools.",
+      "ocr_check": {
+        "dreist": {
+          "Lettres": [
+            "dreistellig"
+          ],
+          "Sciences_exactes": [
+            "eine dreistellige Zahl"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "145": {
       "token_index": 145,
@@ -2252,9 +2511,54 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Not in the Niemann, surprising.",
+      "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": "Or at least in a symbolic way. Figurative for sure."
+      "metaphor_comment": "Or at least in a symbolic way. Figurative for sure.",
+      "ocr_check": {
+        "taub": {
+          "Homme_Santé_Médecine": [
+            "taubstumm ; der Taubstumme (adj)",
+            "gehörlos, taub"
+          ],
+          "Monde": [
+            "der Goldstaub"
+          ],
+          "Sciences_humaines": [
+            "sich taub stellen"
+          ],
+          "Sport": [
+            "das Wurftaubenschießen",
+            "die Wurftaube, n"
+          ],
+          "Urbanisme": [
+            "der Staub",
+            "die Staubflocken fp/",
+            "ab-stauben, (den) Staub wischen",
+            "das Staubtuch, \"er",
+            "der Staubsauger, -",
+            "der Handstaubsauger",
+            "staubsaugen/ Staub saugen"
+          ],
+          "Zoologie_Botanique": [
+            "die Ringel-/Wildtaube",
+            "die Hohltaube ; die Feldtaube",
+            "die Turteltaube",
+            "die Brieftaube",
+            "der Brieftaubenzüchter, -",
+            "das Staubblatt, \"er",
+            "der Staubfaden, ”",
+            "der Staubbeutel, -",
+            "der Blütenstaub/der Pollen, -"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Homme_Santé_Médecine"
+      ],
+      "undetected_cause": [
+        "extraction_process_from_OCR",
+        "themes_selection"
+      ]
     },
     "156": {
       "token_index": 156,
@@ -2272,9 +2576,104 @@
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Derived from “Kosten”, itself present in compounds and expressions",
       "lexical_relevance_comment": "Probably, if we associate \"kosten\" rather with money and an economic domain.",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "kosten": {
+          "Alimentation": [
+            "einen Wein verkosten"
+          ],
+          "Droit_Justice": [
+            "die Gerichts- und Parteikosten pl",
+            "die Anwaltskosten pl"
+          ],
+          "Information_Communication": [
+            "die Werbekosten pl"
+          ],
+          "Sciences_humaines": [
+            "die Lebenshaltungskosten pr"
+          ],
+          "Sciences_politiques": [
+            "dle Werbungskosten pl"
+          ],
+          "Transport_Tourisme": [
+            "kosten ?"
+          ],
+          "Urbanisme": [
+            "die Baukosten p/",
+            "die Mietnebenkosten p/",
+            "Betriebskosten",
+            "die Umlage der Heizkosten",
+            "die (Haus)beleuchtungskosten",
+            "die Notarkosten pi",
+            "die Verwaltungskosten pr",
+            "die Fahrstuhlbetriebskosten pl",
+            "die Stromkosten",
+            "die Wartungskosten",
+            "die Hausmeisterkosten"
+          ],
+          "Vie_économique": [
+            "die Lebenshaltungskosten pi",
+            "die Produktionskosten p/",
+            "die Verpackungskosten pl",
+            "der Selbstkostenpreis",
+            "die Werbungskosten pl",
+            "die Reisekosten",
+            "die Fahrtkosten"
+          ]
+        },
+        "Kost": {
+          "Alimentation": [
+            "die Nahrung, die Kost",
+            "die Kostprobe, n"
+          ],
+          "Arts": [
+            "der Kostümbildner, -",
+            "die Kostümprobe",
+            "die Kostümausstattung, en"
+          ],
+          "Droit_Justice": [
+            "der Kosten"
+          ],
+          "Homme_Santé_Médecine": [
+            "die (streng) nairiumarme Kost",
+            "die fettarme Kost",
+            "die Kostenübernahme, n"
+          ],
+          "Urbanisme": [
+            "der Kosten(vor)anschlag, \"e",
+            "die Kosten p/ veranschlagen, u, a, ä",
+            "sich an den Kostenvoranschlag",
+            "den Kostenvoranschlag",
+            "der Kostenvoranschlag, \"e",
+            "die überschlägige Kostenberechnung",
+            "die Kosten der Schornsteinreinigung"
+          ],
+          "Vetement": [
+            "das Kostüm, e"
+          ],
+          "Vie_économique": [
+            "die Kostensenkung",
+            "CIF = Kosten, Versicherung, Fracht",
+            "C&F = Kosten und Fracht"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Droit_Justice",
+        "Homme_Santé_Médecine",
+        "Transport_Tourisme",
+        "Urbanisme",
+        "Vie_économique"
+      ],
+      "undetected_cause": [
+        "extraction_process_from_OCR",
+        "themes_selection",
+        "derived_form",
+        "not_in_Niemann",
+        "in_compounds_in_Niemann"
+      ]
     }
   },
   "no_more_token_to_add": true

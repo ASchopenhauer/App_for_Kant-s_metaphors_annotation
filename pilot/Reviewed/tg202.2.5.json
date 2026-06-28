@@ -22,7 +22,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i.",
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
       "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
       "sentence_start_char": 0,
       "spacy_pos": "VERB",
@@ -49,7 +49,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i.",
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
       "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
       "sentence_start_char": 0,
       "spacy_pos": "ADJ",
@@ -76,7 +76,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i.",
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
       "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
       "sentence_start_char": 0,
       "spacy_pos": "NOUN",
@@ -103,7 +103,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i.",
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
       "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
       "sentence_start_char": 0,
       "spacy_pos": "ADV",
@@ -130,7 +130,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i.",
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
       "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
       "sentence_start_char": 0,
       "spacy_pos": "PROPN",
@@ -157,9 +157,9 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "zur Willensbestimmung",
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Willensbestimmung",
@@ -184,9 +184,9 @@
       "syntactic_group_description": "accusativ group + other group + verb lemma",
       "syntactic_group": "zur Willensbestimmung hinreichenden Grund in sich enthalten",
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "hinreichend",
@@ -211,9 +211,9 @@
       "syntactic_group_description": "accusativ group + other group + verb lemma",
       "syntactic_group": "zur Willensbestimmung hinreichenden Grund in sich enthalten",
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Grund",
@@ -240,9 +240,9 @@
       "syntactic_group_description": null,
       "syntactic_group": "zur Willensbestimmung hinreichenden Grund in sich enthalten",
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "VERB",
       "spacy_tag": "VVINF",
       "spacy_lemma": "enthalten",
@@ -267,9 +267,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "so",
@@ -294,9 +294,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "VERB",
       "spacy_tag": "VVFIN",
       "spacy_lemma": "geben",
@@ -321,9 +321,9 @@
       "syntactic_group_description": "accusativ group + verb lemma",
       "syntactic_group": "praktische Gesetze + geben",
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "praktisch",
@@ -348,9 +348,9 @@
       "syntactic_group_description": "accusativ group + verb lemma",
       "syntactic_group": "praktische Gesetze + geben",
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Gesetz",
@@ -375,9 +375,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "aber",
@@ -402,9 +402,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "so",
@@ -429,9 +429,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "alle praktische Grundsätze",
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "praktisch",
@@ -456,9 +456,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "alle praktische Grundsätze",
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Grundsatz",
@@ -483,9 +483,9 @@
       "syntactic_group_description": "noun phrase predicate",
       "syntactic_group": "bloße Maximen",
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "bloß",
@@ -510,9 +510,9 @@
       "syntactic_group_description": "noun phrase predicate",
       "syntactic_group": "bloße Maximen",
       "syntactic_group_translation": null,
-      "sentence": "zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
-      "sentence_translation": "",
-      "sentence_start_char": 59,
+      "sentence": "Wenn man annimmt, daß reine Vernunft einen praktisch, d.i. zur Willensbestimmung hinreichenden Grund in sich enthalten könne, so gibt es praktische Gesetze; wo aber nicht, so werden alle praktische Grundsätze bloße Maximen sein.",
+      "sentence_translation": "Si l’on admet que la raison pure peut renfermer un principe pratique, c’est-à-dire qui suffise pour déterminer la volonté, il y a des lois pratiques ; sinon, tous les principes pratiques ne sont que des maximes.",
+      "sentence_start_char": 0,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Maxim",
@@ -1640,7 +1640,16 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "neutralisation",
       "token_wikisource_translation": "réaction",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null,
+      "lexical_search": {
+        "Gegenwirkung": {
+          "is_in_wiktionary": true,
+          "is_in_dwds": true,
+          "dwds_historical_corpora_occurrences": null,
+          "dwb_entries": 1
+        }
+      }
     },
     "145": {
       "token_index": 145,
@@ -1978,7 +1987,7 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "In der praktischen Erkenntnis, d.i.",
       "syntactic_group_translation": null,
-      "sentence": "In der praktischen Erkenntnis, d.i.",
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
       "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
       "sentence_start_char": 1019,
       "spacy_pos": "ADJ",
@@ -2005,7 +2014,7 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "In der praktischen Erkenntnis, d.i.",
       "syntactic_group_translation": null,
-      "sentence": "In der praktischen Erkenntnis, d.i.",
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
       "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
       "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
@@ -2032,7 +2041,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In der praktischen Erkenntnis, d.i.",
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
       "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
       "sentence_start_char": 1019,
       "spacy_pos": "PROPN",
@@ -2059,9 +2068,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "bloß",
@@ -2086,9 +2095,9 @@
       "syntactic_group_description": "prepositional group + verb",
       "syntactic_group": "bloß mit Bestimmungsgründen des Willens tun",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Bestimmungsgründe",
@@ -2113,9 +2122,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Wille",
@@ -2140,9 +2149,9 @@
       "syntactic_group_description": null,
       "syntactic_group": "welche es bloß mit Bestimmungsgründen des Willens zu tun",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "VERB",
       "spacy_tag": "VVINF",
       "spacy_lemma": "tun",
@@ -2167,9 +2176,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "Grundsätze, die man sich macht,",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Grundsatz",
@@ -2194,9 +2203,9 @@
       "syntactic_group_description": "noun + relative",
       "syntactic_group": "Grundsätze die man sich macht,",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "VERB",
       "spacy_tag": "VVFIN",
       "spacy_lemma": "machen",
@@ -2221,9 +2230,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "ADV",
       "spacy_tag": "PROAV",
       "spacy_lemma": "darum",
@@ -2248,9 +2257,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "noch",
@@ -2275,9 +2284,9 @@
       "syntactic_group_description": "noun phrase predicate",
       "syntactic_group": "darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Gesetz",
@@ -2302,9 +2311,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "ADV",
       "spacy_tag": "PROAV",
       "spacy_lemma": "darunter",
@@ -2329,9 +2338,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "ADV",
       "spacy_tag": "ADJD",
       "spacy_lemma": "unvermeidlich",
@@ -2356,9 +2365,9 @@
       "syntactic_group_description": "noun + relative",
       "syntactic_group": "Gesetze darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "VERB",
       "spacy_tag": "VVFIN",
       "spacy_lemma": "stehen",
@@ -2383,9 +2392,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "die Vernunft im Praktischen",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Vernunft",
@@ -2410,9 +2419,9 @@
       "syntactic_group_description": "noun + prepositional group",
       "syntactic_group": "Vernunft im Praktischen",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Praktischen",
@@ -2437,9 +2446,9 @@
       "syntactic_group_description": "prepositional group + verb",
       "syntactic_group": "mit dem Subjekte tun",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Subjekt",
@@ -2464,9 +2473,9 @@
       "syntactic_group_description": null,
       "syntactic_group": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "VERB",
       "spacy_tag": "VVINF",
       "spacy_lemma": "tun",
@@ -2491,9 +2500,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "nämlich",
@@ -2518,9 +2527,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Begehrungsvermög",
@@ -2545,9 +2554,9 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "nach dessen besonderer Beschaffenheit",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "besonderer",
@@ -2572,9 +2581,9 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "nach dessen besonderer Beschaffenheit",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Beschaffenheit",
@@ -2599,9 +2608,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "die Regel",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Regel",
@@ -2626,9 +2635,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "ADV",
       "spacy_tag": "ADJD",
       "spacy_lemma": "vielfältig",
@@ -2653,9 +2662,9 @@
       "syntactic_group_description": null,
       "syntactic_group": "sich die Regel vielfältig richten",
       "syntactic_group_translation": null,
-      "sentence": "derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
-      "sentence_translation": "",
-      "sentence_start_char": 1055,
+      "sentence": "In der praktischen Erkenntnis, d.i. derjenigen, welche es bloß mit Bestimmungsgründen des Willens zu tun hat, sind Grundsätze, die man sich macht, darum noch nicht Gesetze, darunter man unvermeidlich stehe, weil die Vernunft im Praktischen es mit dem Subjekte zu tun hat, nämlich dem Begehrungsvermögen, nach dessen besonderer Beschaffenheit sich die Regel vielfältig richten kann. –",
+      "sentence_translation": "Dans la connaissance pratique, c’est-à-dire dans celle qui ne s’occupe que des principes déterminants de la volonté, les principes, qu’on se fait, ne sont pas pour cela des lois qu’on suive inévitablement, car la raison a ici affaire au sujet, c’est-à-dire à la faculté de désirer, dont la nature particulière peut modifier diversement la règle. —",
+      "sentence_start_char": 1019,
       "spacy_pos": "VERB",
       "spacy_tag": "VVINF",
       "spacy_lemma": "richten",
@@ -2952,8 +2961,8 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "Diese Regel",
       "syntactic_group_translation": null,
-      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i.",
-      "sentence_translation": "",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
       "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
@@ -2979,8 +2988,8 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i.",
-      "sentence_translation": "",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
       "sentence_start_char": 1532,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
@@ -3006,8 +3015,8 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "für ein Wesen,",
       "syntactic_group_translation": null,
-      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i.",
-      "sentence_translation": "",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
       "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
@@ -3033,8 +3042,8 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "bei dem Vernunft",
       "syntactic_group_translation": null,
-      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i.",
-      "sentence_translation": "",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
       "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
@@ -3060,8 +3069,8 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i.",
-      "sentence_translation": "",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
       "sentence_start_char": 1532,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
@@ -3087,8 +3096,8 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i.",
-      "sentence_translation": "",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
       "sentence_start_char": 1532,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
@@ -3114,8 +3123,8 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "nicht ganz allein Bestimmungsgrund des Willens",
       "syntactic_group_translation": null,
-      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i.",
-      "sentence_translation": "",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
       "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
@@ -3141,8 +3150,8 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i.",
-      "sentence_translation": "",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
       "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
@@ -3168,8 +3177,8 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "ein Imperativ",
       "syntactic_group_translation": null,
-      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i.",
-      "sentence_translation": "",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
       "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
@@ -3195,8 +3204,8 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i.",
-      "sentence_translation": "",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
       "sentence_start_char": 1532,
       "spacy_pos": "PROPN",
       "spacy_tag": "NE",
@@ -3222,9 +3231,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Regel",
@@ -3249,9 +3258,9 @@
       "syntactic_group_description": "prepositional group + verb",
       "syntactic_group": "durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt bezeichnet",
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Sollen",
@@ -3276,9 +3285,9 @@
       "syntactic_group_description": "accusativ group + verb lemma",
       "syntactic_group": "die objektive Nötigung der Handlung + ausdrücken",
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "objektiv",
@@ -3303,9 +3312,9 @@
       "syntactic_group_description": "accusativ group + verb lemma",
       "syntactic_group": "die objektive Nötigung der Handlung + ausdrücken",
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Nötigung",
@@ -3330,9 +3339,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Handlung",
@@ -3357,9 +3366,9 @@
       "syntactic_group_description": "noun + relative",
       "syntactic_group": "Sollen welches die objektive Nötigung der Handlung ausdrückt",
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "VERB",
       "spacy_tag": "VVFIN",
       "spacy_lemma": "ausdrücken",
@@ -3384,9 +3393,9 @@
       "syntactic_group_description": null,
       "syntactic_group": "durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet",
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "VERB",
       "spacy_tag": "VVPP",
       "spacy_lemma": "bezeichnen",
@@ -3411,9 +3420,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "VERB",
       "spacy_tag": "VVFIN",
       "spacy_lemma": "bedeuten",
@@ -3438,9 +3447,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "die Vernunft",
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Vernunft",
@@ -3465,9 +3474,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Wille",
@@ -3492,9 +3501,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "ADV",
       "spacy_tag": "ADJD",
       "spacy_lemma": "gänzlich",
@@ -3519,9 +3528,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "ADJ",
       "spacy_tag": "VVFIN",
       "spacy_lemma": "bestimmen",
@@ -3546,9 +3555,9 @@
       "syntactic_group_description": "accusativ group + other group + verb lemma",
       "syntactic_group": "die Handlung nach dieser Regel geschehen",
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Handlung",
@@ -3573,9 +3582,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "ADV",
       "spacy_tag": "ADJD",
       "spacy_lemma": "unausbleiblich",
@@ -3591,7 +3600,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "inévitable",
       "token_wikisource_translation": "inévitable",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "322": {
       "token_index": 322,
@@ -3604,9 +3614,9 @@
       "syntactic_group_description": "prepositional group + verb",
       "syntactic_group": "nach dieser Regel geschehen",
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Regel",
@@ -3631,9 +3641,9 @@
       "syntactic_group_description": null,
       "syntactic_group": "die Handlung unausbleiblich nach dieser Regel geschehen",
       "syntactic_group_translation": null,
-      "sentence": "eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
+      "sentence": "Diese Regel ist aber für ein Wesen, bei dem Vernunft nicht ganz allein Bestimmungsgrund des Willens ist, ein Imperativ, d.i. eine Regel, die durch ein Sollen, welches die objektive Nötigung der Handlung ausdrückt, bezeichnet wird, und bedeutet, daß, wenn die Vernunft den Willen gänzlich bestimmete, die Handlung unausbleiblich nach dieser Regel geschehen würde.",
       "sentence_translation": "Mais, pour un être chez qui la raison n’est pas le seul principe déterminant de la volonté, cette règle est un impératif, ou une règle qui se traduit par un « doit être », lequel désigne la nécessité objective de l’action, c’est-à-dire que si la raison déterminait entièrement la volonté, l’action serait infailliblement conforme à cette règle.",
-      "sentence_start_char": 1657,
+      "sentence_start_char": 1532,
       "spacy_pos": "VERB",
       "spacy_tag": "VVPP",
       "spacy_lemma": "geschehen",
@@ -4216,7 +4226,8 @@
       "sentence_translation_eval": "good",
       "gold_sentence_translation": null,
       "de_sentence_eval": null,
-      "lemma_google_translation": "suffisance"
+      "lemma_google_translation": "suffisance",
+      "undetected_cause": null
     },
     "368": {
       "token_index": 368,
@@ -4878,7 +4889,7 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i",
       "syntactic_group_translation": null,
-      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i.",
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
       "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
       "sentence_start_char": 2501,
       "spacy_pos": "NOUN",
@@ -4905,7 +4916,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i.",
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
       "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
       "sentence_start_char": 2501,
       "spacy_pos": "ADV",
@@ -4932,7 +4943,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i.",
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
       "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
       "sentence_start_char": 2501,
       "spacy_pos": "ADV",
@@ -4959,7 +4970,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i.",
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
       "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
       "sentence_start_char": 2501,
       "spacy_pos": "ADV",
@@ -4986,7 +4997,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i.",
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
       "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
       "sentence_start_char": 2501,
       "spacy_pos": "PROPN",
@@ -5013,9 +5024,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i.",
-      "sentence_translation": "",
-      "sentence_start_char": 2558,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Wille",
@@ -5040,9 +5051,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i.",
-      "sentence_translation": "",
-      "sentence_start_char": 2558,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "schlechthin",
@@ -5067,9 +5078,9 @@
       "syntactic_group_description": "prepositional group + verb",
       "syntactic_group": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen",
       "syntactic_group_translation": null,
-      "sentence": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i.",
-      "sentence_translation": "",
-      "sentence_start_char": 2558,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Wille",
@@ -5094,9 +5105,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i.",
-      "sentence_translation": "",
-      "sentence_start_char": 2558,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "nur",
@@ -5121,9 +5132,9 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "nur in Ansehung einer begehrten Wirkung",
       "syntactic_group_translation": null,
-      "sentence": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i.",
-      "sentence_translation": "",
-      "sentence_start_char": 2558,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Ansehung",
@@ -5148,9 +5159,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i.",
-      "sentence_translation": "",
-      "sentence_start_char": 2558,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "begehrt",
@@ -5175,9 +5186,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i.",
-      "sentence_translation": "",
-      "sentence_start_char": 2558,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Wirkung",
@@ -5203,9 +5214,9 @@
       "syntactic_group_description": null,
       "syntactic_group": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen",
       "syntactic_group_translation": null,
-      "sentence": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i.",
-      "sentence_translation": "",
-      "sentence_start_char": 2558,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "VERB",
       "spacy_tag": "VVINF",
       "spacy_lemma": "bestimmen",
@@ -5230,9 +5241,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i.",
-      "sentence_translation": "",
-      "sentence_start_char": 2558,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "PROPN",
       "spacy_tag": "NE",
       "spacy_lemma": "d.i",
@@ -5257,9 +5268,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "hypothetische Imperativen",
       "syntactic_group_translation": null,
-      "sentence": "hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
-      "sentence_translation": "",
-      "sentence_start_char": 2663,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "hypothetisch",
@@ -5284,9 +5295,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "hypothetische Imperativen",
       "syntactic_group_translation": null,
-      "sentence": "hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
-      "sentence_translation": "",
-      "sentence_start_char": 2663,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Imperativ",
@@ -5311,9 +5322,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
-      "sentence_translation": "",
-      "sentence_start_char": 2663,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "zwar",
@@ -5338,9 +5349,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "praktische Vorschriften",
       "syntactic_group_translation": null,
-      "sentence": "hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
-      "sentence_translation": "",
-      "sentence_start_char": 2663,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "praktisch",
@@ -5365,9 +5376,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "praktische Vorschriften",
       "syntactic_group_translation": null,
-      "sentence": "hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
-      "sentence_translation": "",
-      "sentence_start_char": 2663,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Vorschrift",
@@ -5392,9 +5403,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
-      "sentence_translation": "",
-      "sentence_start_char": 2663,
+      "sentence": "Die Imperativen selber aber, wenn sie bedingt sind, d.i. nicht den Willen schlechthin als Willen, sondern nur in Ansehung einer begehrten Wirkung bestimmen, d.i. hypothetische Imperativen sind, sind zwar praktische Vorschriften, aber keine Gesetze.",
+      "sentence_translation": "Et les impératifs mêmes, quand ils sont conditionnels, c’est-à-dire quand ils ne déterminent pas simplement la volonté comme volonté, mais relativement à un effet désiré, ou, en un mot, quand ils sont des impératifs hypothétiques, ces impératifs ne sont pas des lois, quoiqu’ils soient des préceptes pratiques.",
+      "sentence_start_char": 2501,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Gesetz",
@@ -6148,7 +6159,8 @@
           "dwds_historical_corpora_occurrences": 2890,
           "dwb_entries": 0
         }
-      }
+      },
+      "undetected_cause": null
     },
     "537": {
       "token_index": 537,
@@ -6410,7 +6422,8 @@
           "dwb_entries": 4
         }
       },
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "564": {
       "token_index": 564,
@@ -7532,7 +7545,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "surgir",
       "token_wikisource_translation": "fournir",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "669": {
       "token_index": 669,
@@ -8532,7 +8546,8 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "de_sentence_eval": null
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "759": {
       "token_index": 759,
@@ -9543,7 +9558,8 @@
           "dwb_entries": 1
         }
       },
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "864": {
       "token_index": 864,
@@ -9986,9 +10002,18 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Maybe error in OCR / processing of the Niemann",
+      "detection_comment": "",
       "lexical_relevance_comment": "Domain of physics",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Gegenwirkung": {},
+        "gegenwirk": {},
+        "genwirk": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "319": {
       "token_index": 319,
@@ -10008,7 +10033,18 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "unausbleiblich": {},
+        "ausbleiblich": {},
+        "ausbleib": {},
+        "aus~bleib": {},
+        "aus-bleib": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "351": {
       "token_index": 351,
@@ -10028,7 +10064,18 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": "Domain of physics",
-      "metaphor_comment": "If so, then a kantian metaphor globally. As it often used from Kant in this context. So part of the kantian vocabulary."
+      "metaphor_comment": "If so, then a kantian metaphor globally. As it often used from Kant in this context. So part of the kantian vocabulary.",
+      "ocr_check": {
+        "Kausalität": {
+          "Sciences_humaines": [
+            "die Kausalität ; kausal, ursächlich"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "gold_extracted_themes": []
     },
     "366": {
       "token_index": 366,
@@ -10048,7 +10095,16 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Zulänglichkeit": {},
+        "zulänglich": {},
+        "zuläng": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "536": {
       "token_index": 536,
@@ -10066,9 +10122,28 @@
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": "Probably in the formation of the word. In the translation, we loose the idea of glue, \"kleben\", \"coller\".",
       "status": "added",
-      "detection_comment": "Maybe be look for \"ankleben\" instead in the Niemann.",
+      "detection_comment": "Derived from “kleben”",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "anklebend": {},
+        "ankleben": {},
+        "an~kleben": {},
+        "an-kleben": {},
+        "kleben": {
+          "Information_Communication": [
+            "kleben (auf+A)"
+          ],
+          "Urbanisme": [
+            "auf Stoß kleben"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann",
+        "derived_form"
+      ]
     },
     "551": {
       "token_index": 551,
@@ -10086,9 +10161,50 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "In many more themes if we take the compounds into account!",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Jugend": {
+          "Arts": [
+            "der Jugendstil (D)"
+          ],
+          "Droit_Justice": [
+            "die Jugendkriminalität",
+            "das Jugendgericht, e",
+            "der Jugendrichter, -"
+          ],
+          "Histoire": [
+            "Jugendwerk (5.7.1963)"
+          ],
+          "Homme_Santé_Médecine": [
+            "die Schönheit der Jugend"
+          ],
+          "Information_Communication": [
+            "die Jugendpresse"
+          ],
+          "Lettres": [
+            "die Jugendliteratur",
+            "das Jugendwerk"
+          ],
+          "Sciences_humaines": [
+            "der Jugendliche (adj),",
+            "die Jugendfürsorge",
+            "die Jugend(zeit)",
+            "das Jugendalter ; jugendlich",
+            "der Jugendliche (adj),",
+            "der Jugendfreund"
+          ],
+          "Transport_Tourisme": [
+            "die Jugendherberge, n"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection",
+        "in_compounds_in_Niemann"
+      ],
+      "gold_extracted_themes": []
     },
     "552": {
       "token_index": 552,
@@ -10106,9 +10222,70 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "One more reason to belive the theme \"Vie_économique\" should be selected.",
+      "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "arbeiten": {
+          "Agriculture": [
+            "den Boden bearbeiten"
+          ],
+          "Alimentation": [
+            "in der Gastronomie arbeiten"
+          ],
+          "Arts": [
+            "arrangieren, bearbeiten",
+            "die Kunstschmiedearbeiten fol",
+            "ein Stück für die Bühne bearbeiten",
+            "die Dreharbeiten fpl"
+          ],
+          "Information_Communication": [
+            "einen Text um-arbeiten",
+            "an einem Wörterbuch arbeiten"
+          ],
+          "Lettres": [
+            "für die Bühne bearbeiten"
+          ],
+          "Monde": [
+            "verarbeitende Industrie",
+            "etw bearbeiten"
+          ],
+          "Sciences_humaines": [
+            "im Unterricht gut mitarbeiten",
+            "ein Kapitel nach-arbeiten"
+          ],
+          "Sciences_politiques": [
+            "zusammenarbeiten, kooperieren"
+          ],
+          "Urbanisme": [
+            "die Abbrucharbeiten fpi",
+            "die Aufräumungsarbeiten",
+            "die Bauarbeiten fol",
+            "die Erdarbeiten /p/",
+            "die Entwässerungsarbeiten",
+            "die Gründungsarbeiten fol",
+            "die Dachdeckerarbeiten fpl",
+            "die Betonarbeiten fp/",
+            "die Estricharbeiten fpl",
+            "die Instandsetzungsarbeiten ipl",
+            "die Modernisierungsarbeiten"
+          ],
+          "Vie_économique": [
+            "die verarbeitende Industrie",
+            "schwer arbeiten",
+            "arbeiten",
+            "auf eigene Rechnung arbeiten",
+            "einen Mitarbeiter ein-arbeiten",
+            "jan ein-arbeiten"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection",
+        "in_compounds_in_Niemann",
+        "only_in_expressions_in_Niemann"
+      ],
+      "gold_extracted_themes": []
     },
     "554": {
       "token_index": 554,
@@ -10126,9 +10303,35 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Should select theme \"Vie_économique\".",
+      "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "sparen": {
+          "Droit_Justice": [
+            "das Transparent, &"
+          ],
+          "Information_Communication": [
+            "das Transparent, e, die Folie, n"
+          ],
+          "Sciences_humaines": [
+            "das Transparent, e, die Folie, n"
+          ],
+          "Urbanisme": [
+            "das Bausparen"
+          ],
+          "Vie_économique": [
+            "sparen",
+            "(er)sparen",
+            "an allem sparen",
+            "Geld zurück-legen, Geld auf-sparen"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "gold_extracted_themes": []
     },
     "562": {
       "token_index": 562,
@@ -10148,7 +10351,104 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "darben": {},
+        "darb": {
+          "Agriculture": [
+            "der Landarbeiter, -",
+            "die Feldarbeit, en",
+            "der Waldarbeiter, -"
+          ],
+          "Histoire": [
+            "der Fremdarbeiter, -"
+          ],
+          "Sciences_politiques": [
+            "die Radarbatterie"
+          ],
+          "Urbanisme": [
+            "die Erdarbeiten /p/",
+            "der Erdarbeiter, -"
+          ],
+          "Vie_économique": [
+            "die Fließbandarbeit",
+            "Bürgschaft, die Solidarbürgschaft |",
+            "die Handarbeit, die manuelle Arbeit",
+            "die Akkordarbeit",
+            "die Fließbandarbeit"
+          ]
+        },
+        "derb": {
+          "Alimentation": [
+            "die Wacholderbeere, n",
+            "verderben, a, o, i"
+          ],
+          "Arts": [
+            "das Liederbuch, \"er",
+            "die Wanderbühne, n"
+          ],
+          "Histoire": [
+            "die Wanderbewegung, en",
+            "die Sonderbehandlung/",
+            "Minderbelastete (adj)"
+          ],
+          "Homme_Santé_Médecine": [
+            "die Wiederbelebung",
+            "die Bäderbehandlung"
+          ],
+          "Information_Communication": [
+            "der Sonderberichterstatter",
+            "das Bilderbuch",
+            "der Ganzlederband",
+            "der Halbiederband"
+          ],
+          "Lettres": [
+            "derb"
+          ],
+          "Religion": [
+            "übernatürlich ; wunderbar"
+          ],
+          "Sciences_humaines": [
+            "die Ausländerbehörde, n",
+            "der Federball, \"e",
+            "Halt's Maul | (derb)",
+            "die Grobheit, en ; grob, derb",
+            "der Spielverderber, -"
+          ],
+          "Sciences_politiques": [
+            "die Zeitzünderbombe, n"
+          ],
+          "Sport": [
+            "das Badminton, der Federball (fam)",
+            "der Federball, \"e",
+            "das Ruderblatt, \"er"
+          ],
+          "Transport_Tourisme": [
+            "die Zylinderbohrung, en",
+            "das Ruderboot",
+            "verderblich",
+            "das Kinderbett"
+          ],
+          "Urbanisme": [
+            "der Kleiderbügel, -",
+            "das Kinderbett",
+            "die Kleiderbürste"
+          ],
+          "Vie_économique": [
+            "die Wiederbelebung der Wirtschaft",
+            "die verderblichen Güter"
+          ],
+          "Zoologie_Botanique": [
+            "der Federbusch, \"e",
+            "die \\Yacholderbeere",
+            "die Wunderblume"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "609": {
       "token_index": 609,
@@ -10166,9 +10466,22 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Theme \"Droit_justice\", quite a tricky one given that we work on Kant’s practical philosophy…",
+      "detection_comment": "",
       "lexical_relevance_comment": "Domain of law. To which extend are law/justice and ethics linked? Can we still say there is a mapping between conceptual domains, if they are very much linked?",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Täter": {
+          "Droit_Justice": [
+            "der mutmaßliche Täter des Mordes",
+            "die Besserung des Täters",
+            "der Täter, -"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "gold_extracted_themes": []
     },
     "645": {
       "token_index": 645,
@@ -10186,9 +10499,90 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Would be interesting to see which subtheme in \"Science_humaines\", probably something like \"sciences sociales\".",
+      "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Not": {
+          "Agriculture": [
+            "die Notschlachtung, en"
+          ],
+          "Arts": [
+            "die ganze Note ; die halbe Note, n",
+            "die punktierte Note, n",
+            "die Note, n",
+            "Noten lesen, a, e, ie",
+            "das Notenpapier",
+            "die Notenlinien pl",
+            "der Notenständer, -,",
+            "das Notenpult, e",
+            "nach Noten spielen",
+            "ohne Noten spielen",
+            "der Notausgang, \"&"
+          ],
+          "Droit_Justice": [
+            "die Notverordnung, en",
+            "die Notwehr ($ 227)",
+            "die Notwehr",
+            "aus Notwehr handeln",
+            "aus Notwehr handeln",
+            "der Notar, e",
+            "die Notariatskanzlei, en",
+            "die Notariatsurkunde, die notarielle",
+            "einen Vertrag vor einem Notar"
+          ],
+          "Homme_Santé_Médecine": [
+            "der Notfall, \"e",
+            "der ärztliche Notdienst",
+            "der (Not)verband, 'e",
+            "der Notarzt",
+            "das Notfallbesteck, e",
+            "die Notaufnahme",
+            "die Notoperation"
+          ],
+          "Information_Communication": [
+            "eine Fünf-Zeilen-Notiz",
+            "die Notiz, en",
+            "sich Notizen machen",
+            "der Notruf"
+          ],
+          "Lettres": [
+            "sich Notizen folmachen",
+            "die Notizentechnik",
+            "die Notizen fpl: sich Notizen machen"
+          ],
+          "Sciences_humaines": [
+            "die Notwendigkeit",
+            "die Note, n, die Zensur, en",
+            "der Notenspiegel",
+            "der Notendurchschnitt",
+            "sich Notizen machen",
+            "die gewichtete Note, n",
+            "die Note, n/die Zensur, en",
+            "die Not, das Elend",
+            "Not leiden, I, i"
+          ],
+          "Transport_Tourisme": [
+            "die Notrufsäule, n",
+            "die Notbremse ziehen, 0, 0",
+            "das Notzeichen, s/der SOS-Ruf"
+          ],
+          "Urbanisme": [
+            "die Nottreppe, n |",
+            "beim Notar",
+            "die Notarkosten pi"
+          ],
+          "Vie_économique": [
+            "die Notierung, en,",
+            "die Notenpresse, n",
+            "die Notendeckung"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "gold_extracted_themes": []
     },
     "666": {
       "token_index": 666,
@@ -10206,9 +10600,22 @@
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": "We tend to loose the idea a \"springen\" with the wikisource translation. The word has most likely a metaphorical origin, at least",
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Would have been detected because selected theme",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "entspringen": {
+          "Monde": [
+            "entspringen“, a, u, in+D, auf+D"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Monde"
+      ],
+      "undetected_cause": [
+        "extraction_process_from_OCR"
+      ]
     },
     "758": {
       "token_index": 758,
@@ -10226,9 +10633,29 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Derived form from verb “lügen”",
       "lexical_relevance_comment": "Concrete ethical situation. Still different from purely abstract consideration. Relevant in the sense that it can indacte an example, an illustration. Very unlikely a metaphor, because of the proximity of the theme.",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "lügenhaft": {},
+        "lügen": {
+          "Agriculture": [
+            "das Pflügen ; der Pflüger, -",
+            "pflügen"
+          ],
+          "Sciences_humaines": [
+            "die Lügs, n ;lügen, 0, o",
+            "jdn belügen, jdn an-lügen"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Sciences_humaines"
+      ],
+      "undetected_cause": [
+        "not_in_Niemann",
+        "derived_form"
+      ]
     },
     "863": {
       "token_index": 863,
@@ -10244,11 +10671,68 @@
       "textual_image_comment": null,
       "is_metaphorical": null,
       "is_lexical_metaphor": null,
-      "lexical_metaphor_comment": null,
+      "lexical_metaphor_comment": "Maybe. At least we see through the OCR search that “Welt” appear in many compounds.",
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Sinnenwelt": {},
+        "welt": {
+          "Arts": [
+            "die weltliche Musik"
+          ],
+          "Droit_Justice": [
+            "die Unterwelt"
+          ],
+          "Lettres": [
+            "die weltliche Dichtung",
+            "\"die Flucht in die Traumwelt",
+            "die Phantasiewelt"
+          ],
+          "Monde": [
+            "die Umwelt",
+            "die Umweltfragen fpl",
+            "der Umweltschutz",
+            "der Umweltschützer, -",
+            "der Umweltverschmutzung",
+            "die Umweltverschmutzung",
+            "der Umweltsünder, -,",
+            "Umweltverschmutzer, -",
+            "die Umweltschäden mpl",
+            "das Umweltdelikt, e",
+            "umweltverschmutzend",
+            "umweltfreundlich, schmutzarm"
+          ],
+          "Religion": [
+            "die Unterwelt",
+            "der Laie, n, n ; weltlich",
+            "säkularisieren/verweltlichen",
+            "die weltlichen Güter npl"
+          ],
+          "Sciences_humaines": [
+            "die Gedankenwelt"
+          ],
+          "Sport": [
+            "das Einhandweltumsegeln",
+            "das Einhandweltumsegeln"
+          ],
+          "Vie_économique": [
+            "die weltweite Ausweitung,",
+            "weltweit, Welt- / globalisieren"
+          ],
+          "Zoologie_Botanique": [
+            "die Tierwelt",
+            "die Umwelt",
+            "aie Pflanzenwelt"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann",
+        "compound"
+      ]
     }
   },
   "no_more_token_to_add": true

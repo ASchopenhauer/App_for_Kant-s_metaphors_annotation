@@ -4,7 +4,7 @@
   "structure_path": "Vorrede",
   "text": "Doch, da es in diesem philosophischen und kritischen Zeitalter schwerlich mit jenem Empirism Ernst sein kann, und er vermutlich nur zur Übung der Urteilskraft, und, um durch den Kontrast die Notwendigkeit rationaler Prinzipien a priori in ein helleres Licht zu setzen, aufgestellet wird: so kann man es denen doch Dank wissen, die sich mit dieser sonst eben nicht belehrenden Arbeit bemühen wollen.",
   "wikisource_translation": "Cependant, comme, dans ce siècle philosophique et critique, il est difficile de prendre cet empirisme au sérieux, et qu’il n’a probablement d’autre but que d’exercer le Jugement et de mieux mettre en lumière par le contraste la nécessité des principes rationnels à priori, on peut avoir quelque obligation à ceux qui s’appliquent à ce genre de travail, d’ailleurs fort peu instructif.",
-  "translation_is_correctly_aligned": "true",
+  "translation_is_correctly_aligned": true,
   "n_tokens": 70,
   "n_detected_tokens": 3,
   "page_number_of_paper_translation": null,
@@ -91,7 +91,9 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "siècle"
+      "token_wikisource_translation": "siècle",
+      "de_sentence_eval": null,
+      "token_translation_comment": null
     },
     "10": {
       "token_index": 10,
@@ -469,7 +471,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "42": {
       "token_index": 42,
@@ -496,7 +499,8 @@
       "n_non_selected_themes": 2,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "44": {
       "token_index": 44,
@@ -523,7 +527,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "49": {
       "token_index": 49,
@@ -740,7 +745,9 @@
       "status": "auto",
       "sentence_translation_eval": "good",
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "travail"
+      "token_wikisource_translation": "travail",
+      "de_sentence_eval": null,
+      "token_translation_comment": null
     },
     "67": {
       "token_index": 67,
@@ -844,9 +851,215 @@
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Wrong lemma, thus not in the Niemann Themes. We know that the correct lemma \"hell\" had been detected before.",
+      "detection_comment": "Would have been detected, in the selected themes",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "themes_gold_lemma": [
+        "Monde"
+      ],
+      "ocr_check": {
+        "heller": {
+          "Arts": [
+            "heller werden",
+            "der Aufheller, -"
+          ]
+        },
+        "hell": {
+          "Alimentation": [
+            "der geräucherte Schellfisch, e",
+            "das helle Bier"
+          ],
+          "Arts": [
+            "eine Farbe auf-hellen",
+            "heller werden",
+            "hell ;licht",
+            "der Aufheller, -"
+          ],
+          "Droit_Justice": [
+            "jdm Handschellen fp/ an-legen",
+            "in Handschellen"
+          ],
+          "Homme_Santé_Médecine": [
+            "hellbraun",
+            "die helle Zigarette, n"
+          ],
+          "Lettres": [
+            "l’echelle"
+          ],
+          "Monde": [
+            "hell",
+            "La Rochelle,"
+          ],
+          "Sciences_exactes": [
+            "am helllicht)en Tag"
+          ],
+          "Sciences_humaines": [
+            "(das) Karo/(das) Schellen",
+            "die Speichelleckerei, die Kriecherei"
+          ],
+          "Zoologie_Botanique": [
+            "der Schellfisch",
+            "die Schellente ; die Tafelente",
+            "die Gemeine Küchenschelle, n"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "lemmatisation"
+      ],
+      "gold_extracted_themes": [
+        "Arts",
+        "Monde"
+      ]
+    },
+    "44": {
+      "token_index": 44,
+      "is_detected": false,
+      "spacy_pos_is_correct": null,
+      "spacy_tag_is_correct": null,
+      "spacy_lemma_is_correct": null,
+      "gold_pos": null,
+      "gold_lemma": null,
+      "is_lexically_relevant": null,
+      "is_context_shifted": null,
+      "contributes_to_a_textual_image": null,
+      "textual_image_comment": null,
+      "is_metaphorical": null,
+      "is_lexical_metaphor": true,
+      "lexical_metaphor_comment": "See the occurrences in the Niemann in many expressions",
+      "status": "added",
+      "undetected_cause": [
+        "themes_selection",
+        "in_compounds_in_Niemann",
+        "only_in_expressions_in_Niemann"
+      ],
+      "detection_comment": "In a lot of compounds",
+      "lexical_relevance_comment": "Hard to tell",
+      "metaphor_comment": null,
+      "ocr_check": {
+        "setzen": {
+          "Agriculture": [
+            "einen Baum setzen"
+          ],
+          "Alimentation": [
+            "etw auf-setzen",
+            "bei-mengen, zu-setzen",
+            "sich zu Tisch setzen ; bei Tisch sein",
+            "jdm etw servieren, vor-setzen"
+          ],
+          "Arts": [
+            "um-setzen",
+            "an-setzen",
+            "vom Spielplan ab-setzen",
+            "ein Stück um-besetzen",
+            "eine Rolle besetzen, dar-stellen",
+            "sich in die Rolle hinein-versetzen"
+          ],
+          "Droit_Justice": [
+            "der Gesetzentwurf, \"e",
+            "ein Gesetz in Kraft setzen",
+            "jdn einer Gefahr aus-setzen",
+            "ein Kind aus-setzen",
+            "eine Belohnung aus-setzen",
+            "vorläufig auf freien Fuß setzen"
+          ],
+          "Histoire": [
+            "die Besetzung, en ; besetzen",
+            "den König ab-setzen"
+          ],
+          "Homme_Santé_Médecine": [
+            "einen Bauch an-setzen",
+            "sich setzen ; sitzen, a, e",
+            "sich der Sonne aus-setzen",
+            "die Brille auf-setzen",
+            "jdn in Hypnose versetzen"
+          ],
+          "Information_Communication": [
+            "die Zeitung setzen",
+            "auf den Index setzen",
+            "setzen",
+            "setzen"
+          ],
+          "Lettres": [
+            "fortsetzen ; die Fortsetzung, en",
+            "in die Thematik zurück-versetzen",
+            "sich in den Kontext hinein-versetzen",
+            "in den Plural/in die Mehrzahl setzen",
+            "die Satzzeichen setzen",
+            "ein Wort durch ein anderes ersetzen",
+            "übersetzen",
+            "übersetzen",
+            "vom Blait übersetzen",
+            "sinngetreu übersetzen",
+            "übersetzen",
+            "frei übersetzen"
+          ],
+          "Religion": [
+            "sich in Trance versetzen"
+          ],
+          "Sciences_exactes": [
+            "einen Termin fest-setzen"
+          ],
+          "Sciences_humaines": [
+            "seinen Willen durch-setzen",
+            "sich ein Ziel setzen",
+            "sich einem Befehl widersetzen",
+            "ein Kind aus-setzen",
+            "die Flagge auf Halbmast setzen",
+            "in tiefe Trauer versetzen",
+            "jdm Hörner auf-setzen (fam)",
+            "Jan als Erben einsetzen",
+            "alles aufs Spiel setzen",
+            "den Todesstoß versetzen",
+            "in Verbindung setzen",
+            "jdn versetzen (fam)"
+          ],
+          "Sciences_politiques": [
+            "aufhalbmast setzen",
+            "das Absetzen, der Abwurf, \"e,",
+            "über den Fluss setzen",
+            "den Angriff fort-setzen",
+            "ein Land besetzen"
+          ],
+          "Sport": [
+            "ein Segel setzen"
+          ],
+          "Transport_Tourisme": [
+            "ersetzen",
+            "aus-setzen",
+            "sich ans Steuer setzen",
+            "zurück-setzen",
+            "die Boote aus-setzen",
+            "die Flagge setzen, auf-ziehen, 0, o",
+            "die Angel zusammen-setzen"
+          ],
+          "Urbanisme": [
+            "ein Schloss ein-setzen",
+            "die Scheiben ein-setzen",
+            "ein Haus besetzen",
+            "besetzen"
+          ],
+          "Vetement": [
+            "einen Hut auf-setzen"
+          ],
+          "Vie_économique": [
+            "die Dividende fest-setzen",
+            "ab-setzen",
+            "im Ausverkauf ab-setzen,",
+            "einen Preis festsetzen",
+            "einen Preis herab-setzen/",
+            "einen Schaden ersetzen",
+            "in Umlauf setzen",
+            "jdn in den Ruhestand versetzen,"
+          ],
+          "Zoologie_Botanique": [
+            "ein Tier aus-setzen",
+            "sich setzen auf+A",
+            "sich in. die Nesseln setzen [fam)"
+          ]
+        }
+      }
     }
-  }
+  },
+  "no_more_token_to_add": true
 }

@@ -3843,7 +3843,8 @@
           "dwds_historical_corpora_occurrences": 21884,
           "dwb_entries": 1
         }
-      }
+      },
+      "undetected_cause": null
     },
     "344": {
       "token_index": 344,
@@ -4117,7 +4118,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "table de jeu",
       "token_wikisource_translation": "table de jeu",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "368": {
       "token_index": 368,
@@ -4547,7 +4549,8 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "de_sentence_eval": null
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "405": {
       "token_index": 405,
@@ -4575,7 +4578,8 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "de_sentence_eval": null
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "407": {
       "token_index": 407,
@@ -5610,7 +5614,8 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "de_sentence_eval": null
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "501": {
       "token_index": 501,
@@ -5669,7 +5674,8 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "de_sentence_eval": null
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "507": {
       "token_index": 507,
@@ -10900,7 +10906,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "système de coalition",
       "token_wikisource_translation": "systèmes conciliants",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "978": {
       "token_index": 978,
@@ -10994,7 +11001,8 @@
           "dwds_historical_corpora_occurrences": 1163,
           "dwb_entries": 1
         }
-      }
+      },
+      "undetected_cause": null
     },
     "983": {
       "token_index": 983,
@@ -11045,7 +11053,8 @@
           "dwds_historical_corpora_occurrences": 9338,
           "dwb_entries": 7
         }
-      }
+      },
+      "undetected_cause": null
     },
     "984": {
       "token_index": 984,
@@ -11359,7 +11368,7 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
@@ -11386,7 +11395,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADJ",
@@ -11413,7 +11422,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
@@ -11440,7 +11449,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADV",
@@ -11467,7 +11476,7 @@
       "syntactic_group_description": "noun phrase predicate",
       "syntactic_group": ", so viel Verstand und Vernunft bei ihm auch gebraucht werden mag",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
@@ -11494,7 +11503,7 @@
       "syntactic_group_description": "noun phrase predicate",
       "syntactic_group": ", so viel Verstand und Vernunft bei ihm auch gebraucht werden mag",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
@@ -11521,7 +11530,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADV",
@@ -11548,7 +11557,7 @@
       "syntactic_group_description": null,
       "syntactic_group": "bei ihm auch gebraucht",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "VERB",
@@ -11576,7 +11585,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADV",
@@ -11603,7 +11612,7 @@
       "syntactic_group_description": "prepositional group + verb",
       "syntactic_group": "für den Willen fassen",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
@@ -11630,7 +11639,7 @@
       "syntactic_group_description": "other group + accusativ group + verb lemma",
       "syntactic_group": "für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, fassen",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADJ",
@@ -11657,7 +11666,7 @@
       "syntactic_group_description": "other group + accusativ group + verb lemma",
       "syntactic_group": "für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, fassen",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
@@ -11684,7 +11693,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADJ",
@@ -11711,7 +11720,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
@@ -11738,7 +11747,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADV",
@@ -11765,7 +11774,7 @@
       "syntactic_group_description": null,
       "syntactic_group": "doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "VERB",
@@ -11792,7 +11801,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "VERB",
@@ -11819,7 +11828,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADV",
@@ -11846,7 +11855,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADV",
@@ -11873,7 +11882,7 @@
       "syntactic_group_description": "accusativ group + verb lemma",
       "syntactic_group": "entweder gar kein Begehrungsvermögen oder reine Vernunft + geben",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
@@ -11900,7 +11909,7 @@
       "syntactic_group_description": "accusativ group + verb lemma",
       "syntactic_group": "entweder gar kein Begehrungsvermögen oder reine Vernunft + geben",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADJ",
@@ -11927,7 +11936,7 @@
       "syntactic_group_description": "accusativ group + verb lemma",
       "syntactic_group": "entweder gar kein Begehrungsvermögen oder reine Vernunft + geben",
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
@@ -11954,7 +11963,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADV",
@@ -11981,7 +11990,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "ADV",
@@ -12008,7 +12017,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i.",
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
       "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "sentence_start_char": 5797,
       "spacy_pos": "PROPN",
@@ -12035,9 +12044,9 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "ohne Voraussetzung irgend eines Gefühls,",
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Voraussetzung",
@@ -12062,9 +12071,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "irgend",
@@ -12089,9 +12098,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Gefühl",
@@ -12116,9 +12125,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "mithin",
@@ -12143,9 +12152,9 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "mithin ohne Vorstellungen des Angenehmen oder Unangenehmen",
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Vorstellung",
@@ -12170,9 +12179,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "angenehme",
@@ -12197,9 +12206,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "unangenehmen",
@@ -12224,9 +12233,9 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist,",
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Materie",
@@ -12240,8 +12249,8 @@
       "sentence_translation_eval": "bad",
       "gold_sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
       "de_sentence_eval": false,
-      "gold_de_sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "de_sentence_comment": "\"d.i.\" preceding. It could be easily taken into account in a future algorithm."
+      "gold_de_sentence": null,
+      "de_sentence_comment": null
     },
     "1096": {
       "token_index": 1096,
@@ -12254,9 +12263,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Begehrungsvermögen",
@@ -12281,9 +12290,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "ADV",
       "spacy_tag": "ADV",
       "spacy_lemma": "jederzeit",
@@ -12308,9 +12317,9 @@
       "syntactic_group_description": "noun phrase predicate",
       "syntactic_group": "eine empirische Bedingung der Prinzipien",
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "empirisch",
@@ -12335,9 +12344,9 @@
       "syntactic_group_description": "noun phrase predicate",
       "syntactic_group": "eine empirische Bedingung der Prinzipien",
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Bedingung",
@@ -12362,9 +12371,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Prinzip",
@@ -12389,9 +12398,9 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "durch die bloße Form der praktischen Regel",
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "bloß",
@@ -12416,9 +12425,9 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "durch die bloße Form der praktischen Regel",
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Form",
@@ -12443,9 +12452,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "ADJ",
       "spacy_tag": "ADJA",
       "spacy_lemma": "praktisch",
@@ -12470,9 +12479,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Regel",
@@ -12497,9 +12506,9 @@
       "syntactic_group_description": "accusativ group + verb lemma",
       "syntactic_group": "den Willen + bestimmen",
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Wille",
@@ -12524,9 +12533,9 @@
       "syntactic_group_description": null,
       "syntactic_group": "den Willen bestimmen",
       "syntactic_group_translation": null,
-      "sentence": "ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
-      "sentence_translation": "C’est à cette seule condition de déterminer la volonté pour elle-même (de n’être pas au service des penchants) que la raison est une véritable faculté de désirer supérieure, à laquelle est subordonnée celle que déterminent des conditions pathologiques, et qui est réellement et spécifiquement distincte de celle-ci, de telle sorte que le moindre alliage compromet sa puissance et sa supériorité, tout comme le moindre élément empirique, introduit comme condition dans une démonstration mathématique, lui ôte toute valeur et toute vertu.",
-      "sentence_start_char": 6147,
+      "sentence": "Das Prinzip der eigenen Glückseligkeit, so viel Verstand und Vernunft bei ihm auch gebraucht werden mag, würde doch für den Willen keine andere Bestimmungsgründe, als die dem unteren Begehrungsvermögen angemessen sind, in sich fassen, und es gibt also entweder gar kein Begehrungsvermögen oder reine Vernunft muß für sich allein praktisch sein, d.i. ohne Voraussetzung irgend eines Gefühls, mithin ohne Vorstellungen des Angenehmen oder Unangenehmen, als der Materie des Begehrungsvermögens, die jederzeit eine empirische Bedingung der Prinzipien ist, durch die bloße Form der praktischen Regel den Willen bestimmen können.",
+      "sentence_translation": "Le principe du bonheur personnel, quelque usage qu’on y fasse de l’entendement et de la raison, ne saurait contenir d’autres principes de détermination pour la volonté que ceux qui sont propres à la faculté de désirer inférieure, et par conséquent, ou il n’y a pas de faculté de désirer supérieure, ou la raison pure doit pouvoir être pratique par elle seule, c’est-à-dire que, sans supposer aucun sentiment, partant aucune représentation de l’agréable ou du désagréable, comme matière de la faculté de désirer, et, par conséquent, sans soumettre ses principes à aucune condition empirique, elle doit pouvoir déterminer la volonté par la seule forme de la règle pratique.",
+      "sentence_start_char": 5797,
       "spacy_pos": "VERB",
       "spacy_tag": "VVINF",
       "spacy_lemma": "bestimmen",
@@ -13163,7 +13172,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "mélange",
       "token_wikisource_translation": "alliage",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "1172": {
       "token_index": 1172,
@@ -14606,9 +14616,71 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Not in the selected Niemann Themes! We shoud select \"Vie_économique\" if we wish to detect this term.",
+      "detection_comment": "Mainly theme selection",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Geld": {
+          "Arts": [
+            "der Geldgeber, -"
+          ],
+          "Droit_Justice": [
+            "die Geldstrafe, n",
+            "der Geldschrankknacker, - (am)",
+            "Gelder npl veruntreuen",
+            "die Geldwäsche",
+            "Geldern",
+            "Geldern",
+            "die Geldfälschung",
+            "die Geldfälschung"
+          ],
+          "Sciences_exactes": [
+            "sein Geld zählen",
+            "genug Geld haben",
+            "Zeit ist Geld. f"
+          ],
+          "Sciences_humaines": [
+            "die Geldheirat",
+            "um Geld spielen"
+          ],
+          "Vetement": [
+            "die Geldtasche, der Geldbeutel, -"
+          ],
+          "Vie_économique": [
+            "die Geldschuld, en",
+            "eine Geldentschädigung fordern",
+            "die Geldschuld, en",
+            "die Geldeinlage, n",
+            "Geld bei der Bank deponieren/",
+            "Geld von seinem Konto",
+            "Geld am Schalter ab-heben, o, o",
+            "der Geld(ausgabe)automat, en, en",
+            "Geld durch eine Bank",
+            "Geld aufnehmen, a, o, | (von)",
+            "der Geldkurs, der Ankaufskurs",
+            "das Geldwesen",
+            "das Geld",
+            "die Gelder pl",
+            "die Münze, n, das Geldstück, e",
+            "der Geldumtausch,",
+            "der (Geld)wechsel",
+            "die Geldwäsche (fam)",
+            "die Geldmenge, n",
+            "der Geldüberfluss",
+            "der Geldwertschwund",
+            "die Geldwertminderung",
+            "die Geldverschwendung",
+            "sein Geld verschwenden",
+            "(Geld) aus-legen",
+            "Geld bekommen, a, (von+D)",
+            "Geld zurück-legen, Geld auf-sparen",
+            "sein Geld gewinnbringend an-Iegen"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ]
     },
     "311": {
       "token_index": 311,
@@ -14626,9 +14698,106 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "But also surprising that is isn’t in the theme “Lettres”",
       "lexical_relevance_comment": "It is concrete",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Buch": {
+          "Arts": [
+            "die Illuminierkunst, die Buchmalerei"
+          ],
+          "Histoire": [
+            "die Erfindung des Buchdrucks",
+            "die Erfindung des Buchdrucks"
+          ],
+          "Information_Communication": [
+            "in einem Buch blättern",
+            "ein Buch auf-schlagen,",
+            "ein Buch verschlingen, a, u",
+            "das Buchwissen, die Bücherweisheit",
+            "das Buch, \"er",
+            "ein zerlesenes Buch",
+            "das wissenschaftliche Buch",
+            "die Buchbesprechung, en",
+            "ein Buch zusammen-fassen",
+            "das prämierte/preisgekrönte Buch",
+            "die Buchhandlung, en",
+            "der Buchhändler, -",
+            "der Buchbestand, \"e",
+            "ein Buch vor-bestellen",
+            "Das Buch ist ausgeliehen.",
+            "ein Buch entleihen, ie, ie",
+            "die wissenschaftliche Buchhandlung",
+            "die Buchgemeinschaft, en/",
+            "der Buchklub, s",
+            "ein Buch antiquarisch kaufen",
+            "die Buchkasseite, n",
+            "ein Buch neu auf-legen",
+            "Auszüge machen (aus einem Buch,",
+            "ein Buch veröffentlichen, publizieren",
+            "ein Buch verlegen,",
+            "Das Buch erscheint im Herbst.",
+            "Buchhandels",
+            "die Buchmesse, n",
+            "die kalligraphische Buchschrift",
+            "die (Buch)druckerei, en",
+            "der Buchdrucker, -",
+            "das Drucken, der (Buch)druck",
+            "das Buchformat, e",
+            "die Buchbinderei, en",
+            "der Buchbinder, -",
+            "ein Buch (eir-)binden, a, U",
+            "die Buchhülle, n",
+            "die Rippen fp/ (auf dem Buchrücken)",
+            "das Lesezeichen, das Buchzeichen",
+            "der Buchungsbeleg, e",
+            "die Buchungsnummer, n"
+          ],
+          "Lettres": [
+            "das Lesedrama, Buchdrama",
+            "der kleine Buchstabe"
+          ],
+          "Monde": [
+            "die Bucht, en",
+            "die kleine Bucht"
+          ],
+          "Sciences_humaines": [
+            "der Buchstabe, ns, n"
+          ],
+          "Urbanisme": [
+            "die Buchhandlung, en"
+          ],
+          "Vie_économique": [
+            "die Buchhaltung",
+            "der Buchführer, -, der Buchhalter, -",
+            "die Buchführung",
+            "die doppelte Buchführung",
+            "die EDV-Buchführung",
+            "die Buchung, en",
+            "der Buchungsbeleg, &",
+            "der Buchungssatz, \"e",
+            "der Buchprüfer, -",
+            "die Buchprüfung, en",
+            "der Buchauszug, \"e",
+            "die Buchmesse",
+            "die Buchforderung, en",
+            "in Buchstaben ; in Ziffern",
+            "die Buchhypothek",
+            "das Giralgeld, das Buchgeld"
+          ],
+          "Zoologie_Botanique": [
+            "der Buchenspanner, -",
+            "der Buchfink ; der Bergfink",
+            "der Buchenwald",
+            "die Buchecker, n",
+            "der Buchsbaum, \"e",
+            "der Buchweizen"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ]
     },
     "326": {
       "token_index": 326,
@@ -14646,9 +14815,55 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Not in the selected Niemann themes. We must confess that the belonging to the theme \"Transprot_Tourisme\" comes as rather surprising, although it can make sense.",
+      "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Jagd": {
+          "Droit_Justice": [
+            "das (Jagd)gewehr, &,",
+            "die Schrofflinte, Jagdflinte, n"
+          ],
+          "Sciences_politiques": [
+            "der Jagdbomber, -",
+            "das U-Jagdboot, e"
+          ],
+          "Transport_Tourisme": [
+            "die Jagd, en",
+            "auf die Jagd gehen, i, a",
+            "der Jagdhund, e",
+            "die Jagd, en",
+            "auf die Jagd gehen, i, a",
+            "der Jagdhund, e",
+            "das Jagdhorn, \"er",
+            "das Jagdhorn blasen, ie, a, ä",
+            "die (Er)öffnung der Jagd",
+            "das Jagdrevier, e",
+            "der Jagdhüter, -",
+            "das Jagdrecht",
+            "der Jagdschein, e",
+            "einen Jagdschein lösen",
+            "das Jagdvergehen, -",
+            "die Jagdwaffe, n",
+            "das Jagdgewehr, e, die Flinte, n",
+            "der Jagdanzug, \"e",
+            "die Jagdjacke, n",
+            "der Jagdstuhl, \"e",
+            "die (Jagd)trophäe, n"
+          ],
+          "Urbanisme": [
+            "das Jagdhaus"
+          ],
+          "Zoologie_Botanique": [
+            "der Baumfalke ; der Jagd-/Gerfalke",
+            "der Jagdhund"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection",
+        "in_compounds_in_Niemann"
+      ]
     },
     "341": {
       "token_index": 341,
@@ -14666,9 +14881,23 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "There is no entry in the Niemann for that term. Now we could study if it due to an error in the OCR/ processing of the Niemann book, or if it really isn't in it.",
+      "detection_comment": "“die Mahlzeit” and not “cie Mahlzeit” in the OCR!",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Mahlzeit": {
+          "Alimentation": [
+            "cie Mahlzeit, en",
+            "Guten Appetit !/Mahlzeit !"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Alimentation"
+      ],
+      "undetected_cause": [
+        "OCR"
+      ]
     },
     "373": {
       "token_index": 373,
@@ -14686,9 +14915,91 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "No entry found in the Niemann for the lemma \"arme\". Maybe with another lemma?",
+      "detection_comment": "Not only lemmatisation. Also not in the Niemann with the good lemma.",
       "lexical_relevance_comment": "Indicates concreteness, although seem relevant to ethics.",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "themes_gold_lemma": [],
+      "ocr_check": {
+        "arme": {
+          "Agriculture": [
+            "ein wasserarmer Boden"
+          ],
+          "Alimentation": [
+            "die Marmelade, n/die Konfitüre, n"
+          ],
+          "Droit_Justice": [
+            "die Gendarmerie (F)"
+          ],
+          "Homme_Santé_Médecine": [
+            "die Darmentleerung",
+            "die kalorienarme Diät",
+            "die (streng) nairiumarme Kost",
+            "die fettarme Kost",
+            "die Blinddarmentzündung",
+            "die Dünndarmentzündung, en",
+            "Dickdarmentzündung"
+          ],
+          "Religion": [
+            "die Heilsarmee"
+          ],
+          "Sciences_humaines": [
+            "sich erbarmen (+G),",
+            "jdn umarmen"
+          ],
+          "Sciences_politiques": [
+            "die Gendarmerie (F}"
+          ],
+          "Transport_Tourisme": [
+            "die verkehrsarmen Stunden fol"
+          ]
+        },
+        "Arm": {
+          "Droit_Justice": [
+            "die Armbinde, n",
+            "die Armbinde, n"
+          ],
+          "Homme_Santé_Médecine": [
+            "der Arm, e",
+            "die Armknochen mpl",
+            "der zwei-, dreiköpfige Armmuskel",
+            "den Arm in der Binde tragen, u, a, ä",
+            "jdm einen Arm amputieren"
+          ],
+          "Religion": [
+            "das Gelübde der Armut, des"
+          ],
+          "Sciences_exactes": [
+            "die Armbanduhr"
+          ],
+          "Sciences_humaines": [
+            "die Armut",
+            "einen langen Arm haben (fam)"
+          ],
+          "Sciences_politiques": [
+            "die Armee, n/das Heer, e",
+            "die Armbrust, \"e; der Bolzen, -",
+            "die Armee, n"
+          ],
+          "Transport_Tourisme": [
+            "die Armlehne, n",
+            "das Armaturenbrett, er"
+          ],
+          "Urbanisme": [
+            "die Armierung, en",
+            "die Armlehne, die Seitenlehne"
+          ],
+          "Vetement": [
+            "der Ärmel, - ;der Armausschnitt, e",
+            "das Armband, \"er",
+            "der Armreif, e"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "lemmatisation",
+        "not_in_Niemann"
+      ]
     },
     "366": {
       "token_index": 366,
@@ -14708,7 +15019,265 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Spieltisch": {},
+        "tisch": {
+          "Agriculture": [
+            "die malolaktische Gärung"
+          ],
+          "Alimentation": [
+            "der Stammtisch, e",
+            "der Nachtisch",
+            "die optische Prüfung"
+          ],
+          "Arts": [
+            "authentisch",
+            "die Ästhetik ; ästhetisch",
+            "die illusionistische Malerei",
+            "die präraphaelitische Malerei",
+            "der Sozialistische Realismus",
+            "der Kritische Realismus",
+            "plastisch",
+            "vollplastisch",
+            "die dorische, attische,",
+            "die gotische Kunst, die Gotik",
+            "die Kunsttischlerei",
+            "der Kunsttischler",
+            "der Schneidetisch, e",
+            "der phantastische Film"
+          ],
+          "Droit_Justice": [
+            "die juristische Laufbahn",
+            "die juristische Fakultät",
+            "die juristische Person ($ 21)",
+            "die politisch engagierte Gruppe, n"
+          ],
+          "Histoire": [
+            "authentisch",
+            "die Mithridatischen Kriege",
+            "die Kelten mpl ; keltisch",
+            "Wulfila (gotische Bibel 369)",
+            "die NSDAP (Nationalsozialistische",
+            "die nationalsozialistische Bewegung |",
+            "der deutsch-sowjetische",
+            "der Schreibtischmörder, -",
+            "die Deutsche Demokratische",
+            "der sowjetische Einmarsch in",
+            "ı die politische Eingliederung der Saar"
+          ],
+          "Homme_Santé_Médecine": [
+            "unästhetisch",
+            "die elastische Binde",
+            "die Asepsis ; aseptisch, keimfrei",
+            "der praktische Arzt, der Praktiker, -",
+            "die Therapie, n ‚therapeutisch",
+            "das ciabetische Koma",
+            "epileptisch, fallsüchtig",
+            "ein autistisches Kind",
+            "psychoanalytisch",
+            "der Rheumatiker, - ;rheumatisch",
+            "die Rachitis ; rachitisch",
+            "die entzündliche rheumatische",
+            "die plastische Chirurgie/",
+            "der Operationstisch, e",
+            "das genetische Erbmaterial",
+            "der genetische Code, s",
+            "der pharmazeutisch-technische",
+            "pharmazeutisch",
+            "der pharmazeutisch-technische",
+            "pharmazeutisch"
+          ],
+          "Information_Communication": [
+            "die erotische Presse,",
+            "der politische Teil",
+            "skeptisch sein",
+            "der journalistische Ehrenkodex",
+            "die automatische Abschaltung",
+            "die (historisch-)kritische Ausgabe",
+            "der Schreibtisch, e",
+            "der Maschinentisch, e",
+            "der erotische Btx-Dienst"
+          ],
+          "Lettres": [
+            "der romantische Held, en, en",
+            "die existentialistische Literatur",
+            "der poetische Realismus",
+            "pathetisch",
+            "schwülstig, emphatisch",
+            "echt, authentisch",
+            "anschaulich ; realistisch",
+            "sarkastisch",
+            "die didaktische Prosa",
+            "didaktisch, lehrhaft",
+            "die dramatische Dichtung",
+            "dramatisch",
+            "melodramatisch",
+            "pathetisch",
+            "das didaktische Theater",
+            "poetisch, dichterisch",
+            "Phonetisch",
+            "identisch bleiben“, ie, ie",
+            "grammatisch",
+            "statisch/resultativ",
+            "das grammatische Subjekt",
+            "der Tiefenkasus/die semantische",
+            "das grammatische Subjekt",
+            "das (grammatische) Geschlecht, er",
+            "die präpositionale idiomatische",
+            "die akkusativische idiomatische",
+            "thematisch",
+            "thematisch",
+            "das thematische Subjekt, e",
+            "stilistisch",
+            "Serbokroatisch n",
+            "die automatische Übersetzung"
+          ],
+          "Monde": [
+            "extragalaktisch",
+            "die Ellipse, n ; elliptisch",
+            "das erdmagnetische Feld, er"
+          ],
+          "Religion": [
+            "der Fanatiker, - ‚ fanatisch",
+            "der Fetischismus",
+            "der Fetisch, e",
+            "der Spiritist, en, en ; spiritistisch",
+            "evangelisch, protestantisch",
+            "der Mystiker, - ;mystisch",
+            "der Buddhist, en, en ; buddhistisch",
+            "der Israelit, en, en ;israelitisch"
+          ],
+          "Sciences_exactes": [
+            "die identische Gleichung ;",
+            "das mathematische Symbol, e",
+            "identisch gleich (=)",
+            "die analytische Geometrie",
+            "die kinetische Energie",
+            "das optische Bild, er",
+            "die optische Aberration, en",
+            "die chromatische Aberration",
+            "das optische Gerät, e",
+            "das magnetische Feld, er",
+            "die elektromagnetische Welle, n",
+            "elektrolytisch",
+            "der Labortisch, e",
+            "die nautische Einheit, en",
+            "die magnetische Einheit",
+            "die magnetische Feldstärke",
+            "die magnetische Flussdichte",
+            "die optische Einheit"
+          ],
+          "Sciences_humaines": [
+            "skeptisch bleiben‘, ie, io",
+            "der Agnostiker, - ; agnostisch",
+            "authentisch",
+            "die Kritik, en ; kritisch",
+            "die Dialektik ; dialektisch",
+            "genetisch",
+            "der hypothetische Imperativ",
+            "die mechanistische Weltanschauung",
+            "der Pragmatismus ; pragmatisch",
+            "problematisch",
+            "der Skeptizismus ; skeptisch",
+            "die Theorie, n ; theoretisch",
+            "egoistisch, selbstsüchtig",
+            "zuversichtlich, optimistisch",
+            "der Pessimismus ; pessimistisch",
+            "der Fetisch, e",
+            "die sadistisch-anale Stufe",
+            "die Didaktik ; didaktisch",
+            "kritisch eingestellt sein",
+            "die kritische Haltung",
+            "die mathematisch-",
+            "die praktischen Übungen ipl,",
+            "studentisch, Studenten-",
+            "Doktor der politischen",
+            "die städtische, ländliche Bevölkerung",
+            "tassistisch eingestellt sein",
+            "judenfeindlich/antisemitisch",
+            "chauvinistisch sein (pej)",
+            "das Billard, s ; der Billardtisch, e",
+            "der Stammitischstratege, n, n"
+          ],
+          "Sciences_politiques": [
+            "der Patriotismus ; patriotisch",
+            "die freiheitliche demokratische",
+            "die politischen Wissenschaften fp/",
+            "die politischen Wissenschaften fp/",
+            "politisch engagiert sein",
+            "die politische Gesinnung/",
+            "der Faschismus ; taschistisch",
+            "der Neonazi, 5 ; neonazistisch",
+            "der Demokrat, en, en ; demokratisch",
+            "der Sozialismus ; sozialistisch",
+            "der Kommunismus ; kommunistisch",
+            "der Marxismus ; marxistisch",
+            "der Anarchismus ; anarchistisch",
+            "der Kapitalist, en, en ; kapitalistisch",
+            "der diplomatische Dienst",
+            "das diplomatische Korps (CD)",
+            "die diplomatische Immunität",
+            "der diplomatische Zwischenfall, 'e",
+            "die diplomatischen Beziehungen",
+            "das taktische Manöver, -"
+          ],
+          "Transport_Tourisme": [
+            "die städtischen Verkehrsmittel np!",
+            "der Klapptisch, &"
+          ],
+          "Urbanisme": [
+            "die städtische Müllabfuhr",
+            "der Bautischler",
+            "der Möbeltischler",
+            "der Tapeziertisch, e",
+            "der Couchtisch",
+            "die Satztische pl",
+            "der Abstelltisch",
+            "der Schreibtisch, e |",
+            "der Ausziehtisch e",
+            "der Nachttisch, e",
+            "der Wickeltisch, &",
+            "der Küchentisch, e",
+            "der Klapptisch, e",
+            "die Nachitischlampe",
+            "die Schreibtischlampe",
+            "der Bügeltisch, e"
+          ],
+          "Vetement": [
+            "schottisch",
+            "der Zuschneidetisch, e",
+            "der Bügeltisch, e"
+          ],
+          "Vie_économique": [
+            "das Kapital ; kapitalistisch",
+            "die kritische Wirtschaftslage",
+            "die optische Industrie",
+            "Inflationär, inflationistisch"
+          ],
+          "Zoologie_Botanique": [
+            "das Schottische Moorhuhn",
+            "die Artischocke, n"
+          ]
+        },
+        "eibtisch": {
+          "Histoire": [
+            "der Schreibtischmörder, -"
+          ],
+          "Information_Communication": [
+            "der Schreibtisch, e"
+          ],
+          "Urbanisme": [
+            "der Schreibtisch, e |",
+            "die Schreibtischlampe"
+          ]
+        },
+        "ieltisch": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "402": {
       "token_index": 402,
@@ -14729,7 +15298,27 @@
       "detection_comment": "",
       "lexical_relevance_comment": null,
       "metaphor_comment": "Contributes to an illustration (the whole sentence) AND at the same time in the little expression is a lexical metaphor. But not a deliberate or creative metaphor for sure",
-      "syntactic_group_quality": null
+      "syntactic_group_quality": null,
+      "ocr_check": {
+        "Eintritt": {
+          "Arts": [
+            "die Eintrittskarte, n"
+          ]
+        },
+        "eintritt": {
+          "Histoire": [
+            "der Kriegseintritt der USA (6.4.1917)"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Arts",
+        "Histoire"
+      ],
+      "undetected_cause": [
+        "not_in_Niemann",
+        "in_compounds_in_Niemann"
+      ]
     },
     "405": {
       "token_index": 405,
@@ -14747,10 +15336,29 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "No entry in the Niemann",
+      "detection_comment": "",
       "lexical_relevance_comment": null,
       "metaphor_comment": null,
-      "syntactic_group_quality": null
+      "syntactic_group_quality": null,
+      "ocr_check": {
+        "Komödie": {
+          "Information_Communication": [
+            "der Komödiendichter, -"
+          ],
+          "Lettres": [
+            "der Komödiendichter, -",
+            "die Komödie",
+            "das Lustspiel, e, die Komödie, n"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Lettres"
+      ],
+      "undetected_cause": [
+        "extraction_process_from_OCR",
+        "themes_selection"
+      ]
     },
     "977": {
       "token_index": 977,
@@ -14770,7 +15378,29 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": "Seems rather political",
-      "metaphor_comment": "Likely yes, if the source domain in the political sciences."
+      "metaphor_comment": "Likely yes, if the source domain in the political sciences.",
+      "ocr_check": {
+        "Koalitionssystem": {},
+        "Koalition": {
+          "Histoire": [
+            "die große Koalition (CDU+SPD)"
+          ],
+          "Sciences_politiques": [
+            "eine Koalitionsregierung bilden",
+            "die Koalition, en ; das Bündnis, se"
+          ]
+        },
+        "koalition": {}
+      },
+      "gold_extracted_themes": [
+        "Histoire",
+        "Sciences_politiques"
+      ],
+      "undetected_cause": [
+        "not_in_Niemann",
+        "compound",
+        "themes_selection"
+      ]
     },
     "983": {
       "token_index": 983,
@@ -14788,9 +15418,20 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "No entry in the Niemann. Comes from \"seicht\".",
+      "detection_comment": "",
       "lexical_relevance_comment": "Concrete",
-      "metaphor_comment": "Rather yes, solidity / fragility here applied to something abstract.\nDeliberate metaphor for sure. Creative one? New one?"
+      "metaphor_comment": "Rather yes, solidity / fragility here applied to something abstract.\nDeliberate metaphor for sure. Creative one? New one?",
+      "ocr_check": {
+        "Seichtigkeit": {},
+        "seichtig": {},
+        "seicht": {},
+        "seich": {},
+        "Seich": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "981": {
       "token_index": 981,
@@ -14808,9 +15449,25 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Derived form. Should look for the simpler adjective.",
       "lexical_relevance_comment": "Hard to tell",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Unredlichkeit": {},
+        "unredlich": {
+          "Sciences_humaines": [
+            "unredlich, unaufrichtig"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Sciences_humaines"
+      ],
+      "undetected_cause": [
+        "not_in_Niemann",
+        "derived_form",
+        "themes_selection"
+      ]
     },
     "1014": {
       "token_index": 1014,
@@ -14828,9 +15485,58 @@
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": "Very most likely. The wikisource translation indicates that also.",
       "status": "added",
-      "detection_comment": "False Lemma thus not in the Niemann",
+      "detection_comment": "In the selected themes, would have been detected",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "themes_gold_lemma": [
+        "Monde",
+        "Sport",
+        "Transport_Tourisme"
+      ],
+      "ocr_check": {
+        "Sättel": {},
+        "Sattel": {
+          "Alimentation": [
+            "das Sattelstück, das Nierenstück",
+            "das Sattelstück, e"
+          ],
+          "Homme_Santé_Médecine": [
+            "die Sattelnase"
+          ],
+          "Sport": [
+            "der Sattel, ”",
+            "der Sattelplatz, 'e",
+            "der Sattel,”"
+          ],
+          "Transport_Tourisme": [
+            "der Sattelanhänger, -",
+            "die Satteltasche, n",
+            "der Sattel, \""
+          ]
+        },
+        "sattel": {
+          "Alimentation": [
+            "der Hirschsattel"
+          ],
+          "Monde": [
+            "der (Höhen)sattel, ”,"
+          ],
+          "Sciences_humaines": [
+            "den Beruf wechseln, um-satteln (fam"
+          ],
+          "Sport": [
+            "ein Pferd satteln"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Monde",
+        "Sport",
+        "Transport_Tourisme"
+      ],
+      "undetected_cause": [
+        "lemmatisation"
+      ]
     },
     "495": {
       "token_index": 495,
@@ -14848,9 +15554,32 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "False lemma, thus not in Niemann",
+      "detection_comment": "Would have been detected because in the selected themes",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "themes_gold_lemma": [
+        "Monde"
+      ],
+      "ocr_check": {
+        "Gebirg": {
+          "Monde": [
+            "das Gebirge",
+            "Gebirgs-, bergig",
+            "die Gebirgskstte, n",
+            "das Gebirgsmassiv, e",
+            "das Gebirgsklima/Höhenklima"
+          ],
+          "Sciences_politiques": [
+            "die Gebirgsjägertruppe"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Monde"
+      ],
+      "undetected_cause": [
+        "lemmatisation"
+      ]
     },
     "496": {
       "token_index": 496,
@@ -14868,9 +15597,40 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Appears in a lot of compounds but not by itself.",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "graben": {
+          "Histoire": [
+            "eine Totenstadt aus-graben, u, a, ä"
+          ],
+          "Information_Communication": [
+            "aus-graben, u, a, ä",
+            "vergraben, u, a, ä"
+          ],
+          "Monde": [
+            "der Tiefseegraben, \"",
+            "unter sich begraben, u, a, ä",
+            "der Abzugsgraben,', die Rinne, n"
+          ],
+          "Sciences_humaines": [
+            "bestatten, beerdigen, begraben, u, a, ä"
+          ],
+          "Sciences_politiques": [
+            "sich ein-graben, u, a,ä",
+            "der Schützengraben, ä"
+          ],
+          "Urbanisme": [
+            "sich in der Provinz vergraben, u, a, ä"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann",
+        "in_compounds_in_Niemann"
+      ]
     },
     "318": {
       "token_index": 318,
@@ -14886,11 +15646,178 @@
       "textual_image_comment": "Superposition of an Illustration (whole sentence) and local lexical metaphor",
       "is_metaphorical": null,
       "is_lexical_metaphor": true,
-      "lexical_metaphor_comment": "See the wikisource translation, as indicator",
+      "lexical_metaphor_comment": "See the wikisource translation, as indicator. That “Hand” is in many compounds (see Niemann OCR search) shows how it can occur in lexical metaphores, idioms.",
       "status": "added",
-      "detection_comment": "Not in the selected Niemann themes.",
+      "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Hand": {
+          "Agriculture": [
+            "das Handmelken",
+            "der Handwagen, -",
+            "der Handrasenmäher, -",
+            "die Handlese"
+          ],
+          "Alimentation": [
+            "das Handrührgerät, e"
+          ],
+          "Arts": [
+            "aus freier Hand zeichnen",
+            "die Handpalette, n",
+            "die letzte Hand an-Iegen an-+A",
+            "die Handkamera"
+          ],
+          "Droit_Justice": [
+            "das Handelsgesetzbuch (HGB)",
+            "das Handelsrecht",
+            "die Handlungsfähigkeit",
+            "die Verfügung von hoher Hand",
+            "das Handelsgericht, e {F)",
+            "die Haftung der öffentlichen Hand",
+            "mit dem Revolver in der Hand",
+            "die Pfändung in dritter Hand",
+            "jdm Handschellen fp/ an-legen",
+            "in Handschellen"
+          ],
+          "Histoire": [
+            "die Handschrift, en"
+          ],
+          "Homme_Santé_Médecine": [
+            "das Handgelenk, e",
+            "die Hand, 'e",
+            "der Handrücken, -",
+            "die innere Handfläche, n/",
+            "der Handteller, -",
+            "die Handwurzel, n",
+            "jdn an/bei der Hand fassen",
+            "Er blutet an der Hand.",
+            "Hand an sich legen"
+          ],
+          "Information_Communication": [
+            "das Lehrbuch, das Handbuch",
+            "der Handapparat",
+            "das Handschriftenarchiv",
+            "die Handschrift, en",
+            "letzte Hand an-legen an+A",
+            "die (Hand)schrift, en, der Stil",
+            "die Ausgabe letzter Hand",
+            "aus zweiter Hand",
+            "der Handsatz",
+            "der Handsatz",
+            "ds rechte Hand sein",
+            "die Handelskorrespondenz",
+            "der Handelskorrespondent, en, en",
+            "das Mobiltelefon, das Handy, s"
+          ],
+          "Lettres": [
+            "Handlung",
+            "die Verstrickungen fp/ der Handlung",
+            "der Handlungsbeginn",
+            "der Handlungsverlauf",
+            "der Handlungsablauf, \"e",
+            "das Fortschreiten der Handlung",
+            "die Handlung, en",
+            "die Einheit der Handlung beachten",
+            "die Aktionsart, en/die Handlungsart |",
+            "der Pertinenzdativ (Er hielt ihr die Hand.)",
+            "Verbindung (auf der Hand liegen)"
+          ],
+          "Religion": [
+            "die Handliniendeutung",
+            "die Handliniendeuterin, nen"
+          ],
+          "Sciences_humaines": [
+            "Es liegt auf der Hand, dass ...",
+            "die Handlung, en ; handeln",
+            "die Handlungsweise, n",
+            "die (Hand)schrift, en",
+            "eine hässliche Handschrift",
+            "eine unleserliche Handschrift",
+            "aus der Hand lesen, a, &, ie",
+            "eine unverzeihliche Handlung",
+            "der Handkuss, \"e",
+            "jdm die Hand geben, drücken"
+          ],
+          "Sciences_politiques": [
+            "durch Handheben",
+            "die öffentliche Hand",
+            "die öffentliche Hand",
+            "die Handelsmission, en",
+            "der Handelsrat",
+            "Handelsabkommen",
+            "Gewehr in die Hand |",
+            "die Handwaffe, n",
+            "die Handgranate, n",
+            "der Handstreich, e"
+          ],
+          "Sport": [
+            ") der Handstand",
+            "das Handgerät, e",
+            "das Handtuch werfen, a, o, i",
+            "(das) Handballspiel",
+            "der Handball",
+            "das Handicap"
+          ],
+          "Transport_Tourisme": [
+            "das Handschuhfach, \"er",
+            "die Handbremse",
+            "der Handgriff, e",
+            "der (Hand-, Reise)koffer, -",
+            "das Handelsschiff",
+            "das Handelsschiff",
+            "die Handelsmarine",
+            "der Handelshafen",
+            "die Handelsrechnung, en"
+          ],
+          "Urbanisme": [
+            "die Handelskammer, n",
+            "die Handbohrmaschine, n",
+            "der Handlauf, \"e",
+            "die Handbrause, Handdusche",
+            "der Handtuchhalter, -",
+            "das Handtuch, \"er",
+            "der Handfeger, -",
+            "der Handstaubsauger"
+          ],
+          "Vetement": [
+            "der Handschuh, e",
+            "die gefütterten Handschuhe",
+            "der Handumfang",
+            "Handschuhe an-haben",
+            "(die) Handschuhe an-ziehen,",
+            "die (Hand)tasche, n",
+            "die weite Handtasche"
+          ],
+          "Vie_économique": [
+            "der Handelsverkehr",
+            "die Industrie- und Handelskammer, n",
+            "die Handelsbilanz, en",
+            "die Handelsmarke, n",
+            "der Handlungsbevollmächtigte (adj)",
+            "das Handelsregister (HReg)",
+            "“das Handelsregister",
+            "im Handelsregister eingetragen",
+            "die Handelsfirma, men",
+            "die offene Handelsgesellschaft",
+            "vermarkten, in den Handel",
+            "der Handelsvertreter, -",
+            "der (Handels)reisende (adj)",
+            "die Handelsmesse",
+            "ein Handelsgewerbe treiben, ie, ie",
+            "das Handelsgeschäft, e",
+            "der Handelsvertrag",
+            "das Handelsgeschäft, e",
+            "die Warenbörse, die Handelsbörse",
+            "das Handwerk",
+            "der Handwerker, -",
+            "die Handarbeit, die manuelle Arbeit"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ]
     },
     "502": {
       "token_index": 502,
@@ -14908,9 +15835,38 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Difficult case of a verb with “sich”.",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "waschen": {
+          "Alimentation": [
+            "die Teller waschen, u, a, ä",
+            "ab-waschen, u, a,ä&"
+          ],
+          "Homme_Santé_Médecine": [
+            "sich waschen, u, a, ä",
+            "(sich) den Kopf waschen, u, a,ä",
+            "behandeln, aus-waschen, u, a, ä"
+          ],
+          "Urbanisme": [
+            "die Wäsche ; waschen, u, a, ä",
+            "die Wäsche waschen",
+            "die Wand ab-waschen, u, a, ä"
+          ],
+          "Vetement": [
+            "vergewaschen ; verwaschen"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Homme_Santé_Médecine",
+        "Urbanisme"
+      ],
+      "undetected_cause": [
+        "extraction_process_from_OCR",
+        "themes_selection"
+      ]
     },
     "1169": {
       "token_index": 1169,
@@ -14928,9 +15884,122 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": "Also hard to tell.",
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "[]",
       "lexical_relevance_comment": "Domain of chemistry",
-      "metaphor_comment": "Hard to tell"
+      "metaphor_comment": "Hard to tell",
+      "ocr_check": {
+        "Beimischung": {},
+        "beimisch": {},
+        "misch": {
+          "Agriculture": [
+            "die Vermischung, en"
+          ],
+          "Alimentation": [
+            "mischen",
+            "vermischen, vermengen",
+            "gemischte Vorspeisen",
+            "die Teemischung, en"
+          ],
+          "Arts": [
+            "mischen ; verdünnen",
+            "der akademische Maler",
+            "die dynamische Bezeichnung, en",
+            "der rhythmische Tanz",
+            "die komische Oper",
+            "der Trickmischer, -"
+          ],
+          "Histoire": [
+            "das Ende des weströmischen",
+            "das Heilige Römische Reich",
+            "die Unterzeichnung der Römischen"
+          ],
+          "Homme_Santé_Médecine": [
+            "das anatomische Gewebe",
+            "die gemischten Nerven",
+            "endemisch ; epidemisch",
+            "gemischtgeschlechtig ; monoklin"
+          ],
+          "Information_Communication": [
+            "Vermischtes n/die vermischten",
+            "der Tonmischpult, e",
+            "der Vormischraum",
+            "das Bildmischpult, e"
+          ],
+          "Lettres": [
+            "schelmisch",
+            "polemisch",
+            "tragisch ; tragikomisch",
+            "die rhythmische Form",
+            "eine rhythmische Prosa"
+          ],
+          "Monde": [
+            "kosmisch",
+            "die astronomische Einheit (AE)",
+            "Erdbeben-, seismisch",
+            "Die See ist bewegt/stürmisch,"
+          ],
+          "Religion": [
+            "die römisch-katholische Kirche",
+            "die islamischen Völker npl ;",
+            "die islamische Kultur",
+            "Istamisch, mohammedanisch"
+          ],
+          "Sciences_exactes": [
+            "in römischen Ziffern",
+            "das (Stoffigemisch, e",
+            "die chemische Eigenschaft",
+            "der chemische Vorgang, \"e",
+            "die chemische Reaktion, en",
+            "die tnermochemische Reaktion",
+            "die elektrochemische Valenz",
+            "die chemische Nomenklatur",
+            "die thermische Einheit",
+            "die thermodynamische Temperatur"
+          ],
+          "Sciences_humaines": [
+            "dynamisch",
+            "die Dynamik ; dynamisch",
+            "der (akademische) Senat",
+            "der (akademische) Senat 1",
+            "Akademische Austauschdienst)",
+            "das akademische Auslandsarnt, \"er",
+            "der akademische (Ober)rat, \"e ()",
+            "der akademische Grad, e",
+            "der akademische Titel, -",
+            "die akademische Bildung",
+            "die Karten mischen"
+          ],
+          "Sciences_politiques": [
+            "der Römische Vertrag",
+            "die Nichteinmischung",
+            "die chemischen Waffen,"
+          ],
+          "Sport": [
+            "die rhythmische Sportgymnastik",
+            "der griechisch-römische Ringkampf",
+            "das gemischte Doppel"
+          ],
+          "Urbanisme": [
+            "die Betonmischmaschine, n",
+            "der Einhandmischer, -",
+            "die Gummischlauchleitung"
+          ],
+          "Vie_économique": [
+            "die einheimische Industrie",
+            "die chemische Industrie",
+            "ein einheimisches Produkt",
+            "die gemischte Lebensversicherung",
+            "dynamisch"
+          ],
+          "Zoologie_Botanique": [
+            "die Römische Hundskamille"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     }
   }
 }

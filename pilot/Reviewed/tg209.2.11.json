@@ -94,7 +94,16 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "ami",
       "token_wikisource_translation": "amis",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null,
+      "lexical_search": {
+        "Umgangsfreund": {
+          "is_in_wiktionary": false,
+          "is_in_dwds": false,
+          "dwds_historical_corpora_occurrences": null,
+          "dwb_entries": 1
+        }
+      }
     },
     "11": {
       "token_index": 11,
@@ -179,7 +188,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "témoignage",
       "token_wikisource_translation": "témoignage",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "14": {
       "token_index": 14,
@@ -318,7 +328,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "prétendre",
       "token_wikisource_translation": "en alléguant",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "28": {
       "token_index": 28,
@@ -866,7 +877,11 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null,
+      "lemma_google_translation": "secrète",
+      "token_wikisource_translation": "secret",
+      "token_translation_comment": null
     },
     "76": {
       "token_index": 76,
@@ -1334,7 +1349,8 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "de_sentence_eval": null
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "115": {
       "token_index": 115,
@@ -1423,7 +1439,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "secouer en arrière",
       "token_wikisource_translation": "éloigneriez",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "121": {
       "token_index": 121,
@@ -1805,7 +1822,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "propriétaire",
       "token_wikisource_translation": "intendant",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "158": {
       "token_index": 158,
@@ -1890,7 +1908,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "aveuglément",
       "token_wikisource_translation": "aveuglément",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "161": {
       "token_index": 161,
@@ -2002,7 +2021,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "insuffler",
       "token_wikisource_translation": "inspirer",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "171": {
       "token_index": 171,
@@ -2029,7 +2049,12 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null,
+      "undetected_cause": null,
+      "lemma_google_translation": "se vanter",
+      "token_wikisource_translation": "vante",
+      "token_translation_comment": null
     },
     "176": {
       "token_index": 176,
@@ -2245,7 +2270,9 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "192": {
       "token_index": 192,
@@ -2573,7 +2600,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "vulgaire",
       "token_wikisource_translation": "grossier",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "212": {
       "token_index": 212,
@@ -2859,7 +2887,8 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "de_sentence_eval": null
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "234": {
       "token_index": 234,
@@ -2890,7 +2919,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "opulence",
       "token_wikisource_translation": "débauche",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "239": {
       "token_index": 239,
@@ -2929,7 +2959,8 @@
           "dwds_historical_corpora_occurrences": 32588,
           "dwb_entries": 1
         }
-      }
+      },
+      "undetected_cause": null
     },
     "241": {
       "token_index": 241,
@@ -3488,7 +3519,8 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "de_sentence_eval": null
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "281": {
       "token_index": 281,
@@ -3515,7 +3547,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "283": {
       "token_index": 283,
@@ -4110,7 +4143,9 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "336": {
       "token_index": 336,
@@ -4228,7 +4263,8 @@
       "de_sentence_eval": null,
       "lemma_google_translation": "couper",
       "token_wikisource_translation": "tracée",
-      "token_translation_comment": "The wikisource translation shows how it gets further from the literal meaning of the word. Although the translation has also a concrete meaning."
+      "token_translation_comment": "The wikisource translation shows how it gets further from the literal meaning of the word. Although the translation has also a concrete meaning.",
+      "undetected_cause": null
     },
     "345": {
       "token_index": 345,
@@ -4650,7 +4686,8 @@
       },
       "lemma_google_translation": "superflu",
       "token_wikisource_translation": "superflues",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "378": {
       "token_index": 378,
@@ -5168,16 +5205,38 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Umgangsfreund": {},
+        "Umgang": {
+          "Lettres": [
+            "die Umgangssprache"
+          ],
+          "Sciences_humaines": [
+            "der Verkehr, der Umgang Br.",
+            "die Umgangsformen fol"
+          ]
+        },
+        "umgang": {
+          "Lettres": [
+            "umgangssprachlich/familiär"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_lexical_resources",
+        "not_in_Niemann"
+      ]
     },
     "13": {
       "token_index": 13,
       "is_detected": false,
       "spacy_pos_is_correct": null,
       "spacy_tag_is_correct": null,
-      "spacy_lemma_is_correct": null,
+      "spacy_lemma_is_correct": false,
       "gold_pos": null,
-      "gold_lemma": null,
+      "gold_lemma": "Zeugnis",
       "is_lexically_relevant": true,
       "is_context_shifted": null,
       "contributes_to_a_textual_image": true,
@@ -5186,18 +5245,195 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Appears also in compounds. And derived from “Zeuge”. OCR: “zeugnis” instead of “Zeugnis”. Would be easier to look for matches of lemmas in lower case. Knowing that we also check the POS.",
       "lexical_relevance_comment": "Domain of justice, not really separated from the domain of ethics. For sure less surprising if in MSRL.",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Zeugniss": {},
+        "Zeug": {
+          "Droit_Justice": [
+            "der Zeugenstand",
+            "die Zeugenvernehmung",
+            "der Zeugs, n, n",
+            "als Zeuge vorgeladen werden",
+            "die Zeugenaussage, n",
+            "einen Zeugen vernehmen, a, Q,i",
+            "ein falsch aussagender Zeuge",
+            "die Zeugenbestechung,",
+            "die Zeugenbeeinflussung",
+            "ein falsch aussagender Zeuge",
+            "die Zeugenbestechung,",
+            "die Zeugenbeeinflussung"
+          ],
+          "Homme_Santé_Médecine": [
+            "die Zeugung, en ; zeugen"
+          ],
+          "Lettres": [
+            "das Zeugnis, se",
+            "der Zeuge, n, n"
+          ],
+          "Religion": [
+            "die Zeugen mpi Jehovas"
+          ],
+          "Transport_Tourisme": [
+            "die Zeugenaussage, n",
+            "die Suchmeldung nach Zeugen"
+          ]
+        },
+        "zeug": {
+          "Agriculture": [
+            "die Milcherzeugung",
+            "der Weinerzeuger, -"
+          ],
+          "Alimentation": [
+            "die Milcherzeugnisse np/",
+            "die Erzeugerabfüllung, en"
+          ],
+          "Arts": [
+            "das Steinzeug",
+            "das Schlagzeug, e",
+            "der Schlagzeuger, -"
+          ],
+          "Droit_Justice": [
+            "die freie Überzeugung des Richters",
+            "der Leumundszeuge, n, n",
+            "der Augenzeuge, n,n",
+            "der Hauptzeuge, der Kronzeuge",
+            "der Belastungszeuge",
+            "der Entlastungszeuge",
+            "Fahrzeuges",
+            "die Flugzeugentführung, en",
+            "der Flugzeugentführer, -,",
+            "ein Gefälligkeitszeugnis aus-stellen",
+            "ein Gefälligkeitszeugnis aus-stellen",
+            "der Kronzeuge, n, n"
+          ],
+          "Homme_Santé_Médecine": [
+            "die Zeugung, en ; zeugen",
+            "die Jungfernzeugung/"
+          ],
+          "Lettres": [
+            "überzeugen ; überzeugend",
+            "der Augenzeugenbericht"
+          ],
+          "Monde": [
+            "die Erdölerzeugnisse npi",
+            "die Werkzeugmaschine, n"
+          ],
+          "Sciences_humaines": [
+            "die Überzeugung, en",
+            "das Abschlusszeugnis der Sekun-",
+            "das Abitur/das Reifezeugnis",
+            "zeugnis",
+            "das Originalzeugnis, se",
+            "das Reifezeugnis",
+            "das Originalzeugnis, se",
+            "das Reifezeugnis",
+            "das Prüfungszeugnis, se",
+            "jds Trauzeuge sein",
+            "das Spielzeug, e/-sachen",
+            "das Lehrspielzeug ; lehrreich",
+            "das Modellflugzeug, e",
+            "mit (dem Brustton der) Überzeugung",
+            "nicht überzeugend sprechen",
+            "die Überzeugung, en",
+            "jdn überzeugen (von +D ; durch+ A",
+            "überzeugend ; überzeugt"
+          ],
+          "Sciences_politiques": [
+            "die Kraftfahrzeugsteuer (D)",
+            "das Führungszeugnis",
+            "das Schanzzeug",
+            "das gepanzerte Fahrzeug, e",
+            "das Milttärflugzeug, e",
+            "das Erdkampfflugzeug",
+            "das Verbindungsflugzeug",
+            "das Transportflugzeug",
+            "das Großraumflugzeug",
+            "das Tankflugzeug",
+            "das Zieldarstellungsflugzeug",
+            "das Bombenflugzeug, der Bomber, -",
+            "ein Flugzeug ab-schießen, o, 0",
+            "der Flugzeugträger, -",
+            "das Dekontaminationskraftiahr-zeug,"
+          ],
+          "Sport": [
+            "das Flugzeug, e",
+            "der Flugzeugführerschein, e",
+            "das Segelflugzeug, e",
+            "das Schleppflugzeug",
+            "das Ultraleichtflugzeug, &"
+          ],
+          "Transport_Tourisme": [
+            "die Kraftfahrzeugsteuer",
+            "das Kraftfahrzeug, e (Kfz)",
+            "das Nutzfahrzeug, e",
+            "ein fahrtüchtiges Fahrzeug",
+            "die Werkzeugtasche, n",
+            "Das von rechts kommende Fahrzeug",
+            "Verbot für Fahrzeuge aller Art",
+            "mit zu geringem Fahrzeugabstand",
+            "der (Unfall)zeuge, n",
+            "von einem Fahrzeug umgefahren",
+            "das Wasseriahrzeug, e, das Boot, &",
+            "das Flugzeug, &",
+            "das Segelflugzeug",
+            "das Wasserflugzeug",
+            "das Propellerflugzeug",
+            "das Propellerturbinenflugzeug,",
+            "Turbo-Prop-Flugzeug",
+            "das Düsenflugzeug, der Jet, s",
+            "das Überschalfflugzeug",
+            "Mittelstreckenflugzeug",
+            "Langstreckenflugzeug",
+            "das (Flugzeug)steuerwerk",
+            "das Verkehrsflugzeug",
+            "das Frachiflugzeug, e",
+            "einen Platz (im Flugzeug) buchen",
+            "das Ursprungszeugnis, se"
+          ],
+          "Urbanisme": [
+            "das Bett(zeug), die Bettwäsche",
+            "die Spielzeugtruhe, n"
+          ],
+          "Vetement": [
+            "das Ölzeug"
+          ],
+          "Vie_économique": [
+            "die Werkzeugmaschine",
+            "das Produkt, e, das Erzeugnis, se",
+            "der Erzeuger, - (secteur secondaire)",
+            "die gewerblichen Erzeugnisse npl",
+            "die Flugzeugindustrie",
+            "die Werkzeugmaschinenindustrie",
+            "die Kraftfahrzeugversicherung"
+          ],
+          "Zoologie_Botanique": [
+            "die Mundwerkzeuge np!"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Lettres"
+      ],
+      "undetected_cause": [
+        "lemmatisation",
+        "in_compounds_in_Niemann",
+        "derived_form",
+        "OCR"
+      ],
+      "themes_gold_lemma": [
+        "Lettres"
+      ]
     },
     "25": {
       "token_index": 25,
       "is_detected": false,
       "spacy_pos_is_correct": null,
       "spacy_tag_is_correct": null,
-      "spacy_lemma_is_correct": null,
+      "spacy_lemma_is_correct": false,
       "gold_pos": null,
-      "gold_lemma": null,
+      "gold_lemma": "vorgeben",
       "is_lexically_relevant": null,
       "is_context_shifted": null,
       "contributes_to_a_textual_image": null,
@@ -5208,7 +5444,20 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": "Hard to tell",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "vorgebe": {},
+        "Vorgeb": {
+          "Monde": [
+            "das Vorgebirge, der Ausläufer, -"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ],
+      "themes_gold_lemma": []
     },
     "110": {
       "token_index": 110,
@@ -5229,7 +5478,29 @@
       "detection_comment": "",
       "lexical_relevance_comment": null,
       "metaphor_comment": null,
-      "syntactic_group_quality": null
+      "syntactic_group_quality": null,
+      "ocr_check": {
+        "Gesicht": {
+          "Homme_Santé_Médecine": [
+            "Gesicht",
+            "das Gesicht, er",
+            "die Gesichtszüge mpl",
+            "der Gesichtssinn",
+            "die Gesichtscreme, s",
+            "das Gesichtswasser, -",
+            "Gesicht",
+            "die Mund-Kiefer-Gesichtsorthopädie |",
+            "die Mund-Kiefer-Gesichtsorthopädie"
+          ],
+          "Lettres": [
+            "das Gesicht, er",
+            "das Gesicht, er"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ]
     },
     "111": {
       "token_index": 111,
@@ -5247,9 +5518,26 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": "Hard to tell. It is \"Gesicht\" that is metaphorical related to \"lachen\". But \"lachen\" could be metaphorical / figurative in regard to the broader context!",
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "In the theme “Sciences_humaines”, we should maybe look at the sub-themes to affine our theme selection for the next attempt.",
       "lexical_relevance_comment": null,
-      "metaphor_comment": "Not so sure. But figurative. Maybe the person will not actually laugh. But as if. The idea of laughing. Hence the idiom."
+      "metaphor_comment": "Not so sure. But figurative. Maybe the person will not actually laugh. But as if. The idea of laughing. Hence the idiom.",
+      "ocr_check": {
+        "lachen": {
+          "Sciences_humaines": [
+            "lachen (über+A)",
+            "auf-lachen",
+            "sich krank lachen",
+            "gezwungen lachen"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Sciences_humaines"
+      ],
+      "undetected_cause": [
+        "extraction_process_from_OCR",
+        "themes_selection"
+      ]
     },
     "115": {
       "token_index": 115,
@@ -5269,7 +5557,17 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Abscheu": {
+          "Sciences_humaines": [
+            "der Abscheu (vor+D)"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ]
     },
     "153": {
       "token_index": 153,
@@ -5287,9 +5585,48 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "The currently correct lemma would be “Haushälter” and not “Haushalter”. Either the language has changed or it is an error in the source text. Also only present for the feminin word…",
       "lexical_relevance_comment": "Concrete.",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Haushalter": {},
+        "Haush": {
+          "Sciences_humaines": [
+            "die Haushälterin, nen,",
+            "die Haushaltshilfe, n",
+            "der Haushalt, e",
+            "der Haushaltungsvorstand, \"e"
+          ],
+          "Sciences_politiques": [
+            "der Haushaltsplan, \"e",
+            "das Haushaltsgesetz",
+            "das Haushaltsjahr",
+            "den Haushalt aus-gleichen, i, i",
+            "der Haushaltsdefizit, e",
+            "die Haushaltsdebatte, n",
+            "den Haushalt verabschieden",
+            "die Verteilung der Haushaltsmittel",
+            "die Haushaltskürzung, en",
+            "die Haushaltskontrolle, n"
+          ],
+          "Urbanisme": [
+            "das Haushaltsgerät, e"
+          ],
+          "Vie_économique": [
+            "der private Haushalt, e",
+            "die Haushaltsausstellung"
+          ]
+        },
+        "Haushälter": {
+          "Sciences_humaines": [
+            "die Haushälterin, nen,"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Sciences_humaines"
+      ],
+      "undetected_cause": []
     },
     "160": {
       "token_index": 160,
@@ -5307,10 +5644,36 @@
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": "\"blindlings anvertrauen\", \"confier aveuglément\". Part of an idiom.",
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Derived from “blind”",
       "lexical_relevance_comment": null,
       "metaphor_comment": null,
-      "syntactic_group_quality": null
+      "syntactic_group_quality": null,
+      "ocr_check": {
+        "blindlings": {},
+        "blind": {
+          "Homme_Santé_Médecine": [
+            "erblinden* ; blind",
+            "blindgeboren",
+            "die Farbenblindheit",
+            "farbenblind sein",
+            "die Erblindung, die Blindheit ; blind"
+          ],
+          "Sciences_politiques": [
+            "der blinde Gehorsam,"
+          ],
+          "Transport_Tourisme": [
+            "n einen blinden Passagier an Bord"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Homme_Santé_Médecine"
+      ],
+      "undetected_cause": [
+        "not_in_Niemann",
+        "derived_form",
+        "themes_selection"
+      ]
     },
     "169": {
       "token_index": 169,
@@ -5330,7 +5693,16 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "einflößen": {},
+        "flößen": {},
+        "flöBen": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "211": {
       "token_index": 211,
@@ -5350,7 +5722,16 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": "Hard to tell",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "pöbelhaft": {},
+        "pöbel": {},
+        "Pöbel": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "231": {
       "token_index": 231,
@@ -5368,9 +5749,98 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "No entry in lexical ressources for \"Geldsammeln\".",
+      "detection_comment": "No entry in lexical ressources for \"Geldsammeln\". See “Geld”.",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "themes_gold_lemma": [],
+      "ocr_check": {
+        "Geldsammel": {},
+        "Geld sammeln": {},
+        "sammeln": {
+          "Droit_Justice": [
+            "Beweismaterial sammeln",
+            "versammeln"
+          ],
+          "Information_Communication": [
+            "‚Altpapier sammeln"
+          ],
+          "Religion": [
+            "Opfergaben sammeln"
+          ],
+          "Sport": [
+            "die Bälle auf-sammeln"
+          ],
+          "Zoologie_Botanique": [
+            "Nektar m und Pollen m sammeln",
+            "Pilze sammeln"
+          ]
+        },
+        "Geld": {
+          "Arts": [
+            "der Geldgeber, -"
+          ],
+          "Droit_Justice": [
+            "die Geldstrafe, n",
+            "der Geldschrankknacker, - (am)",
+            "Gelder npl veruntreuen",
+            "die Geldwäsche",
+            "Geldern",
+            "Geldern",
+            "die Geldfälschung",
+            "die Geldfälschung"
+          ],
+          "Sciences_exactes": [
+            "sein Geld zählen",
+            "genug Geld haben",
+            "Zeit ist Geld. f"
+          ],
+          "Sciences_humaines": [
+            "die Geldheirat",
+            "um Geld spielen"
+          ],
+          "Vetement": [
+            "die Geldtasche, der Geldbeutel, -"
+          ],
+          "Vie_économique": [
+            "die Geldschuld, en",
+            "eine Geldentschädigung fordern",
+            "die Geldschuld, en",
+            "die Geldeinlage, n",
+            "Geld bei der Bank deponieren/",
+            "Geld von seinem Konto",
+            "Geld am Schalter ab-heben, o, o",
+            "der Geld(ausgabe)automat, en, en",
+            "Geld durch eine Bank",
+            "Geld aufnehmen, a, o, | (von)",
+            "der Geldkurs, der Ankaufskurs",
+            "das Geldwesen",
+            "das Geld",
+            "die Gelder pl",
+            "die Münze, n, das Geldstück, e",
+            "der Geldumtausch,",
+            "der (Geld)wechsel",
+            "die Geldwäsche (fam)",
+            "die Geldmenge, n",
+            "der Geldüberfluss",
+            "der Geldwertschwund",
+            "die Geldwertminderung",
+            "die Geldverschwendung",
+            "sein Geld verschwenden",
+            "(Geld) aus-legen",
+            "Geld bekommen, a, (von+D)",
+            "Geld zurück-legen, Geld auf-sparen",
+            "sein Geld gewinnbringend an-Iegen"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Vie_économique"
+      ],
+      "undetected_cause": [
+        "not_in_lexical_resources",
+        "compound",
+        "themes_selection"
+      ]
     },
     "233": {
       "token_index": 233,
@@ -5388,9 +5858,24 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Surprising that it is not in the Niemann",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "brutal": {},
+        "brut": {
+          "Agriculture": [
+            "die Kükenbrutmaschine, n"
+          ],
+          "Zoologie_Botanique": [
+            "die Fischbrut, en"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "234": {
       "token_index": 234,
@@ -5408,9 +5893,24 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Derived from “üppig”. Itself in a line with several adjectives in the Niemann. Would have been detected because in the selected themes",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Üppigkeit": {},
+        "üppig": {
+          "Zoologie_Botanique": [
+            "üppig ; arm"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Zoologie_Botanique"
+      ],
+      "undetected_cause": [
+        "derived_form",
+        "extraction_process_from_OCR"
+      ]
     },
     "239": {
       "token_index": 239,
@@ -5428,9 +5928,42 @@
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": "Spacial lexical metaphor",
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Only in compounds and expressions. See also the verb “erweitern” from which it is derived.",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Erweiterung": {
+          "Information_Communication": [
+            "die Erweiterungskarte, n"
+          ],
+          "Lettres": [
+            "die Erweiterungsprobe"
+          ],
+          "Sciences_politiques": [
+            "die Erweiterung der EG"
+          ]
+        },
+        "erweiter": {
+          "Information_Communication": [
+            "die vermehrte/erweiterte Auflage"
+          ],
+          "Lettres": [
+            "der erweiterte Reim",
+            "die Linkserweiterung, en",
+            "die Rechtserweiterung, en"
+          ],
+          "Vetement": [
+            "erweitern/weiter machen (um 2 cm)"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Vetement"
+      ],
+      "undetected_cause": [
+        "only_in_expressions_in_Niemann",
+        "in_compounds_in_Niemann"
+      ]
     },
     "252": {
       "token_index": 252,
@@ -5448,9 +5981,32 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "Could have worked better with the lemma \"dürftig\". Although \"Dürftig\" does exist in the DWDS (but not in the wiktionary).",
+      "detection_comment": "“dürftig” also not in the Niemann.",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "themes_gold_lemma": [],
+      "ocr_check": {
+        "Dürftig": {},
+        "dürftig": {
+          "Alimentation": [
+            "(Speiselokale für Bedürftige) (F)"
+          ],
+          "Homme_Santé_Médecine": [
+            "behandlungsbedürftig sein"
+          ],
+          "Sciences_humaines": [
+            "arm, hilfsbedürftig"
+          ],
+          "Urbanisme": [
+            "reparaturbedürftig"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "lemmatisation",
+        "not_in_Niemann"
+      ]
     },
     "280": {
       "token_index": 280,
@@ -5468,9 +6024,73 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": "Hard to tell",
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "Really weird.",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "fremd": {
+          "Lettres": [
+            "der Verfremdungseffekt, e"
+          ],
+          "Sciences_humaines": [
+            "die Entfremdung",
+            "die Entfremdung"
+          ],
+          "Transport_Tourisme": [
+            "unter fremder Flagge fahre‘n, u, a, ä"
+          ],
+          "Vie_économique": [
+            "fremde Arbeitskräfte aus-spannen/",
+            "der Wechsel an fremde Order |"
+          ]
+        },
+        "Fremd": {
+          "Histoire": [
+            "der Fremdarbeiter, -"
+          ],
+          "Homme_Santé_Médecine": [
+            "der Fremdkörper, -"
+          ],
+          "Lettres": [
+            "das Fremdwort",
+            "die Fremdsprache, n",
+            "das Fremdsprachenstudium",
+            "die angewandten Fremdsprachen",
+            "Deutsch als Fremdsprache",
+            "die Übersetzung aus der Fremd-",
+            "die Übersetzung in die Fremd-",
+            "das Fremdwort, \"er"
+          ],
+          "Sciences_humaines": [
+            "die Fremdsprache, n",
+            "der Fremde (adj)"
+          ],
+          "Sciences_politiques": [
+            "die Fremdherrschaft",
+            "die Fremdenlegion",
+            "in die Fremdenlegion gehen, i, a",
+            "der Fremdenlegionär, e"
+          ],
+          "Transport_Tourisme": [
+            "der Fremdenverkehr, der Tourismus",
+            "der Fremdenführer, -",
+            "das Fremdenzimmer",
+            "das Fremdenheim, e",
+            "das Fremdenbuch, \"er"
+          ],
+          "Vie_économique": [
+            "das (Fremd)währungskonto",
+            "das Fremdkapital"
+          ],
+          "Zoologie_Botanique": [
+            "die Fremdbestäubung"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "377": {
       "token_index": 377,
@@ -5488,9 +6108,18 @@
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": "Most likely lexical metaphor, in the compound. We can still see the idea of a stream in the word.",
       "status": "added",
-      "detection_comment": "Maybe \"überflüßig\" would have been found in the Niemann?",
+      "detection_comment": "Surprising",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "überflüssig": {},
+        "überflüß": {},
+        "flüß": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
     },
     "342": {
       "token_index": 342,
@@ -5508,9 +6137,77 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "“-” for a separable verb + strong verb",
       "lexical_relevance_comment": null,
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "abschneiden": {},
+        "schneiden": {
+          "Agriculture": [
+            "Pfropfreiser schneiden, i, i",
+            "zurück-schneiden, i, i",
+            "das Zurückschneiden, das Lichten",
+            "Wein verschneiden, I, i",
+            "einen Baum stutzen, beschneiden, I, i",
+            "Bretter zu-schneiden, i, i"
+          ],
+          "Alimentation": [
+            "zu-schneiden, |, i",
+            "die Flossen beschneiden, I, |",
+            "in Stücke schneiden, i, i",
+            "in Viertel schneiden, vierteln",
+            "in Scheiben schneiden,",
+            "in dünne Scheiben schneiden",
+            "ein-schneiden, |, i, ein-ritzen",
+            "durch-schneiden, i, i",
+            "an-schneiden, I, i"
+          ],
+          "Homme_Santé_Médecine": [
+            "sich die Haare schneiden",
+            "sich in den Finger schneiden, I, i",
+            "jdm die Kehle durch-schneiden, i, i"
+          ],
+          "Information_Communication": [
+            "mit-schneiden, I, |",
+            "beschneiden, i,"
+          ],
+          "Lettres": [
+            "ein Thema an-schneiden, i, i",
+            "(durch-/entzwei-)schneiden, ii, i"
+          ],
+          "Sciences_politiques": [
+            "jdm den Rückzug ab-schneiden, i, i"
+          ],
+          "Sport": [
+            "einen Ball an-schneiden, i, i"
+          ],
+          "Transport_Tourisme": [
+            "eine Kurve schneiden, i, i"
+          ],
+          "Urbanisme": [
+            "ein Innengewinde schneiden, i, i",
+            "ab-schneiden, i, i"
+          ],
+          "Vetement": [
+            "der Schnitt, e; schneiden, i, i"
+          ]
+        },
+        "ab-schneiden": {
+          "Sciences_politiques": [
+            "jdm den Rückzug ab-schneiden, i, i"
+          ],
+          "Urbanisme": [
+            "ab-schneiden, i, i"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Urbanisme"
+      ],
+      "undetected_cause": [
+        "extraction_process_from_OCR",
+        "themes_selection"
+      ]
     },
     "117": {
       "token_index": 117,
@@ -5530,7 +6227,325 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": null,
+      "metaphor_comment": null,
+      "ocr_check": {
+        "zurückbeben": {},
+        "zurück-beben": {},
+        "beben": {
+          "Monde": [
+            "die Erdbebenwelle, n",
+            "das Seebeben",
+            "das Erdbeben, -",
+            "die Erdbebenkunde/die Seismologie",
+            "Erdbeben-, seismisch"
+          ]
+        },
+        "Beben": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ]
+    },
+    "75": {
+      "token_index": 75,
+      "is_detected": false,
+      "spacy_pos_is_correct": null,
+      "spacy_tag_is_correct": null,
+      "spacy_lemma_is_correct": null,
+      "gold_pos": null,
+      "gold_lemma": null,
+      "is_lexically_relevant": null,
+      "is_context_shifted": null,
+      "contributes_to_a_textual_image": null,
+      "textual_image_comment": null,
+      "is_metaphorical": null,
+      "is_lexical_metaphor": null,
+      "lexical_metaphor_comment": null,
+      "status": "added",
+      "ocr_check": {
+        "Geheimnis": {
+          "Sciences_humaines": [
+            "das Geheimnis kennen, a, a"
+          ]
+        },
+        "Geheim": {
+          "Histoire": [
+            "die Geheime Staatspolizei (Gestapo)"
+          ],
+          "Religion": [
+            "die Geheimwissenschaft, en"
+          ],
+          "Sciences_humaines": [
+            "das Geheimnis kennen, a, a"
+          ],
+          "Sciences_politiques": [
+            "der militärische Geheimdienst"
+          ],
+          "Vie_économique": [
+            "die Geheimnummer, n /-zahl, en"
+          ]
+        },
+        "geheim": {
+          "Droit_Justice": [
+            "Briefgeheimnisses"
+          ],
+          "Lettres": [
+            "geheim halten, ie, a, ä"
+          ],
+          "Sciences_politiques": [
+            "geheime Abstimmung",
+            "die geheime Wahl"
+          ],
+          "Vie_économique": [
+            "der verborgene Mangel, der geheime",
+            "das Bankgeheimnis, se"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "detection_comment": "Derived and also in compounds. Otherwise maybe in other themes also. TODO AFFINE SELECTION.",
+      "lexical_relevance_comment": null,
+      "metaphor_comment": null
+    },
+    "171": {
+      "token_index": 171,
+      "is_detected": false,
+      "spacy_pos_is_correct": null,
+      "spacy_tag_is_correct": null,
+      "spacy_lemma_is_correct": null,
+      "gold_pos": null,
+      "gold_lemma": null,
+      "is_lexically_relevant": null,
+      "is_context_shifted": null,
+      "contributes_to_a_textual_image": null,
+      "textual_image_comment": null,
+      "is_metaphorical": null,
+      "is_lexical_metaphor": null,
+      "lexical_metaphor_comment": null,
+      "status": "added",
+      "ocr_check": {
+        "rühmen": {}
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ],
+      "detection_comment": "",
+      "lexical_relevance_comment": null,
+      "metaphor_comment": null
+    },
+    "191": {
+      "token_index": 191,
+      "is_detected": false,
+      "spacy_pos_is_correct": null,
+      "spacy_tag_is_correct": null,
+      "spacy_lemma_is_correct": null,
+      "gold_pos": null,
+      "gold_lemma": null,
+      "is_lexically_relevant": null,
+      "is_context_shifted": null,
+      "contributes_to_a_textual_image": null,
+      "textual_image_comment": null,
+      "is_metaphorical": null,
+      "is_lexical_metaphor": null,
+      "lexical_metaphor_comment": null,
+      "status": "added",
+      "ocr_check": {
+        "rastlos": {},
+        "rast": {
+          "Arts": [
+            "der Kontrast, e"
+          ],
+          "Homme_Santé_Médecine": [
+            "die Leprastation, en",
+            "die Päderastie",
+            "dar Päderast, en, en"
+          ],
+          "Information_Communication": [
+            "der Bildkontrast"
+          ],
+          "Lettres": [
+            "der Kontrast, e"
+          ],
+          "Transport_Tourisme": [
+            "den Hebel einrasten lassen",
+            "die (Sozius)fußraste, n"
+          ],
+          "Urbanisme": [
+            "der Zebrastreifen, -"
+          ]
+        },
+        "Rast": {
+          "Alimentation": [
+            "die Raststätte, n, der Rasthof, \"e"
+          ],
+          "Information_Communication": [
+            "das Raster, -"
+          ],
+          "Sciences_humaines": [
+            "das Raster, -"
+          ],
+          "Transport_Tourisme": [
+            "die Raststütze, n",
+            "der Rastplatz, \"e",
+            "die Raststätte, n"
+          ]
+        }
+      },
+      "gold_extracted_themes": [],
+      "undetected_cause": [
+        "not_in_Niemann"
+      ],
+      "detection_comment": "Derived from “Rast”, which also can’t be found standing by itself in the Niemann. TODO AFFINE: this is where more options for the selection of the causes would be usefull. Like a decision tree.",
+      "lexical_relevance_comment": null,
+      "metaphor_comment": null
+    },
+    "281": {
+      "token_index": 281,
+      "is_detected": false,
+      "spacy_pos_is_correct": null,
+      "spacy_tag_is_correct": null,
+      "spacy_lemma_is_correct": null,
+      "gold_pos": null,
+      "gold_lemma": null,
+      "is_lexically_relevant": null,
+      "is_context_shifted": null,
+      "contributes_to_a_textual_image": null,
+      "textual_image_comment": null,
+      "is_metaphorical": null,
+      "is_lexical_metaphor": null,
+      "lexical_metaphor_comment": null,
+      "status": "added",
+      "ocr_check": {
+        "Geld": {
+          "Arts": [
+            "der Geldgeber, -"
+          ],
+          "Droit_Justice": [
+            "die Geldstrafe, n",
+            "der Geldschrankknacker, - (am)",
+            "Gelder npl veruntreuen",
+            "die Geldwäsche",
+            "Geldern",
+            "Geldern",
+            "die Geldfälschung",
+            "die Geldfälschung"
+          ],
+          "Sciences_exactes": [
+            "sein Geld zählen",
+            "genug Geld haben",
+            "Zeit ist Geld. f"
+          ],
+          "Sciences_humaines": [
+            "die Geldheirat",
+            "um Geld spielen"
+          ],
+          "Vetement": [
+            "die Geldtasche, der Geldbeutel, -"
+          ],
+          "Vie_économique": [
+            "die Geldschuld, en",
+            "eine Geldentschädigung fordern",
+            "die Geldschuld, en",
+            "die Geldeinlage, n",
+            "Geld bei der Bank deponieren/",
+            "Geld von seinem Konto",
+            "Geld am Schalter ab-heben, o, o",
+            "der Geld(ausgabe)automat, en, en",
+            "Geld durch eine Bank",
+            "Geld aufnehmen, a, o, | (von)",
+            "der Geldkurs, der Ankaufskurs",
+            "das Geldwesen",
+            "das Geld",
+            "die Gelder pl",
+            "die Münze, n, das Geldstück, e",
+            "der Geldumtausch,",
+            "der (Geld)wechsel",
+            "die Geldwäsche (fam)",
+            "die Geldmenge, n",
+            "der Geldüberfluss",
+            "der Geldwertschwund",
+            "die Geldwertminderung",
+            "die Geldverschwendung",
+            "sein Geld verschwenden",
+            "(Geld) aus-legen",
+            "Geld bekommen, a, (von+D)",
+            "Geld zurück-legen, Geld auf-sparen",
+            "sein Geld gewinnbringend an-Iegen"
+          ]
+        }
+      },
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "detection_comment": "",
+      "lexical_relevance_comment": null,
+      "metaphor_comment": null
+    },
+    "333": {
+      "token_index": 333,
+      "is_detected": false,
+      "spacy_pos_is_correct": null,
+      "spacy_tag_is_correct": null,
+      "spacy_lemma_is_correct": null,
+      "gold_pos": null,
+      "gold_lemma": null,
+      "is_lexically_relevant": true,
+      "is_context_shifted": null,
+      "contributes_to_a_textual_image": null,
+      "textual_image_comment": null,
+      "is_metaphorical": null,
+      "is_lexical_metaphor": true,
+      "lexical_metaphor_comment": "Most likely, see the gold themes indicating it is polysemical",
+      "status": "added",
+      "ocr_check": {
+        "scharf": {
+          "Alimentation": [
+            "(scharf gewürztes Bratwürstchen)",
+            "scharf würzen",
+            "edelsüß ; scharf"
+          ],
+          "Arts": [
+            "scharf ; unscharf"
+          ],
+          "Homme_Santé_Médecine": [
+            "jdn scharf an-sehen, a, e, ie"
+          ],
+          "Information_Communication": [
+            "scharf ; unscharf"
+          ],
+          "Lettres": [
+            "prägnant, scharf"
+          ],
+          "Sciences_politiques": [
+            "der Zünder, - ; scharf machen"
+          ],
+          "Transport_Tourisme": [
+            "eine scharfe Kurve",
+            "eine Straße mit scharfen Windungen",
+            "scharf bremsen"
+          ],
+          "Vie_économique": [
+            "ein scharf kalkulierter Preis"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Alimentation",
+        "Arts",
+        "Information_Communication",
+        "Lettres"
+      ],
+      "undetected_cause": [
+        "extraction_process_from_OCR"
+      ],
+      "detection_comment": "Clearly a polysemical word. Would be in even more themes if we consider the expressions in which it can be found in the Niemann.",
+      "lexical_relevance_comment": "Hard to tell",
       "metaphor_comment": null
     }
-  }
+  },
+  "no_more_token_to_add": true
 }

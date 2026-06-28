@@ -4,7 +4,7 @@
   "structure_path": "Einleitung",
   "text": "Der theoretische Gebrauch der Vernunft beschäftigte sich mit Gegenständen des bloßen Erkenntnisvermögens, und eine Kritik derselben, in Absicht auf diesen Gebrauch, betraf eigentlich nur das reine Erkenntnisvermögen, weil dieses Verdacht erregte, der sich auch hernach bestätigte, daß es sich leichtlich über seine Grenzen, unter unerreichbare Gegenstände, oder gar einander widerstreitende Begriffe, verlöre. Mit dem praktischen Gebrauche der Vernunft verhält es sich schon anders. In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen. Denn da kann wenigstens die Vernunft zur Willensbestimmung zulangen, und hat so fern immer objektive Realität, als es nur auf das Wollen ankommt. Hier ist also die erste Frage: ob reine Vernunft zur Bestimmung des Willens für sich allein zulange, oder ob sie nur als empirisch- bedingte ein Bestimmungsgrund derselben sein könne. Nun tritt hier ein durch die Kritik der reinen Vernunft gerechtfertigter, obzwar keiner empirischen Darstellung fähiger Begriff der Kausalität, nämlich der der Freiheit, ein, und wenn wir anjetzt Gründe ausfindig machen können, zu beweisen, daß diese Eigenschaft dem menschlichen Willen (und so auch dem Willen aller vernünftigen Wesen) in der Tat zukomme, so wird dadurch nicht allein dargetan, daß reine Vernunft praktisch sein könne, sondern daß sie allein, und nicht die empirisch-beschränkte, unbedingterweise praktisch sei. Folglich werden wir nicht eine Kritik der reinen praktischen, sondern nur der praktischen Vernunft überhaupt zu bearbeiten haben. Denn reine Vernunft, wenn allererst dargetan worden, daß es eine solche gebe, bedarf keiner Kritik. Sie ist es, welche selbst die Richtschnur zur Kritik alles ihres Gebrauchs enthält. Die Kritik der praktischen Vernunft überhaupt hat also die Obliegenheit, die empirisch bedingte Vernunft von der Anmaßung abzuhalten, ausschließungsweise den Bestimmungsgrund des Willens allein abgeben zu wollen. Der Gebrauch der reinen Vernunft, wenn, daß es eine solche gebe, ausgemacht ist, ist allein immanent; der empirisch-bedingte, der sich die Alleinherrschaft anmaßt, ist dagegen transzendent, und äußert sich in Zumutungen und Geboten, die ganz über ihr Gebiet hinausgehen, welches gerade das umgekehrte Verhältnis von dem ist, was von der reinen Vernunft im spekulativen Gebrauche gesagt werden konnte.",
   "wikisource_translation": "La raison, dans son emploi théorique, s’occupait uniquement des objets de la faculté de connaître, et la critique de cet emploi de la raison ne portait proprement que sur la faculté de connaître, considérée dans ses éléments purs, car elle faisait d’abord soupçonner ce qu’elle confirmait ensuite, que cette faculté transgresse aisément ses limites, pour se perdre au milieu d’objets insaisissables et de concepts contradictoires. Il en est tout autrement de l’emploi pratique de la raison. Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité. Car la raison peut du moins suffire à déterminer la volonté, et elle a toujours de la réalité objective, en tant qu’elle se rapporte uniquement à la volonté. La première question ici est donc de savoir si la raison pure suffit par elle seule à déterminer la volonté, ou si elle n’en peut être un principe déterminant que sous des conditions empiriques. Or ici se présente un concept de causalité déjà admis et défendu par la critique de la raison pure, quoiqu’il ne soit susceptible d’aucune exhibition empirique, à savoir, le concept de la liberté, et, si nous pouvons maintenant trouver un moyen de prouver que cette propriété appartient en effet à la volonté humaine (et en même temps à celle de tous les êtres raisonnables), nous aurons démontré par là non-seulement que la raison pure, ou indépendante de toute condition empirique, peut être pratique, mais qu’elle seule est pratique dans un sens absolu. Par conséquent, nous n’avons pas à faire une critique de la raison pure pratique, mais seulement de la raison pratique en général. Car la raison pure, quand une fois son existence est établie, n’a pas besoin de critique. Elle trouve en elle-même la règle de la critique de tout son usage. La critique de la raison pratique en général a donc l’obligation d’ôter à la raison, en tant qu’elle est soumise à des conditions empiriques, la prétention de vouloir fournir exclusivement à la volonté son principe de détermination. L’usage de la raison pure, quand son existence est démontrée, est immanent ; celui qui est soumis à des conditions empiriques, et qui s’arroge la souveraineté, est au contraire transcendant, et il se révèle par des prétentions et des ordres qui sortent tout à fait de sa sphère, ce qui est justement l’inverse de ce qu’on pourrait dire de la raison pure dans son usage spéculatif.",
-  "translation_is_correctly_aligned": "true",
+  "translation_is_correctly_aligned": true,
   "n_tokens": 425,
   "n_detected_tokens": 6,
   "page_number_of_paper_translation": null,
@@ -469,7 +469,11 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "lemma_google_translation": "soupçon"
+      "lemma_google_translation": "soupçon",
+      "de_sentence_eval": null,
+      "undetected_cause": null,
+      "token_wikisource_translation": "soupçonner",
+      "token_translation_comment": null
     },
     "34": {
       "token_index": 34,
@@ -633,7 +637,8 @@
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
       "token_wikisource_translation": "limites",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "de_sentence_eval": null
     },
     "51": {
       "token_index": 51,
@@ -970,7 +975,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "VERB",
@@ -997,7 +1002,7 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "die Vernunft",
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "NOUN",
@@ -1024,7 +1029,7 @@
       "syntactic_group_description": "prepositional group + verb",
       "syntactic_group": "mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, beschäftigt",
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "NOUN",
@@ -1051,7 +1056,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "NOUN",
@@ -1078,7 +1083,7 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen",
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "NOUN",
@@ -1105,7 +1110,7 @@
       "syntactic_group_description": null,
       "syntactic_group": "den Vorstellungen entsprechende Gegenstände entweder",
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "NOUN",
@@ -1132,7 +1137,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "ADJ",
@@ -1159,7 +1164,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "NOUN",
@@ -1186,7 +1191,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "VERB",
@@ -1213,7 +1218,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "ADV",
@@ -1240,7 +1245,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "ADV",
@@ -1267,7 +1272,7 @@
       "syntactic_group_description": "prepositional group",
       "syntactic_group": "zu Bewirkung",
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "NOUN",
@@ -1294,7 +1299,7 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "das physische Vermögen",
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "ADJ",
@@ -1321,7 +1326,7 @@
       "syntactic_group_description": "noun phrase subject",
       "syntactic_group": "das physische Vermögen",
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "NOUN",
@@ -1348,7 +1353,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "ADV",
@@ -1375,7 +1380,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "ADV",
@@ -1402,7 +1407,7 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i.",
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
       "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
       "sentence_start_char": 483,
       "spacy_pos": "PROPN",
@@ -1429,9 +1434,9 @@
       "syntactic_group_description": "accusativ group + verb lemma",
       "syntactic_group": "seine Kausalität + bestimmen",
       "syntactic_group_translation": null,
-      "sentence": "seine Kausalität zu bestimmen.",
-      "sentence_translation": "Car la raison peut du moins suffire à déterminer la volonté, et elle a toujours de la réalité objective, en tant qu’elle se rapporte uniquement à la volonté.",
-      "sentence_start_char": 768,
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
+      "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
+      "sentence_start_char": 483,
       "spacy_pos": "NOUN",
       "spacy_tag": "NN",
       "spacy_lemma": "Kausalität",
@@ -1456,9 +1461,9 @@
       "syntactic_group_description": null,
       "syntactic_group": null,
       "syntactic_group_translation": null,
-      "sentence": "seine Kausalität zu bestimmen.",
-      "sentence_translation": "Car la raison peut du moins suffire à déterminer la volonté, et elle a toujours de la réalité objective, en tant qu’elle se rapporte uniquement à la volonté.",
-      "sentence_start_char": 768,
+      "sentence": "In diesem beschäftigt sich die Vernunft mit Bestimmungsgründen des Willens, welcher ein Vermögen ist, den Vorstellungen entsprechende Gegenstände entweder hervorzubringen, oder doch sich selbst zu Bewirkung derselben (das physische Vermögen mag nun hinreichend sein, oder nicht), d.i. seine Kausalität zu bestimmen.",
+      "sentence_translation": "Dans cet emploi, la raison s’occupe des principes déterminants de la volonté, laquelle est la faculté, ou bien de produire des objets conformes à nos représentations, ou bien de se déterminer soi-même à la production de ces objets (que le pouvoir physique y suffise ou non), c’est-à-dire de déterminer sa causalité.",
+      "sentence_start_char": 483,
       "spacy_pos": "VERB",
       "spacy_tag": "VVINF",
       "spacy_lemma": "bestimmen",
@@ -2687,7 +2692,8 @@
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
       "token_wikisource_translation": "moyen",
-      "token_translation_comment": "The Wikisource translation seems rather surprising. It is probably not a literal one."
+      "token_translation_comment": "The Wikisource translation seems rather surprising. It is probably not a literal one.",
+      "de_sentence_eval": null
     },
     "215": {
       "token_index": 215,
@@ -3823,7 +3829,8 @@
       "sentence_translation_eval": "good",
       "gold_sentence_translation": null,
       "token_wikisource_translation": "règle",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "de_sentence_eval": null
     },
     "319": {
       "token_index": 319,
@@ -4582,7 +4589,9 @@
       "gold_sentence_translation": null,
       "lemma_google_translation": "autocratie",
       "token_wikisource_translation": "souverainté",
-      "token_translation_comment": null
+      "token_translation_comment": null,
+      "de_sentence_eval": null,
+      "undetected_cause": null
     },
     "383": {
       "token_index": 383,
@@ -4801,7 +4810,8 @@
       "gold_sentence_translation": null,
       "lemma_google_translation": "zone",
       "token_wikisource_translation": "sphère",
-      "token_translation_comment": "I would have translated it with \"domaine\". All three propositions, \"sphère\", \"domaine\", \"zone\" have a spacial meaning."
+      "token_translation_comment": "I would have translated it with \"domaine\". All three propositions, \"sphère\", \"domaine\", \"zone\" have a spacial meaning.",
+      "de_sentence_eval": null
     },
     "402": {
       "token_index": 402,
@@ -5181,7 +5191,26 @@
       "status": "added",
       "detection_comment": "",
       "lexical_relevance_comment": "Hard to tell. Seems like a personnification.",
-      "metaphor_comment": null
+      "metaphor_comment": null,
+      "ocr_check": {
+        "Verdacht": {
+          "Droit_Justice": [
+            "Verdacht schöpfen",
+            "jdn außer Verdacht stellen"
+          ],
+          "Lettres": [
+            "finden; unter Verdacht stehen)"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Droit_Justice",
+        "Lettres"
+      ],
+      "undetected_cause": [
+        "only_in_expressions_in_Niemann",
+        "not_in_Niemann"
+      ]
     },
     "382": {
       "token_index": 382,
@@ -5199,9 +5228,23 @@
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": "Also hard, because it seems that this notion of \"souverainté\" is nowadays employed in many contexts, it doesn't seem to be an invention from Kant. Although, it is new, what he applies it to.",
       "status": "added",
-      "detection_comment": "",
+      "detection_comment": "But also not in selected themes",
       "lexical_relevance_comment": null,
-      "metaphor_comment": "Hard to say. There is a shift of domain, since we are not talking about kings and queens."
+      "metaphor_comment": "Hard to say. There is a shift of domain, since we are not talking about kings and queens.",
+      "ocr_check": {
+        "Alleinherrschaft": {
+          "Histoire": [
+            "die Monarchie, n, die Alleinherrschaft |"
+          ]
+        }
+      },
+      "gold_extracted_themes": [
+        "Histoire"
+      ],
+      "undetected_cause": [
+        "extraction_process_from_OCR",
+        "themes_selection"
+      ]
     }
   },
   "no_more_token_to_add": true

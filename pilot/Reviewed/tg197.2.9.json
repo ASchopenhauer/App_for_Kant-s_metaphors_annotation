@@ -4,7 +4,7 @@
   "structure_path": "Vorrede",
   "text": "So viel zur Rechtfertigung, warum in diesem Werke die Begriffe und Grundsätze der reinen spekulativen Vernunft, welche doch ihre besondere Kritik schon erlitten haben, hier hin und wieder nochmals der Prüfung unterworfen werden, welches dem systematischen Gange einer zu errichtenden Wissenschaft sonst nicht wohl geziemet (da abgeurteilte Sachen billig nur angeführt und nicht wiederum in Anregung gebracht werden müssen), doch hier erlaubt, ja nötig war; weil die Vernunft mit jenen Begriffen im Übergange zu einem ganz anderen Gebrauche betrachtet wird, als den sie dort von ihnen machte. Ein solcher Übergang macht aber eine Vergleichung des älteren mit dem neuern Gebrauche notwendig, um das neue Gleis von dem vorigen wohl zu unterscheiden und zugleich den Zusammenhang derselben bemerken zu lassen. Man wird also Betrachtungen dieser Art, unter andern diejenige, welche nochmals auf den Begriff der Freiheit, aber im praktischen Gebrauche der reinen Vernunft, gerichtet worden, nicht wie Einschiebsel betrachten, die etwa nur dazu dienen sollen, um Lücken des kritischen Systems der spekulativen Vernunft auszufüllen (denn dieses ist in seiner Absicht vollständig), und, wie es bei einem übereilten Baue herzugehen pflegt, hintennach noch Stützen und Strebepfeiler anzubringen, sondern als wahre Glieder, die den Zusammenhang des Systems bemerklich machen, und Begriffe, die dort nur problematisch vorgestellt werden konnten, jetzt in ihrer realen Darstellung einsehen zu lassen. Diese Erinnerung geht vornehmlich den Begriff der Freiheit an, von dem man mit Befremdung bemerken muß, daß noch so viele ihn ganz wohl einzusehen und die Möglichkeit derselben erklären zu können sich rühmen, indem sie ihn bloß in psychologischer Beziehung betrachten, indessen daß, wenn sie ihn vorher in transzendentaler genau erwogen hätten, sie so wohl seine Unentbehrlichkeit, als problematischen Begriffs, in vollständigem Gebrauche der spekulativen Vernunft, als auch die völlige Unbegreiflichkeit desselben hätten erkennen, und, wenn sie nachher mit ihm zum praktischen Gebrauche gingen, gerade auf die nämliche Bestimmung des letzteren in Ansehung seiner Grundsätze von selbst hätten kommen müssen, zu welcher sie sich sonst so ungern verstehen wollen. Der Begriff der Freiheit ist der Stein des Anstoßes für alle Empiristen, aber auch der Schlüssel zu den erhabensten praktischen Grundsätzen für kritische Moralisten, die dadurch einsehen, daß sie notwendig rational verfahren müssen. Um deswillen ersuche ich den Leser, das, was zum Schlusse der Analytik über diesen Begriff gesagt wird, nicht mit flüchtigem Auge zu übersehen.",
   "wikisource_translation": "Cela explique assez pourquoi, dans cet ouvrage, nous avons soumis à un nouvel examen les concepts et les principes de la raison pure spéculative, qui avaient déjà subi leur critique particulière, et comment ce qui ne convient nullement ailleurs à la marche systématique d’une science qu’on veut constituer (les choses jugées pouvant bien être rappelées, mais ne devant pas être remises en question) était ici permis et même nécessaire. La raison en effet est considérée comme faisant ici de ces concepts un tout autre usage que là. Or ce passage à un nouvel usage nous impose la nécessité de comparer l’ancien au nouveau, afin de bien distinguer la nouvelle sphère de l’ancienne, et d’en faire remarquer aussi l’enchaînement. Il ne faut donc pas regarder les considérations de ce genre, et, entre autres, celles qui se rapportent au concept de la liberté, au point de vue pratique de la raison pure, comme des épisodes destinés seulement à combler les lacunes du système critique de la raison spéculative (car ce système est complet à son point de vue), ou comme faisant l’office de ces étais et de ces arcs-boutants qu’on ajoute à un édifice trop précipitamment construit, mais comme de véritables membres, qui font voir la liaison des parties du système et montrent dans leur exhibition réelle des concepts qu’on n’avait pu présenter auparavant que d’une manière problématique. Cette observation s’applique surtout au concept de la liberté. N’est-il pas étonnant de voir tant d’hommes se vanter de connaître à fond ce concept et de pouvoir en expliquer la possibilité, sans sortir du point de vue psychologique ? S’ils l’avaient d’abord examiné soigneusement au point de vue transcendental, ils auraient reconnu que ce concept, indispensable, comme concept problématique, à l’usage accompli de la raison spéculative, est aussi entièrement incompréhensible, et, en passant ensuite à l’usage pratique de ce concept, ils seraient arrivés d’eux-mêmes à le déterminer relativement à ses principes, comme nous le faisons ici à leur grand déplaisir. Le concept de la liberté est une pierre d’achoppement pour tous les empiriques, mais c’est aussi la clef des principes pratiques les plus sublimes pour les moralistes critiques, qui voient par là combien il est nécessaire de procéder rationnellement. C’est pour quoi je prie le lecteur de ne pas passer légèrement sur ce qui est dit de ce concept à la fin de l’analytique.",
-  "translation_is_correctly_aligned": "true",
+  "translation_is_correctly_aligned": true,
   "n_tokens": 431,
   "n_detected_tokens": 14,
   "page_number_of_paper_translation": null,
@@ -387,7 +387,12 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null,
+      "lemma_google_translation": "souffrir",
+      "token_wikisource_translation": "subi",
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "27": {
       "token_index": 27,
@@ -603,7 +608,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": "good",
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "43": {
       "token_index": 43,
@@ -846,7 +852,12 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null,
+      "lemma_google_translation": "bon marché",
+      "token_wikisource_translation": " ",
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "54": {
       "token_index": 54,
@@ -1575,7 +1586,10 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null,
+      "lemma_google_translation": "piste",
+      "undetected_cause": null
     },
     "119": {
       "token_index": 119,
@@ -2089,7 +2103,18 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "épisodes"
+      "token_wikisource_translation": "épisodes",
+      "de_sentence_eval": null,
+      "token_translation_comment": null,
+      "lexical_search": {
+        "Einschiebsel": {
+          "is_in_wiktionary": false,
+          "is_in_dwds": true,
+          "dwds_historical_corpora_occurrences": null,
+          "dwb_entries": 1
+        }
+      },
+      "undetected_cause": null
     },
     "165": {
       "token_index": 165,
@@ -2252,7 +2277,10 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "lacunes"
+      "token_wikisource_translation": "lacunes",
+      "de_sentence_eval": null,
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "177": {
       "token_index": 177,
@@ -2468,7 +2496,12 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null,
+      "undetected_cause": null,
+      "lemma_google_translation": "précipité",
+      "token_wikisource_translation": "trop précipitamment",
+      "token_translation_comment": null
     },
     "200": {
       "token_index": 200,
@@ -2496,7 +2529,9 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "édifice"
+      "token_wikisource_translation": "édifice",
+      "de_sentence_eval": null,
+      "token_translation_comment": null
     },
     "201": {
       "token_index": 201,
@@ -2632,7 +2667,10 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "étais"
+      "token_wikisource_translation": "étais",
+      "de_sentence_eval": null,
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "208": {
       "token_index": 208,
@@ -2660,7 +2698,10 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "arcs-boutants"
+      "token_wikisource_translation": "arcs-boutants",
+      "de_sentence_eval": null,
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "209": {
       "token_index": 209,
@@ -2741,7 +2782,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": "good",
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "218": {
       "token_index": 218,
@@ -3525,7 +3567,10 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "se vanter"
+      "token_wikisource_translation": "se vanter",
+      "de_sentence_eval": null,
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "283": {
       "token_index": 283,
@@ -4632,7 +4677,8 @@
       "n_non_selected_themes": 2,
       "status": "auto",
       "sentence_translation_eval": "good",
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "375": {
       "token_index": 375,
@@ -4741,7 +4787,10 @@
       "status": "auto",
       "sentence_translation_eval": null,
       "gold_sentence_translation": null,
-      "token_wikisource_translation": "clef"
+      "token_wikisource_translation": "clef",
+      "de_sentence_eval": null,
+      "token_translation_comment": null,
+      "undetected_cause": null
     },
     "386": {
       "token_index": 386,
@@ -5227,7 +5276,8 @@
       "n_non_selected_themes": 0,
       "status": "auto",
       "sentence_translation_eval": "good",
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "427": {
       "token_index": 427,
@@ -5254,7 +5304,8 @@
       "n_non_selected_themes": 1,
       "status": "auto",
       "sentence_translation_eval": null,
-      "gold_sentence_translation": null
+      "gold_sentence_translation": null,
+      "de_sentence_eval": null
     },
     "429": {
       "token_index": 429,
@@ -5319,7 +5370,8 @@
       "metaphor_comment": null,
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": "Does't strike as new. Same as the french \"la marche de l'histoire\". ",
-      "status": "auto"
+      "status": "auto",
+      "lexical_relevance_comment": null
     },
     "96": {
       "token_index": 96,
@@ -5409,7 +5461,8 @@
       "metaphor_comment": "\"als\"",
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": null,
-      "status": "auto"
+      "status": "auto",
+      "lexical_relevance_comment": null
     },
     "222": {
       "token_index": 222,
@@ -5463,7 +5516,8 @@
       "metaphor_comment": null,
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": "It is rather hard to tell, but it does come often in Kant’s work. Touchstone in english.",
-      "status": "auto"
+      "status": "auto",
+      "lexical_relevance_comment": null
     },
     "388": {
       "token_index": 388,
@@ -5517,7 +5571,8 @@
       "metaphor_comment": null,
       "is_lexical_metaphor": null,
       "lexical_metaphor_comment": "We have the same in french: “yeux fuyants”",
-      "status": "auto"
+      "status": "auto",
+      "lexical_relevance_comment": null
     },
     "427": {
       "token_index": 427,
@@ -5535,7 +5590,8 @@
       "metaphor_comment": null,
       "is_lexical_metaphor": true,
       "lexical_metaphor_comment": null,
-      "status": "auto"
+      "status": "auto",
+      "lexical_relevance_comment": null
     },
     "24": {
       "token_index": 24,
@@ -5545,16 +5601,45 @@
       "spacy_lemma_is_correct": null,
       "gold_pos": null,
       "gold_lemma": null,
-      "is_lexically_relevant": null,
+      "is_lexically_relevant": true,
       "is_context_shifted": null,
       "contributes_to_a_textual_image": null,
       "textual_image_comment": null,
       "is_metaphorical": null,
-      "is_lexical_metaphor": null,
-      "lexical_metaphor_comment": null,
+      "is_lexical_metaphor": true,
+      "lexical_metaphor_comment": "Maybe. See the expression “eine Kritik erleiden”. See also all the expression in which it occurs in the OCR files of the Niemann.",
       "status": "added",
       "metaphor_comment": null,
-      "detection_comment": ""
+      "detection_comment": "Extraction process of the thematic terms from the OCR files: First of all, it is a strong verb which will be accompanied by its derivation marks. Secondly, the verb is always given in an expression, in the compagny of a noun (sign of a lexical metaphor?). It would have making it thus hard to extract it, as we do not want to extract expressions in general, at least for now.",
+      "ocr_check": {
+        "erleiden": {
+          "Homme_Santé_Médecine": [
+            "einen Unfall erleiden, i, i"
+          ],
+          "Sciences_politiques": [
+            "eine Wahlniederlage erleiden, i, i/",
+            "schwere Verluste erleiden, i, i",
+            "eine Niederlage erleiden, i, |"
+          ],
+          "Transport_Tourisme": [
+            "Schiffbruch erleiden, i, i"
+          ],
+          "Vie_économique": [
+            "eine Havarie erleiden, i, i"
+          ]
+        }
+      },
+      "lexical_relevance_comment": null,
+      "syntactic_group_quality": "rather_good",
+      "undetected_cause": [
+        "only_in_expressions_in_Niemann"
+      ],
+      "gold_extracted_themes": [
+        "Homme_Santé_Médecine",
+        "Sciences_politiques",
+        "Transport_Tourisme",
+        "Vie_économique"
+      ]
     },
     "53": {
       "token_index": 53,
@@ -5573,7 +5658,27 @@
       "lexical_metaphor_comment": null,
       "status": "added",
       "metaphor_comment": null,
-      "detection_comment": ""
+      "detection_comment": "Could have been detected in the theme “Droit_Justice” with the improvements to think: extraction of several adjectives given on the same line.",
+      "ocr_check": {
+        "billig": {
+          "Droit_Justice": [
+            "ungerecht ; gerecht, billig"
+          ],
+          "Sciences_humaines": [
+            "etw billigen"
+          ],
+          "Transport_Tourisme": [
+            "die billige Flagge"
+          ]
+        }
+      },
+      "lexical_relevance_comment": "Likely, but here it is probably a particle.",
+      "undetected_cause": [
+        "extraction_process_from_OCR"
+      ],
+      "gold_extracted_themes": [
+        "Droit_Justice"
+      ]
     },
     "116": {
       "token_index": 116,
@@ -5592,7 +5697,22 @@
       "lexical_metaphor_comment": "Most likely. We have the same in french.",
       "status": "added",
       "metaphor_comment": null,
-      "detection_comment": ""
+      "detection_comment": "Theme “Transport_Tourisme” to select.",
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "ocr_check": {
+        "Gleis": {
+          "Transport_Tourisme": [
+            "das Gleis, e",
+            "das Gleis, e",
+            "die Gleiswaage, n",
+            "das Gleis, e",
+            "die Gleiswaage, n"
+          ]
+        }
+      }
     },
     "164": {
       "token_index": 164,
@@ -5611,7 +5731,17 @@
       "lexical_metaphor_comment": null,
       "status": "added",
       "metaphor_comment": null,
-      "detection_comment": ""
+      "detection_comment": "Not in the Niemann. Not in the Wiktionary but in the DWDS.",
+      "ocr_check": {
+        "Einschiebsel": {},
+        "Einschieb": {},
+        "einschieb": {}
+      },
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "not_in_Niemann"
+      ],
+      "gold_extracted_themes": []
     },
     "175": {
       "token_index": 175,
@@ -5630,7 +5760,25 @@
       "lexical_metaphor_comment": "If we think of a hole, \"trou\", then it appears metaphorical. But translated as \"lacune\" , \"manque\", or \"vide\", it is already less surprising.",
       "status": "added",
       "metaphor_comment": null,
-      "detection_comment": ""
+      "detection_comment": "Themes selection",
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "ocr_check": {
+        "Lücke": {
+          "Information_Communication": [
+            "die Lücke, n"
+          ],
+          "Sciences_humaines": [
+            "die Lücken aus-füllen",
+            "eine große Lücke reißen (in +A)"
+          ],
+          "Sport": [
+            "die Lücke, n"
+          ]
+        }
+      }
     },
     "199": {
       "token_index": 199,
@@ -5649,7 +5797,97 @@
       "lexical_metaphor_comment": null,
       "status": "added",
       "metaphor_comment": null,
-      "detection_comment": ""
+      "detection_comment": "Complex form derived from the verb “eilen”",
+      "ocr_check": {
+        "übereilt": {},
+        "übereilen": {},
+        "übereil": {},
+        "eilen": {
+          "Arts": [
+            "fallen, ie, a, ä ‚sich teilen",
+            "die Rollen verteilen 5"
+          ],
+          "Droit_Justice": [
+            "jdn verurteilen (zu)",
+            "in Abwesenheit verurteilen",
+            "verurteilen",
+            "Bewährung verurteilen",
+            "Bewährung verurteilen",
+            "jdn zum Tode verurteilen",
+            "Flugblätter np/ verteilen"
+          ],
+          "Histoire": [
+            "zerstückeln ; (auf-)teilen"
+          ],
+          "Information_Communication": [
+            "das Zeilenhonorar, e",
+            "der Journalist mit Zeilenhonorar",
+            "etwas in Schlagzeilen bringen, a, a",
+            "eine Fünf-Zeilen-Notiz",
+            "der Abbau von Vorurteilen",
+            "de Zeilennorm",
+            "unterteilen (in+A)",
+            "30 Zeilen pro Seite",
+            "der Zeilenabstand",
+            "der Zeilenzwischenraum, '@",
+            "die Zeilensetzmaschine,",
+            "der Zeilenschalter, -"
+          ],
+          "Lettres": [
+            "urteilen über + A, beurteilen",
+            "in Akte ein-teilen",
+            "der Zeilensprung, \"e",
+            "lässt sich in drei Teile unterteilen"
+          ],
+          "Sciences_exactes": [
+            "dividieren/teilen (durch+A)"
+          ],
+          "Sciences_humaines": [
+            "über etw urteilen, etw beurteilen",
+            "eine Klasse teilen",
+            "einen Tadel erteilen",
+            "jdn an-peilen (fam)",
+            "sich langweilen",
+            "jdn langweilen",
+            "die Karten geben, a, e, |, aus-teilen",
+            "jdm etw mit-teilen",
+            "mit-teilen, dass ...",
+            "amtlich mit-teilen",
+            "dm das Wort erteilen, entziehen, 0, o",
+            "eine Meinung teilen"
+          ],
+          "Sciences_politiques": [
+            "jdm einen Befehl erteilen",
+            "einen Befehl verteilen",
+            "jdm einen Auftrag erteilen"
+          ],
+          "Sport": [
+            "sich an-seilen",
+            "das Abseilen"
+          ],
+          "Urbanisme": [
+            "jdm den Zuschlag erleilen",
+            "feilen",
+            "das Miteigentum nach Bruchteilen"
+          ],
+          "Vie_économique": [
+            "jdm die Prokura erteilen",
+            "verteilen",
+            "die Entlastung erteilen, verweigern",
+            "erteilen",
+            "eine Streikanweisung erteilen"
+          ],
+          "Zoologie_Botanique": [
+            "stiolieren*, vergeilen*"
+          ]
+        }
+      },
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "not_in_Niemann",
+        "derived_form"
+      ],
+      "gold_extracted_themes": []
     },
     "200": {
       "token_index": 200,
@@ -5668,7 +5906,246 @@
       "lexical_metaphor_comment": null,
       "status": "added",
       "metaphor_comment": "No, presence of \"wie\", that introduces an explicit comparison or analogy.",
-      "detection_comment": "False lemma, thus unable to find in the Niemann themes."
+      "detection_comment": "False lemma, thus unable to find in the Niemann themes. The gold lemma is in the theme “Zoologie”, it would have thus been found!",
+      "ocr_check": {
+        "Baue": {
+          "Agriculture": [
+            "der Bauer, n, n ; die Bäuerin, nen",
+            "der Bauernstand",
+            "der Bauerntölpel, -, der ungshobelte",
+            "der Bauernhof, \"e"
+          ],
+          "Alimentation": [
+            "das Roggenbrot/Bauernbrot",
+            "das Bauernomelett",
+            "Bauernfrühstück n"
+          ],
+          "Histoire": [
+            "der Bauernkrieg (1525)"
+          ],
+          "Sciences_humaines": [
+            "der Turm, \"a ; der Bauer, n,n"
+          ],
+          "Transport_Tourisme": [
+            "> Ferien auf dem Bauernhof machen"
+          ],
+          "Urbanisme": [
+            "das Bauerwartungsland"
+          ]
+        },
+        "bau": {
+          "Agriculture": [
+            "der Nebenerwerbsbauer, n, n",
+            "der Kuhbauer, n (pej)",
+            "der Massenanbau von Gemüse",
+            "die Anbaubeschränkung",
+            "der biologische Landbau",
+            "der Anbau verschiedener Pflanzen",
+            "der Anbau, die Bestellung",
+            "an-bauen, bebauen, bestellen",
+            "ein anbaufähiger Boden",
+            "ein bebauter Boden",
+            "die Anbaufläche, n",
+            "nicht anbaufähig",
+            "der Gartenbau, die Gärtnerei",
+            "der Gemüse(an)bau",
+            "der Weinbau",
+            "der Weinbaubetrieb, &",
+            "die Weinbauzone, n (EU)",
+            "das Weinbaugebiet, e",
+            "die Weinbaukcartei, en",
+            "die Weinbaufläche, n,",
+            "der Obst(an)bau",
+            "der Ausbau des Weines",
+            "der Säureabbau, die Entsäuerung",
+            "Er ist abgebaut.",
+            "der Waldbau",
+            "der Raubbau",
+            "Raubbau treiben"
+          ],
+          "Alimentation": [
+            "der Schweinebauch",
+            "der Bierbauch (fam)",
+            "Anbaugebiete (QbA)",
+            "im Weinanbaugebiet abgefüllt"
+          ],
+          "Arts": [
+            "der Aufbau",
+            "bauen",
+            "der Steinbau",
+            "der Backsteinbau",
+            "der Holzbau",
+            "der Stahlbetonbau",
+            "der Stahlskelettbau",
+            "der Sakralbau",
+            "der Rundbau, ten",
+            "der Profanbau",
+            "der Geigenbau ; der Geigenbauer, -",
+            "der Klavierbauer, -",
+            "das Farbfoto/die Farbaufnahme",
+            "der Modellbauer, -"
+          ],
+          "Histoire": [
+            "der Wiederaufbau"
+          ],
+          "Homme_Santé_Médecine": [
+            "der Körperbau",
+            "gut gebaut",
+            "schmächtig, schlecht gebaut",
+            "der Knochenbau",
+            "kräftig gebaut",
+            "krumm und schief gebaut"
+          ],
+          "Information_Communication": [
+            "der Abbau von Vorurteilen",
+            "übertreiben, auf-bauschen",
+            "der Aufbau"
+          ],
+          "Lettres": [
+            "die Erbauunggsliteratur ; erbaulich",
+            "der Aufbau",
+            "der Satzbauplan, \"e/der Satzplan/",
+            "der Satzbau"
+          ],
+          "Monde": [
+            "der Bergbau",
+            "etw fördern/ab-bauen (Erz)",
+            "der Abbau",
+            "der Tagebau",
+            "der Untertagebau",
+            "der Maschinenbau",
+            "biologisch abbaubar/zersetzbar",
+            "nicht abbaubar/nicht zersetzbar"
+          ],
+          "Sciences_humaines": [
+            "der Intelligenzabbau",
+            "der Mittelbau",
+            "der Aufbau des Studiums",
+            "das Aufbaustudium",
+            "der Aufbaustudiengang, \"e",
+            "(einjähriges Aufbaustudium)",
+            "der Stammbaum, \"e,",
+            "der Weihnachtsbaum. \"e",
+            "eine Sandburg bauen",
+            "der Modellbau"
+          ],
+          "Sciences_politiques": [
+            "der Zollabbau R",
+            "der Brückenbaupionier"
+          ],
+          "Sport": [
+            "der Gabelbaum, \"e"
+          ],
+          "Transport_Tourisme": [
+            "der Karrosseriebauer, -",
+            "demontieren, aus-bauen",
+            "der Lademast, -baum, -pfosten",
+            "der Schiffsbau",
+            "der Schiffbauingenieur, e",
+            "ein Zeit auf-bauen",
+            "ein Zelt ab-bauen"
+          ],
+          "Urbanisme": [
+            "das Stadtbauamt, \"er,",
+            "die Stadtplanung, der Städtebau",
+            "der Bebauungsplan, \"e",
+            "das Straßenbauamt",
+            "der öffentliche Bau und Verkehrsbau",
+            "der Hoch- und Tiefbau",
+            "der Tiefbau",
+            "die Altbausanierung, en",
+            "die Altbauten mp!",
+            "ein baufälliges Gebäude",
+            "das unbebaute Grundstück",
+            "ein bebautes Grundstück",
+            "der Rohbau",
+            "bauen",
+            "wieder auf-bauen",
+            "der Hausbau",
+            "der Bebauungsplan",
+            "der soziale Wohnungsbau",
+            "der Glasbaustein",
+            "der Betonbau, ten",
+            "die Ziegelbauweise",
+            "die Mauern bauen",
+            "der Neubau",
+            "der Altbau",
+            "der Großbaukomplex, e",
+            "die Anbaumöbel (pl)",
+            "die Anbauküche",
+            "der Einschraubautomat, en, en",
+            "der soziale Wohnungsbau",
+            "Die Aussicht ist verbaut."
+          ],
+          "Vie_économique": [
+            "in Lizenz bauen",
+            "die Bergbauindustrie",
+            "der Kohlenbergbau",
+            "der Maschinenbau",
+            "der Schiffbau",
+            "Personal ab-bauen",
+            "der Sozialabbau"
+          ],
+          "Zoologie_Botanique": [
+            "der Gartenbaumläufer, -",
+            "der Stammbaum eines Hundes",
+            "der Fuchsbau, e",
+            "der Waldbaum, \"e",
+            "der Götterbaum, \"e",
+            "der Judasbaum",
+            "der Affenbrotbaum/der Baobab, s",
+            "der Gelbe Trompetenbaum, \"e",
+            "der Weiße Maulbeerbaum, \"e",
+            "der (Wal\\nussbaum",
+            "der Mangrove(n)baum, \"e",
+            "der Sandelbaum, \"&",
+            "der Mammuthbaum, \"e",
+            "der Vogelbeerbaum",
+            "die Thuja, jen/der Lebensbaum",
+            "der Tulpenbaum",
+            "der Erdbeerbaum, \"e",
+            "der Buchsbaum, \"e",
+            "der Johannisbrotbaum, \"@",
+            "der Spindelbaum,",
+            "der Ölbaumtrichterling",
+            "der Faulbaum, \"e/das Pulverholz",
+            "der Mangobaum",
+            "der Pfirsichbaum ; der Pfirsich, e",
+            "der Birnbaum, \"e ; die Birne, n",
+            "der Apfelbaum ; der Apfel,”",
+            "der Pflaumenbaum ; die Pflaume, n",
+            "der Zitronenbaum, \"e ;.die Zitrone, n",
+            "der Gemüse(an)bau",
+            "der Obstbaum, \"e",
+            "der Aprikosenbaum ; die Aprikose, n",
+            "der Mandelbaum ; die Mandel, n",
+            "der Kirschbaum",
+            "der Quittenbaum ; die Quitte, n",
+            "der Feigenbaum ; die Feige, n",
+            "der Bonzaibaum, \"e/das Bonsai, s",
+            "der Gummibaum, \"e",
+            "der Obstbaum, \"e",
+            "der Aprikosenbaum ; die Aprikose, n |",
+            "der Mandelbaum ; die Mandel, n",
+            "der Kirschbaum",
+            "der Quittenbaum ; die Quitte, n",
+            "der Feigenbaum ; die Feige, n",
+            "der Ölbaum, \"e ; die Olive, n"
+          ]
+        }
+      },
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "lemmatisation"
+      ],
+      "themes_gold_lemma": [
+        "Urbanisme",
+        "Zoologie"
+      ],
+      "gold_extracted_themes": [
+        "Urbanisme",
+        "Zoologie"
+      ]
     },
     "206": {
       "token_index": 206,
@@ -5687,7 +6164,21 @@
       "lexical_metaphor_comment": null,
       "status": "added",
       "metaphor_comment": "Comparison or analogy, explicitely introduced by \"wie\".",
-      "detection_comment": ""
+      "detection_comment": "Would have been detected because in the selected themes",
+      "ocr_check": {
+        "Stütze": {
+          "Agriculture": [
+            "der Pfahl, \"e, die Stütze, n"
+          ]
+        }
+      },
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "extraction_process_from_OCR"
+      ],
+      "gold_extracted_themes": [
+        "Agriculture"
+      ]
     },
     "208": {
       "token_index": 208,
@@ -5706,7 +6197,18 @@
       "lexical_metaphor_comment": null,
       "status": "added",
       "metaphor_comment": "Comparison or analogy, explicitely introduced by \"wie\".",
-      "detection_comment": "Niemann Theme not selected! That's all. Should we select the theme \"Arts\", we would have detected this token. There is probably a subsection \"Architecture\" in the theme \"Arts\"."
+      "detection_comment": "Niemann Theme not selected! That's all. Should we select the theme \"Arts\", we would have detected this token. There is probably a subsection \"Architecture\" in the theme \"Arts\".",
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "themes_selection"
+      ],
+      "ocr_check": {
+        "Strebepfeiler": {
+          "Arts": [
+            "der Strebepfeiler, -"
+          ]
+        }
+      }
     },
     "278": {
       "token_index": 278,
@@ -5725,7 +6227,15 @@
       "lexical_metaphor_comment": null,
       "status": "added",
       "metaphor_comment": null,
-      "detection_comment": ""
+      "detection_comment": "",
+      "ocr_check": {
+        "rühmen": {}
+      },
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "not_in_Niemann"
+      ],
+      "gold_extracted_themes": []
     },
     "383": {
       "token_index": 383,
@@ -5744,7 +6254,64 @@
       "lexical_metaphor_comment": "It seems rather familiar, as in french \"être la clef de quelque chose\".",
       "status": "added",
       "metaphor_comment": null,
-      "detection_comment": "Niemann Theme not selected. Should we select the theme \"Urbanisme\", we would have detected this token."
+      "detection_comment": "Niemann Theme not selected. Should we select the theme \"Urbanisme\", we would have detected this token.",
+      "lexical_relevance_comment": null,
+      "undetected_cause": [
+        "themes_selection",
+        "in_compounds_in_Niemann"
+      ],
+      "ocr_check": {
+        "Schlüssel": {
+          "Homme_Santé_Médecine": [
+            "das Schlüsselbein, e"
+          ],
+          "Lettres": [
+            "der Schlüsselroman"
+          ],
+          "Transport_Tourisme": [
+            "das Schlüsselbrett"
+          ],
+          "Urbanisme": [
+            "der Schlüssel, -",
+            "der/das Schlüsselbund, e",
+            "die Übergabe der Schlüssel"
+          ],
+          "Zoologie_Botanique": [
+            "die Schlüsselblume, n/die Primel, n",
+            "die Duftende Schlüsselblume I"
+          ]
+        },
+        "schlüssel": {
+          "Arts": [
+            "der Bassschlüssel",
+            "der Violinschlüssel, -"
+          ],
+          "Droit_Justice": [
+            "der Nachschlüssel",
+            "einen Nachschlüssel benutzen"
+          ],
+          "Information_Communication": [
+            "verschlüsseln"
+          ],
+          "Sciences_exactes": [
+            "die Verschlüsselung, en",
+            "die Entschlüsselung, en"
+          ],
+          "Transport_Tourisme": [
+            "der Zündschlüssel, -",
+            "der Gabel-, Ringschlüssel, -",
+            "der verstellbare Schraubenschlüssel",
+            "der Kerzenschlüssel",
+            "der Zimmerschlüssel, -"
+          ],
+          "Urbanisme": [
+            "der Steckschlüssel, -",
+            "der Schraubenschlüssel",
+            "der Gabelschlüssel",
+            "der Ringschlüssel"
+          ]
+        }
+      }
     }
   },
   "no_more_token_to_add": true
