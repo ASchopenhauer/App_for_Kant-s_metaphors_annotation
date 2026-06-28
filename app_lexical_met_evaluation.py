@@ -858,7 +858,8 @@ if uploaded_file:
     div[data-testid="stDownloadButton"] button {
         position: fixed;
         bottom: 20px;
-        right: 20px;
+        left: 50%;   
+        transform: translateX(-50%);
         z-index: 9999;
         width: auto;
 
