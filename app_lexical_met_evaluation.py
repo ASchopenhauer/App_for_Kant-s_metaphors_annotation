@@ -827,7 +827,8 @@ if uploaded_file:
                     elif token["themes"] not in ["", "No entry found."]:
                         default_themes.extend(st.session_state.themes_by_word[token["spacy_lemma"]])
 
-                    selected = token_annotation.get("gold_extracted_themes") if token_annotation.get("gold_extracted_themes") is not None else default_themes
+                    #selected = token_annotation.get("gold_extracted_themes") if token_annotation.get("gold_extracted_themes") is not None else default_themes
+                    selected = token_annotation.get("gold_extracted_themes") if token_annotation.get("gold_extracted_themes") else default_themes
                     
                     token_annotation["gold_extracted_themes"] = sorted(st.multiselect(
                         "Gold extracted themes", 
